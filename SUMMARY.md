@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenue](README.md)
+* [Centre d'aide ingeneo](README.md)
 * [GESTION DES ENTREPRISES](gestion-des-entreprises/README.md)
   * [Créer une entreprise](gestion-des-entreprises/creer-une-entreprise.md)
   * [Paramétrages généraux](gestion-des-entreprises/parametrages-generaux.md)
