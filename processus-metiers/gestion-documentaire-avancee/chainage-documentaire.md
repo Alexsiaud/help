@@ -30,7 +30,7 @@ Le chaînage documentaire vous permet de rapprocher automatiquement deux documen
 Assurez-vous d'avoir correctement configuré vos classeurs avant de procéder au chaînage
 {% endhint %}
 
-### **Critères obligatoires :**
+**Critères obligatoires :**
 
 * Disposer des droits pour créer des classeurs
 * Avoir identifié les types de documents à chaîner

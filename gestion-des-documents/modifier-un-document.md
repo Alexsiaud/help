@@ -55,7 +55,7 @@ Les modifications effectuées ne seront sauvegardées qu'après avoir cliqué su
 
 ***
 
-### **Vidéos interactives** 💡
+### <sup>**Vidéos interactives**</sup> <sup></sup><sup>💡</sup>
 
 Fusion de document :
 

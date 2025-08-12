@@ -85,6 +85,6 @@ Ces éléments peuvent être créés directement depuis votre saisie sans passer
 
 **Limitation de synchronisation** : La synchronisation avec les logiciels comptables n'est disponible que si l'interconnexion est techniquement supportée pour votre logiciel spécifique.
 
-### **Vidéo interactive** : Synchronisation des référentiels comptable 💡
+### <sup>**Vidéo interactive**</sup> <sup></sup><sup>: Synchronisation des référentiels comptable 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/oDMS1sZpPjnSFvnF01Ha" flowId="oDMS1sZpPjnSFvnF01Ha" %}

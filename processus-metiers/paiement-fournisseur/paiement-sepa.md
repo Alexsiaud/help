@@ -36,7 +36,7 @@ Les droits des utilisateurs (**profils de site** ou d’**entreprise**) sont sci
 
 ***
 
-### **Paramétrer les classeurs**
+### <sup>**Paramétrer les classeurs**</sup>
 
 {% hint style="warning" %}
 Cette configuration détermine qui peut mettre au paiement et qui peut effectuer les paiements. Une mauvaise attribution des droits peut créer des risques de sécurité.

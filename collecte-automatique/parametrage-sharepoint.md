@@ -20,7 +20,7 @@ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" flowId="7zXHcTuYxlw1H4A2fhum" %}
 
@@ -33,7 +33,7 @@ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la
 
 ***
 
-## **Créer le canal de collecte SharePoint**
+### <sup>**Créer le canal de collecte SharePoint**</sup>
 
 1. Depuis votre interface, rendez-vous dans **Entreprise** puis sélectionnez l'entreprise concernée.
 2. Cliquez sur **Collecte** puis sur **Ajouter**
@@ -48,12 +48,12 @@ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la
 **Sans validation de la connexion SharePoint, le canal ne pourra pas collecter de documents.**
 {% endhint %}
 
-### **Si vous avez les identifiants SharePoint :**
+**Si vous avez les identifiants SharePoint :**
 
 1. Renseignez les champs de connexion dans la fenêtre qui s'est ouverte
 2. Validez la connexion
 
-### **Si vous n'avez pas les identifiants :**
+**Si vous n'avez pas les identifiants :**
 
 1. Créez l'utilisateur dans Paramètres / Utilisateurs si nécessaire
 2. Cliquez sur **Cliquer-ici pour envoyer une demande de connexion à un utilisateur**
@@ -66,12 +66,12 @@ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la
 
 ***
 
-## **Questions fréquentes**
+### <sup>**Questions fréquentes**</sup>
 
-### **Vous ne trouvez pas l'utilisateur dans la liste ?**
+**Vous ne trouvez pas l'utilisateur dans la liste ?**
 
 Créez-le dans le menu Administration de votre entreprise, puis cliquez sur **+** pour créer un nouvel utilisateur.
 
-### **Vous voulez consulter l'historique des collectes ?**
+**Vous voulez consulter l'historique des collectes ?**
 
 Rendez-vous dans **menu Collecte** puis cliquez sur **Historique** pour voir tous les documents réceptionnés.
