@@ -16,6 +16,7 @@ Seul un profil **initiateur** dans un circuit de validation d’engagement de d�
 
 {% hint style="info" %}
 Vérifiez que le budget est suffisant avant de soumettre.
+{% endhint %}
 
 Procédez comme suit :
 
@@ -31,7 +32,6 @@ Procédez comme suit :
 8. Joignez les pièces justificatives si nécessaire
 9. Vérifiez l'état du budget avec le curseur visuel
 10. Cliquez sur **Enregistrer et soumettre**
-{% endhint %}
 
 {% hint style="info" %}
 Vous pouvez créer les articles à la volée dans le tableau de la commande.
@@ -47,6 +47,7 @@ Le bon de commande est maintenant visible dans vos engagements avec son statut d
 
 {% hint style="info" %}
 Une validation fait passer l'engagement au niveau suivant et ne peut être annulée par l’initiateur.
+{% endhint %}
 
 Procédez comme suit :
 
@@ -57,7 +58,6 @@ Procédez comme suit :
    * **Refuser** : Renvoie au niveau précédent (obligation de renseigner un commentaire)
    * **Modifier** : Permet les corrections avant validation
 4. Consultez l'historique si nécessaire
-{% endhint %}
 
 {% hint style="info" %}
 Les documents validés sont consultables dans le menu **Rechercher**.

@@ -8,9 +8,9 @@ hidden: true
 
 {% hint style="success" %}
 Seul un utilisateur avec le droit [**Autoriser l’accès au paramétrage de la comptabilité**](../administration/detail-des-droits.md) peut configurer les informations comptables.
+{% endhint %}
 
 Ces configurations impactent directement les automatisations de vos saisies comptables.
-{% endhint %}
 
 ***
 
@@ -30,9 +30,7 @@ Ces configurations impactent directement les automatisations de vos saisies comp
 
 ### <sup>**Préparer l'environnement**</sup>
 
-{% hint style="info" %}
 **Impact critique** : Une mauvaise configuration peut compromettre l’export vers le logiciel comptable
-{% endhint %}
 
 **Critères obligatoires avant configuration :**
 

@@ -36,17 +36,13 @@ Les référentiels comptables constituent la base de données de votre entrepris
 
 ### <sup>**Préparer l'environnement**</sup>
 
-{% hint style="info" %}
 **Impact critique** : Des référentiels mal configurés peuvent compromettre la qualité des automatisations et nécessiter des corrections manuelles importantes sur vos saisies.
-{% endhint %}
 
 ***
 
 ### <sup>**Accéder aux référentiels comptables**</sup>
 
-{% hint style="info" %}
 **Navigation spécifique** : L'accès se fait depuis l'édition de votre entreprise
-{% endhint %}
 
 ### <sup>**Paramétrer les référentiels**</sup>
 
@@ -85,13 +81,9 @@ Ces éléments peuvent être créés directement depuis votre saisie sans passer
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
 **Cohérence des données** : Toute modification des référentiels doit être cohérente avec vos obligations comptables et fiscales.
-{% endhint %}
 
-{% hint style="info" %}
 **Limitation de synchronisation** : La synchronisation avec les logiciels comptables n'est disponible que si l'interconnexion est techniquement supportée pour votre logiciel spécifique.
-{% endhint %}
 
 ### **Vidéo interactive** : Synchronisation des référentiels comptable 💡
 

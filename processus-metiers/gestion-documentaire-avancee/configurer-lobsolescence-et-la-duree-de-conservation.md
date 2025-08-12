@@ -22,13 +22,13 @@ La configuration de l'obsolescence et de la durée de conservation permet de gé
 
 {% hint style="info" %}
 Une mauvaise configuration peut entraîner la suppression ou l'archivage non désiré de documents importants.
+{% endhint %}
 
 **Critères obligatoires :**
 
 * Définissez précisément les durées d'obsolescence selon vos besoins métier
 * Choisissez les critères de conservation appropriés pour éviter les pertes de données
 * Renseignez-vous sur les durées légales de conservation ou archivage de document (un lien est proposé depuis INGENEO)
-{% endhint %}
 
 ***
 
@@ -36,10 +36,10 @@ Une mauvaise configuration peut entraîner la suppression ou l'archivage non dé
 
 {% hint style="info" %}
 Les paramètres d'obsolescence et de conservation ne pourront plus être modifiés une fois appliqués aux documents existants.
+{% endhint %}
 
 * **Obsolescence** : notifie automatiquement les utilisateurs X jours/mois/années avant l'expiration d'un document.
 * **Durée de conservation** : définit l'action à exécuter (suppression ou archivage) X jours/mois/années après une date de référence (date du document ou dépôt du document).
-{% endhint %}
 
 1. Depuis votre compte, rendez-vous dans l'entreprise concernée, menu plan de classement, processus métier.
 2. Sélectionnez un classeur

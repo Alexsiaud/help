@@ -42,12 +42,12 @@ Assurez-vous d'avoir correctement configuré vos classeurs avant de procéder au
 
 {% hint style="info" %}
 Cette étape est indispensable avant toute configuration de chaînage
+{% endhint %}
 
 1. Depuis votre compte, rendez-vous dans **Entreprises**, puis dans l'édition de l'entreprise concernée.
 2. Sélectionnez **Plan de classement**, puis cliquez sur le bouton **+ Ajouter** pour créer un nouveau classeur.
 3. Renseignez le nom du classeur (exemple : Bon de commande) et ajoutez la liste des types de documents se trouvant dans le classeur (en utilisant le +).
 4. Configurez les options qui vous intéressent, puis enregistrez votre classeur.
-{% endhint %}
 
 {% hint style="info" %}
 Votre bon de commande doit être présent dans le classeur de plan de classement avant traitement

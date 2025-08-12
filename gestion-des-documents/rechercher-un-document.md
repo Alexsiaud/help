@@ -36,13 +36,13 @@ La recherche de documents permet de retrouver rapidement un fichier dans vos cla
 
 {% hint style="info" %}
 Pour effectuer une recherche sur toutes les entreprises, vous devez obligatoirement saisir une valeur dans le champ de recherche sur le contenu des documents.
+{% endhint %}
 
 **Critères de recherche disponibles :**
 
 * Recherche par mot-clé dans le contenu des documents
 * Filtrage avancé par critères spécifiques
 * Sélection d'entreprise(s) cible(s)
-{% endhint %}
 
 ***
 
@@ -50,12 +50,12 @@ Pour effectuer une recherche sur toutes les entreprises, vous devez obligatoirem
 
 {% hint style="info" %}
 Les résultats de recherche sont conservés jusqu'à la fermeture de la fenêtre de recherche.
+{% endhint %}
 
 1. Accédez à la fonctionnalité de recherche depuis le menu principal
 2. Saisissez un ou plusieurs mots-clés dans le champ de recherche
 3. Sélectionnez les filtres souhaités (statut, période, entreprise, etc.)
 4. Cliquez sur **Valider** pour appliquer les filtres
-{% endhint %}
 
 ***
 

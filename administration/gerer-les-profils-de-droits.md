@@ -8,11 +8,11 @@ hidden: true
 
 {% hint style="info" %}
 Seul un administrateur ayant accès aux Paramètres peut créer ou modifier des profils de droits d’administration et de sites.
+{% endhint %}
 
 **Profil d’administration :** permet l’administration et le paramétrage de la plateforme
 
 **Profil de site** : permet la productivité sur un site
-{% endhint %}
 
 ***
 
@@ -32,11 +32,11 @@ La gestion des profils de droits permet d’attribuer précisément les accès a
 
 {% hint style="info" %}
 Une mauvaise configuration peut donner des accès non souhaités à des données sensibles.
+{% endhint %}
 
 * **Lister les rôles utilisateurs** pour anticiper les besoins d’accès.
 * **Définir les périmètres fonctionnels** (ex : saisie comptable, paramétrages).
 * **Créer une nomenclature claire des profils** (ex : "Admin Site", "Lecture Comptable").
-{% endhint %}
 
 ***
 

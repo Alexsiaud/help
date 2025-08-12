@@ -34,6 +34,7 @@ Les statuts permettent d'identifier un état sur un document (ex : payé, litige
 
 {% hint style="info" %}
 Assurez-vous de bien sélectionner le classeur correspondant à vos besoins avant d'ajouter les statuts.
+{% endhint %}
 
 1. Depuis votre compte, rendez-vous dans **Entreprise** > **Plan de classement** > **Processus métier** > **Statut**.
 2. Cliquez sur **+ Ajouter**
@@ -42,7 +43,6 @@ Assurez-vous de bien sélectionner le classeur correspondant à vos besoins avan
 5. Cliquez sur **+** pour ajouter des **Statuts** (possibilité d'appliquer une couleur par statut)
 6. Saisissez des **intitulés de statuts**
 7. Cliquez sur **Enregistrer**
-{% endhint %}
 
 {% hint style="info" %}
 Une fois créé, le statut apparaît dans la liste avec la possibilité de le Supprimer ou de l'Éditer selon vos besoins.

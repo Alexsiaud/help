@@ -8,9 +8,9 @@ hidden: true
 
 {% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la comptabilité** ](../administration/detail-des-droits.md)peut créer et configurer des classeurs comptables.
+{% endhint %}
 
 Il sera nécessaire, un fois le classeur créé d'attribuer le droit sur ce dernier **Gérer les référentiels associés (ajouter, modifier, supprimer)**
-{% endhint %}
 
 ***
 
@@ -32,13 +32,13 @@ Créer plusieurs classeurs comptable permet également d’automatiser des élé
 
 {% hint style="info" %}
 Une mauvaise configuration du classeur peut impacter l'organisation de vos données comptables.
+{% endhint %}
 
 **Critères obligatoires :**
 
 * Définir le nom du classeur de manière claire et explicite
 * Choisir le type de classeur correspondant à votre usage pour assurer une configuration appropriée
 * Vérifier vos permissions d'accès au menu entreprise
-{% endhint %}
 
 ***
 
@@ -46,12 +46,12 @@ Une mauvaise configuration du classeur peut impacter l'organisation de vos donn�
 
 {% hint style="info" %}
 Le type de classeur ne pourra pas être modifié après création.
+{% endhint %}
 
 1. Depuis votre compte, rendez-vous dans le menu **entreprise** – **Classeurs comptables**.
 2. Cliquez sur **Ajouter**.
 3. Saisissez un nom pour le classeur.
 4. Sélectionnez un type de classeur correspondant à votre usage.
-{% endhint %}
 
 ***
 

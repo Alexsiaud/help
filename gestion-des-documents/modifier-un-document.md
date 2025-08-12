@@ -45,13 +45,13 @@ La modification de documents depuis les bannettes permet d'effectuer diverses op
 
 {% hint style="info" %}
 Les modifications effectuées ne seront sauvegardées qu'après avoir cliqué sur **Enregistrer sous**. Toute fermeture de la page sans sauvegarde entraînera la perte des modifications.
+{% endhint %}
 
 **Éléments à vérifier avant modification :**
 
 * **Document accessible** - Vérifiez que le document est bien présent dans vos bannettes
 * **Droits de modification** - Assurez-vous d'avoir les permissions nécessaires
 * **Entreprise sélectionnée** - Vérifiez que vous êtes dans la bonne entreprise
-{% endhint %}
 
 ***
 

@@ -14,9 +14,7 @@ Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des pr
 Seul un profil **initiateur** dans un circuit de validation d’engagement de dépenses peut initier un bon de commande.
 {% endhint %}
 
-{% hint style="info" %}
 **Un classeur de plan de classement** dédié doit obligatoirement être créé en amont.
-{% endhint %}
 
 ***
 
@@ -44,11 +42,11 @@ Ce processus se concrétise par l'émission d'un bon de commande et inclut un ci
 
 {% hint style="info" %}
 Une mauvaise configuration initiale peut bloquer tout le processus de validation.
+{% endhint %}
 
 **Éléments obligatoires à configurer :**
 
 * **Classeur de plan de classement** (ex : bon de commande) pour organiser les documents
-{% endhint %}
 
 ***
 

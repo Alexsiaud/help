@@ -49,9 +49,7 @@ Le menu **Informations générales** centralise toutes les données légales et 
 3. Complétez ou corrigez les informations si nécessaire
 4. Ajoutez le **logo** de votre entreprise via l'option dédiée
 
-{% hint style="info" %}
 **Avantage de l'interconnexion** : La connexion INSEE garantit la fiabilité et l'actualité des informations légales officielles.
-{% endhint %}
 
 ***
 
@@ -61,17 +59,13 @@ Le menu **Informations générales** centralise toutes les données légales et 
 2. Vérifiez les **données des établissements** associés
 3. Utilisez l'option **« cliquer ici »** pour synchroniser avec les dernières données SIRENE
 
-{% hint style="info" %}
 **Synchronisation régulière** : La mise à jour périodique garantit la conformité avec les registres officiels.
-{% endhint %}
 
 ***
 
 ### <sup>**Configurer la sécurité**</sup>
 
-{% hint style="info" %}
 **Sécurité par entreprise** : Chaque entreprise peut avoir son propre mot de passe pour un contrôle d'accès
-{% endhint %}
 
 #### **Paramétrage du mot de passe entreprise :**
 
@@ -79,6 +73,4 @@ Le menu **Informations générales** centralise toutes les données légales et 
 2. Saisissez le **mot de passe** spécifique à cette entreprise
 3. Cliquez sur **Enregistrer** pour sauvegarder le paramétrage
 
-{% hint style="warning" %}
 **Recommandation sécurité** : Utilisez un mot de passe fort et unique pour chaque entreprise sensible.
-{% endhint %}

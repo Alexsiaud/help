@@ -29,15 +29,11 @@ La saisie bancaire sur INGENEO offre une approche flexible permettant le traitem
 
 ### <sup>**Préparer l'environnement**</sup>
 
-{% hint style="info" %}
 **Impact critique** : Une mauvaise imputation des mouvements bancaires peut fausser la comptabilité et compliquer les rapprochements bancaires.
-
 **Critères pour optimiser la saisie :**
-
 * **Codes TVA configurés** : Paramétrez vos codes TVA les plus fréquents pour accélérer la saisie
 * **Plan comptable à jour** : Vérifiez que tous les comptes nécessaires sont créés
 * **Règles d'imputation** : Configurez les chaînes de caractères pour l'automatisation des comptes
-{% endhint %}
 
 ***
 
@@ -58,9 +54,7 @@ La saisie bancaire sur INGENEO offre une approche flexible permettant le traitem
 7. Vérifiez les propositions d'imputation
 8. Validez les mouvements en cliquant sur le bouton **Validation semi-automatique** en forme de tête de robot
 
-{% hint style="info" %}
 **Efficacité** : Cette méthode combine rapidité et contrôle pour les mouvements récurrents paramétrés.
-{% endhint %}
 
 ***
 
@@ -82,6 +76,4 @@ Paramétrez d'abord vos règles d'imputation, puis utilisez la **Validation semi
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
 **Contrôle obligatoire** : Vérifiez systématiquement les imputations automatiques avant validation définitive, notamment pour les nouveaux types de mouvements.
-{% endhint %}

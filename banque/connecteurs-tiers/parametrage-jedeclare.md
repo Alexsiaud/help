@@ -52,9 +52,7 @@ JeDéclare Entreprise
 4. Cochez l'activation de l'entreprise souhaitée et cliquez sur **Enregistrer**
 5. Une manipulation reste à faire dans l’entreprise, voir la [vidéo intéractive ](parametrage-jedeclare.md#video-interactive)
 
-{% hint style="info" %}
 **JeDéclare est maintenant paramétré et opérationnel**
-{% endhint %}
 
 ***
 

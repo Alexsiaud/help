@@ -83,10 +83,6 @@ Depuis la liste des modèles, utilisez la fonction de duplication puis modifiez 
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
 **Les modèles d'entreprise impactent directement la configuration des nouvelles entreprises créées.**
-{% endhint %}
 
-{% hint style="info" %}
 **Testez toujours vos modèles sur un environnement de test avant activation en production.**
-{% endhint %}

@@ -16,15 +16,15 @@ Seuls les utilisateurs ayant le droit [**Autoriser l’accès au paramétrage de
 
 {% hint style="info" %}
 Le paramétrage des notes de frais nécessite obligatoirement un [**classeur comptable**](../../gestion-des-entreprises/classeurs-comptables.md) de type **Notes de frais**.
+{% endhint %}
 
 {% @arcade/embed flowId="kzNUw3zexuqY7BWa0lZ2" url="https://app.arcade.software/share/kzNUw3zexuqY7BWa0lZ2" %}
-{% endhint %}
 
 {% hint style="info" %}
 La création de notes de frais nécessite obligatoirement un [**circuit de validation**](../workflow/circuit-de-validation.md) de type **formulaire**.
+{% endhint %}
 
 {% @arcade/embed flowId="xDllqwOIyhIc5AwHRUBb" url="https://app.arcade.software/share/xDllqwOIyhIc5AwHRUBb" %}
-{% endhint %}
 
 ***
 
@@ -45,6 +45,7 @@ La création de notes de frais nécessite obligatoirement un [**circuit de valid
 
 {% hint style="info" %}
 Une mauvaise configuration initiale entraînera des erreurs de saisie et des dysfonctionnements dans les circuits de validation.
+{% endhint %}
 
 **Critères obligatoires :**
 
@@ -52,7 +53,6 @@ Une mauvaise configuration initiale entraînera des erreurs de saisie et des dys
 * Créer au moins un circuit de validation avec des utilisateurs actifs
 * Paramétrer le journal comptable par défaut pour le classeur
 * Créer et paramétrer les natures de frais
-{% endhint %}
 
 ***
 

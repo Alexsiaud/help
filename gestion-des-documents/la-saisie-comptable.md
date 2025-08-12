@@ -22,13 +22,13 @@ La saisie comptable permet de traiter les documents présents dans les bannettes
 
 {% hint style="info" %}
 Assurez-vous d'avoir sélectionné la bonne entreprise avant de commencer la saisie pour éviter les erreurs de comptabilisation.
+{% endhint %}
 
 **Critères obligatoires :**
 
 * Avoir les droits d’accès à la saisie de l'entreprise concernée
 * Connaître le plan comptable de l'entreprise pour une saisie précise
 * Vérifier que les documents sont bien présents dans la bannette sélectionnée
-{% endhint %}
 
 ***
 

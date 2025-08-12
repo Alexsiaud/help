@@ -38,12 +38,12 @@ Cette solution est idéale pour automatiser la collecte de documents récurrents
 
 {% hint style="info" %}
 Une fois créé, le mail dédié générera une adresse unique qui ne pourra pas être modifiée.
+{% endhint %}
 
 **Critères obligatoires avant création :**
 
 * Définir le classeur de destination (comptable ou plan de classement)
 * Choisir un préfixe explicite
-{% endhint %}
 
 ***
 

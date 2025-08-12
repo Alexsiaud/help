@@ -86,6 +86,4 @@ Utilisez la sélection multiple lors de l'import ou configurez un canal de colle
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
 **Limitation technique** : Le traitement OCR peut prendre plusieurs minutes selon la complexité et le nombre de documents.
-{% endhint %}

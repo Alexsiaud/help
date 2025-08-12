@@ -31,14 +31,10 @@ Consultez la documentation dédiée au [paramétrage](parametrage-ebics.md) avan
 
 ### <sup>**Préparer l'environnement**</sup>
 
-{% hint style="info" %}
 **Attention** : Un fichier EBICS mal formaté ou corrompu peut provoquer des erreurs d'import.
-
 **Formats compatibles obligatoires :**
-
 * **Format CFONB** : Standard français pour les échanges bancaires, privilégié pour les banques françaises
 * **Format OFX** : Format international, compatible avec la plupart des institutions bancaires
-{% endhint %}
 
 ***
 
@@ -51,8 +47,10 @@ Consultez la documentation dédiée au [paramétrage](parametrage-ebics.md) avan
 ### <sup>**Importer un fichier EBICS**</sup>
 
 {% hint style="info" %}
-**Important** : Assurez-vous d'être dans la bonne entreprise avant l'import pour éviter les erreurs de comptabilisation.
+Ou :
+{% endhint %}
 
+**Important** : Assurez-vous d'être dans la bonne entreprise avant l'import pour éviter les erreurs de comptabilisation.
 1. Depuis votre interface INGENEO
 2. Rendez-vous dans le menu **Bannettes**
 3. Sélectionnez le classeur **Banque**
@@ -60,14 +58,9 @@ Consultez la documentation dédiée au [paramétrage](parametrage-ebics.md) avan
 5. Recherchez et sélectionnez votre fichier EBICS depuis votre ordinateur
 6. Confirmez l'import du fichier
 
-Ou :
-
 * Cliquez sur l’icône « importer un fichier bancaire CFONB / OFX » situé au-dessus de la liste des entreprises
-{% endhint %}
 
-{% hint style="info" %}
 **Résultat attendu** : Votre fichier EBICS sera traité et les mouvements bancaires seront disponibles pour saisie comptable dans le classeur **Banque**.
-{% endhint %}
 
 ***
 
@@ -81,6 +74,4 @@ Vérifiez que le format est bien CFONB ou OFX. Certaines banques proposent plusi
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
 **Gestion des doublons** : L'import d'un même fichier EBICS plusieurs fois peut créer des mouvements en double. Vérifiez vos imports avant validation comptable.
-{% endhint %}

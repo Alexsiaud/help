@@ -16,14 +16,11 @@ Un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la comp
 
 POWENS permet la récupération automatique de mouvements bancaires.
 
-{% hint style="info" %}
 **Limitations :**
-
 * Nécessite les identifiants de connexion bancaire
 * Demande une double authentification
 * Tous les établissements bancaires ne sont pas compatibles
 * Requiert l'accord explicite du détenteur du compte
-{% endhint %}
 
 ***
 
@@ -35,16 +32,13 @@ POWENS permet la récupération automatique de mouvements bancaires.
 
 ### <sup>**Ajouter une banque au référentiel**</sup>
 
-{% hint style="info" %}
 **Cette étape doit être réalisée avant toute tentative de connexion**
-
 1. Depuis votre compte **INGENEO**, rendez-vous dans le menu d’édition de l’**entreprise**.
 2. Dans l'onglet **Entreprise**, sélectionnez **Référentiel comptable**
 3. Cliquez sur **Banque**
 4. Cliquez sur **+ Ajouter**
 5. Saisissez le **Nom de la banque** dans le champ prévu
 6. Cliquez sur **Enregistrer**
-{% endhint %}
 
 ***
 
@@ -68,15 +62,12 @@ Deux méthodes sont disponibles selon que vous disposez ou non des identifiants 
 3. Recherchez et sélectionnez l'utilisateur détenteur du compte bancaire
 4. Cliquez sur l'icône de la ligne utilisateur
 
-{% hint style="info" %}
 **L'utilisateur recevra un mail d'invitation à se connecter à la plateforme. Il devra ensuite :**
-
 * Se connecter à INGENEO
 * Consulter ses notifications (icône cloche)
 * Cliquer sur l'œil pour voir la demande
 * Cliquer sur **POWENS**
 * Sélectionner sa banque et saisir ses identifiants
-{% endhint %}
 
 ***
 

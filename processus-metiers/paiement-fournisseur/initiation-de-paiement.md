@@ -30,12 +30,12 @@ Le paiement fournisseur permet d'automatiser le processus de validation et de r�
 
 {% hint style="info" %}
 Une mauvaise configuration des droits peut bloquer le processus de paiement ou donner des accès non autorisés.
+{% endhint %}
 
 **Critères obligatoires avant de commencer :**
 
 * Entreprise avec numéro SIREN valide
 * Compte tiers avec IBAN et BIC valide
-{% endhint %}
 
 ***
 

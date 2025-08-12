@@ -30,10 +30,10 @@ Les modifications des paramètres avancés peuvent affecter le fonctionnement de
 
 {% hint style="info" %}
 Toute modification enregistrée sera appliquée immédiatement à l'ensemble de la plateforme
+{% endhint %}
 
 1. Depuis votre compte administrateur, rendez-vous dans le menu principal.
 2. Cliquez sur **Paramètres** dans le menu principal puis accédez à la section **Configuration**.
-{% endhint %}
 
 ### <sup>**Configuration - Généralités**</sup>
 

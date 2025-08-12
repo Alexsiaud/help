@@ -30,13 +30,13 @@ Une fois créé, le tampon sera disponible pour tous les utilisateurs ayant acc�
 
 {% hint style="info" %}
 Assurez-vous d'avoir défini le contenu et le libellé de votre tampon avant de commencer la création.
+{% endhint %}
 
 **Critères obligatoires :**
 
 * Libellé clair et explicite pour identifier le tampon
 * Contenu du tampon défini (texte qui sera apposé)
 * Classeurs de destination identifiés
-{% endhint %}
 
 ***
 

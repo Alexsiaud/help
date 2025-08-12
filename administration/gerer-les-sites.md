@@ -8,11 +8,11 @@ hidden: true
 
 {% hint style="info" %}
 Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** peut accéder aux paramètres d'administration et gérer les sites.
+{% endhint %}
 
 Les **sites** permettent la gestion de droits sur un groupe d’entreprises, ils peuvent être créés par sites physiques ou bien par portefeuille.
 
 Un **site par défaut** est proposé sur votre plateforme.
-{% endhint %}
 
 {% hint style="info" %}
 Il est obligatoire de renseigner au moins un site pour toute création d’entreprise.

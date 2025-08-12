@@ -29,12 +29,12 @@ Les modèles de nature de frais permettent de standardiser la configuration comp
 
 {% hint style="info" %}
 Une mauvaise configuration initiale entraînera des erreurs de saisie et des dysfonctionnements dans les circuits de validation de note de frais.
+{% endhint %}
 
 **Critères obligatoires :**
 
 * Avoir dans les référentiels comptables les comptes HT et TVA pour chaque nature de frais
 * Paramétrez le journal comptable par défaut pour le classeur
-{% endhint %}
 
 ***
 

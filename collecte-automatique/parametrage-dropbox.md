@@ -8,9 +8,9 @@ hidden: true
 
 {% hint style="info" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un canal de collecte Dropbox.
+{% endhint %}
 
 L'utilisateur doit également disposer des identifiants Dropbox du compte ou pouvoir faire une demande au propriétaire du compte.
-{% endhint %}
 
 ***
 
@@ -41,14 +41,10 @@ L'utilisateur doit également disposer des identifiants Dropbox du compte ou pou
 
 ### <sup>**Préparer l'environnement**</sup>
 
-{% hint style="info" %}
 **Assurez-vous d'avoir les identifiants Dropbox avant de commencer la configuration. Sans ces informations, vous devrez faire une demande au propriétaire du compte.**
-
 **Critères obligatoires :**
-
 * Utilisateur destinataire créé dans la plateforme
 * Classeur de destination défini pour organiser les documents reçus
-{% endhint %}
 
 ***
 

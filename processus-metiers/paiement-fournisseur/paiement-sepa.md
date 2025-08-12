@@ -40,13 +40,13 @@ Les droits des utilisateurs (**profils de site** ou d’**entreprise**) sont sci
 
 {% hint style="info" %}
 Cette configuration détermine qui peut mettre au paiement et qui peut effectuer les paiements. Une mauvaise attribution des droits peut créer des risques de sécurité.
+{% endhint %}
 
 1. Depuis votre compte, rendez-vous dans le menu **Entreprise**.
 2. Cliquez sur **Entreprise**, puis éditez l'entreprise où activer le paiement fournisseur.
 3. Cliquez sur **Administration**, puis sur **Profils d'entreprise**.
 4. Sélectionnez ou créez un profil avec les droits nécessaires.
 5. Attribuez les droits de **mise au paiement** et/ou de **paiement** selon les besoins.
-{% endhint %}
 
 ***
 

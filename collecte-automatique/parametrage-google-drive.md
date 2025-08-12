@@ -42,13 +42,13 @@ Important : Un document collecté ne sera pas récupéré une seconde fois, mêm
 
 {% hint style="info" %}
 Vous devrez disposer des identifiants du compte Google du client ou faire une demande au propriétaire du compte.
+{% endhint %}
 
 **Critères obligatoires :**
 
 * Disposer des identifiants de connexion Google du client
 * Le client doit être créé comme utilisateur dans la plateforme (utilisateur EXTERNE si nécessaire)
 * Définir le classeur de destination pour le dépôt des documents
-{% endhint %}
 
 ***
 
@@ -56,13 +56,13 @@ Vous devrez disposer des identifiants du compte Google du client ou faire une de
 
 {% hint style="info" %}
 L'enregistrement ouvrira automatiquement un navigateur pour la connexion Google.
+{% endhint %}
 
 1. Depuis votre compte INGENEO, rendez-vous dans le menu Entreprise.
 2. Accédez à la section Collecte puis cliquez sur Nouveau canal.
 3. Sélectionnez Google Drive comme type de canal.
 4. Saisissez les identifiants Google requis.
 5. Choisissez le dossier de dépôt de documents dans l'encart "Configuration des répertoires récupérés".
-{% endhint %}
 
 {% hint style="info" %}
 Le dossier réservé au dépôt devient automatiquement visible dans le Google Drive du client.

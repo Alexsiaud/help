@@ -42,27 +42,24 @@ OneDrive est adapté pour la collecte automatisée de documents déposés dans l
 
 {% hint style="info" %}
 Assurez-vous d'avoir les identifiants du compte One Drive avant de commencer la configuration. Sans ces informations, vous devrez faire une demande au propriétaire du compte.
+{% endhint %}
 
 **Critères obligatoires :**
 
 * Utilisateur destinataire créé dans la plateforme
 * Classeur de destination défini
-{% endhint %}
 
 ***
 
 ### <sup>**Créer le canal de collecte One Drive**</sup>
 
-{% hint style="info" %}
 **La sauvegarde ouvrira automatiquement un navigateur pour la connexion Google. Préparez vos identifiants.**
-
 1. Depuis la plateforme, accédez à la gestion des canaux de collecte.
 2. Cliquez sur **Créer un canal** et sélectionnez **OneDrive** comme type de canal.
 3. Saisissez les identifiants OneDrive requis.
 4. Définissez le classeur de destination pour le dépôt des documents.
 5. Validez la création du canal.
 6. Le client reçoit une notification pour connecter OneDrive.
-{% endhint %}
 
 ***
 
@@ -104,6 +101,4 @@ Vérifiez que la connexion OneDrive est toujours active en éditant le canal de 
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
 **Les documents réceptionnés sont automatiquement traités par l'OCR et disponibles dans la bannette de l'entreprise pour la saisie.**
-{% endhint %}
