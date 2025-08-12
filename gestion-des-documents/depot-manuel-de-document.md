@@ -25,7 +25,7 @@ Vous disposerez :
 
 ***
 
-### <sup>**Vidéo interactive**</sup> <sup></sup><sup>💡</sup>
+### <sup>**Vidéo interactive** 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/Hk9LMNuZEjWz9lcwRaJF" flowId="Hk9LMNuZEjWz9lcwRaJF" %}
 

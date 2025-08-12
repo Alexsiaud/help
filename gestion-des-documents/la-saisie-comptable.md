@@ -63,7 +63,7 @@ Si le compte tiers est présent dans le FEC, celui-ci peut être renseigné auto
   5. Cliquez sur **Masque de saisie** pour compléter les informations du compte tiers
   6. Cliquez sur **Enregistrer** en bas de la page. Seuls les **code** et **intitulé** du tiers sont obligatoires à la création, le tiers sera créé en comptabilité à l’intégration de l’écriture
 
-### <sup>**Vidéo interactive**</sup> <sup></sup><sup>💡</sup>
+### <sup>**Vidéo interactive** 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/QKoNFPdDXr9oqr8YKxXU" flowId="QKoNFPdDXr9oqr8YKxXU" %}
 
