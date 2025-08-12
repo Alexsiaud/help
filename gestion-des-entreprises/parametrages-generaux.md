@@ -65,7 +65,9 @@ Le menu **Informations générales** centralise toutes les données légales et 
 
 ### <sup>**Configurer la sécurité**</sup>
 
+{% hint style="info" %}
 **Sécurité par entreprise** : Chaque entreprise peut avoir son propre mot de passe pour un contrôle d'accès
+{% endhint %}
 
 #### **Paramétrage du mot de passe entreprise :**
 

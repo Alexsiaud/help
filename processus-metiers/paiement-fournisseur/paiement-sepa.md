@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Un utilisateur interne ayant un rôle de collaborateur / gestionnaire ou administrateur peut configurer le paiement SEPA et les droits associés.
 {% endhint %}
 
@@ -38,7 +38,7 @@ Les droits des utilisateurs (**profils de site** ou d’**entreprise**) sont sci
 
 ### **Paramétrer les classeurs**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Cette configuration détermine qui peut mettre au paiement et qui peut effectuer les paiements. Une mauvaise attribution des droits peut créer des risques de sécurité.
 {% endhint %}
 
@@ -82,6 +82,6 @@ Accédez aux profils de sites depuis le menu **Paramètres** > **Profils de droi
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 La configuration des droits de paiement doit être effectuée avec précaution. Assurez-vous que seuls les utilisateurs autorisés ont accès aux fonctionnalités de paiement pour maintenir la sécurité financière de votre organisation.
 {% endhint %}

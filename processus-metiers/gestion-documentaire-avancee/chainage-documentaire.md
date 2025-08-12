@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** peut configurer le chaînage documentaire.
 {% endhint %}
 
@@ -40,7 +40,7 @@ Assurez-vous d'avoir correctement configuré vos classeurs avant de procéder au
 
 ### <sup>**Créer un classeur de plan de classement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Cette étape est indispensable avant toute configuration de chaînage
 {% endhint %}
 
@@ -49,7 +49,7 @@ Cette étape est indispensable avant toute configuration de chaînage
 3. Renseignez le nom du classeur (exemple : Bon de commande) et ajoutez la liste des types de documents se trouvant dans le classeur (en utilisant le +).
 4. Configurez les options qui vous intéressent, puis enregistrez votre classeur.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Votre bon de commande doit être présent dans le classeur de plan de classement avant traitement
 {% endhint %}
 

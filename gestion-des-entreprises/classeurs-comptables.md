@@ -30,7 +30,7 @@ Créer plusieurs classeurs comptable permet également d’automatiser des élé
 
 ### <sup>**Préparer l'environnement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Une mauvaise configuration du classeur peut impacter l'organisation de vos données comptables.
 {% endhint %}
 

@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis et Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur étant **initiateur** d'un circuit de validation de note de frais pourra saisir des notes de frais.
 {% endhint %}
 
@@ -14,7 +14,7 @@ Seul un utilisateur étant **initiateur** d'un circuit de validation de note de 
 
 ### Vidéo interactive 💡
 
-{% @arcade/embed flowId="lF7cVoQXhj3ll9mE0PJl" url="https://app.arcade.software/share/lF7cVoQXhj3ll9mE0PJl" %}
+{% @arcade/embed url="https://app.arcade.software/share/lF7cVoQXhj3ll9mE0PJl" flowId="lF7cVoQXhj3ll9mE0PJl" %}
 
 ***
 

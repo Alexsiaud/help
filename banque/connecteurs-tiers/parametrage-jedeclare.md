@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès à la configuration de la plateforme**](../../administration/detail-des-droits.md) et le droit **Autoriser l’accès à l’administration de la plateforme** peut effectuer le premier paramétrage de l'API JeDéclare
 {% endhint %}
 
@@ -36,11 +36,11 @@ Le rapprochement des entreprises s'effectue par leurs raisons sociales.
 
 JeDéclare Administrateur
 
-{% @arcade/embed flowId="oQ0mr5fyWOGdeIsBogcO" url="https://app.arcade.software/share/oQ0mr5fyWOGdeIsBogcO" %}
+{% @arcade/embed url="https://app.arcade.software/share/oQ0mr5fyWOGdeIsBogcO" flowId="oQ0mr5fyWOGdeIsBogcO" %}
 
 JeDéclare Entreprise
 
-{% @arcade/embed flowId="QTqachQltDZ5Hc2WoWKO" url="https://app.arcade.software/share/QTqachQltDZ5Hc2WoWKO" %}
+{% @arcade/embed url="https://app.arcade.software/share/QTqachQltDZ5Hc2WoWKO" flowId="QTqachQltDZ5Hc2WoWKO" %}
 
 ***
 
@@ -50,7 +50,7 @@ JeDéclare Entreprise
 2. Sélectionnez **Configuration**, puis cliquez sur **Agrégateurs**. Cliquez sur **+ Ajouter** et sélectionnez **JeDeclare.com**.
 3. Renseignez votre compte "**récupérateur de flux**" JeDéclare puis cliquez sur **Enregistrer**
 4. Cochez l'activation de l'entreprise souhaitée et cliquez sur **Enregistrer**
-5. Une manipulation reste à faire dans l’entreprise, voir la [vidéo intéractive ](parametrage-jedeclare.md#video-interactive)
+5. Une manipulation reste à faire dans l’entreprise, voir la [vidéo intéractive](parametrage-jedeclare.md#video-interactive)
 
 **JeDéclare est maintenant paramétré et opérationnel**
 
@@ -74,6 +74,6 @@ Décochez l'activation dans les paramètres de l'agrégateur et enregistrez.
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Seuls les administrateurs peuvent paramétrer les agrégateurs. Le rapprochement s'effectue automatiquement par raison sociale.
 {% endhint %}

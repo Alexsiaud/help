@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la comptabilité**](../../administration/detail-des-droits.md) peut configurer la connexion bancaire POWENS.
 {% endhint %}
 
@@ -17,6 +17,7 @@ Un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la comp
 POWENS permet la récupération automatique de mouvements bancaires.
 
 **Limitations :**
+
 * Nécessite les identifiants de connexion bancaire
 * Demande une double authentification
 * Tous les établissements bancaires ne sont pas compatibles
@@ -26,13 +27,14 @@ POWENS permet la récupération automatique de mouvements bancaires.
 
 ### Vidéo interactive 💡
 
-{% @arcade/embed flowId="wCQUeyBSdNjxFGKdkzda" url="https://app.arcade.software/share/wCQUeyBSdNjxFGKdkzda" %}
+{% @arcade/embed url="https://app.arcade.software/share/wCQUeyBSdNjxFGKdkzda" flowId="wCQUeyBSdNjxFGKdkzda" %}
 
 ***
 
 ### <sup>**Ajouter une banque au référentiel**</sup>
 
 **Cette étape doit être réalisée avant toute tentative de connexion**
+
 1. Depuis votre compte **INGENEO**, rendez-vous dans le menu d’édition de l’**entreprise**.
 2. Dans l'onglet **Entreprise**, sélectionnez **Référentiel comptable**
 3. Cliquez sur **Banque**
@@ -63,6 +65,7 @@ Deux méthodes sont disponibles selon que vous disposez ou non des identifiants 
 4. Cliquez sur l'icône de la ligne utilisateur
 
 **L'utilisateur recevra un mail d'invitation à se connecter à la plateforme. Il devra ensuite :**
+
 * Se connecter à INGENEO
 * Consulter ses notifications (icône cloche)
 * Cliquer sur l'œil pour voir la demande
@@ -85,10 +88,10 @@ Vérifiez l'adresse mail renseignée dans son profil et consultez le dossier spa
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 La connexion POWENS nécessite la transmission d'identifiants bancaires sensibles. Assurez-vous du consentement explicite de votre client et respectez les obligations RGPD en matière de protection des données financières.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 La récupération des mouvements débutera 48-72 heures après la connexion.
 {% endhint %}

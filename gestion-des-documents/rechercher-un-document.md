@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Consulter les documents enregistrés**](../administration/detail-des-droits.md) peut accéder à la recherche de document des entreprises concernées.
 {% endhint %}
 
@@ -28,7 +28,7 @@ La recherche de documents permet de retrouver rapidement un fichier dans vos cla
 
 ### Vidéo interactive 💡
 
-{% @arcade/embed flowId="3LX4Tn5WwqCZGSNtXAEu" url="https://app.arcade.software/share/3LX4Tn5WwqCZGSNtXAEu" %}
+{% @arcade/embed url="https://app.arcade.software/share/3LX4Tn5WwqCZGSNtXAEu" flowId="3LX4Tn5WwqCZGSNtXAEu" %}
 
 ***
 
@@ -77,10 +77,10 @@ Les résultats restent disponibles tant que la fenêtre de recherche est ouverte
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Les performances de recherche peuvent varier selon le volume de documents dans vos classeurs comptables.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 La fermeture de la fenêtre de recherche efface définitivement tous les résultats conservés.
 {% endhint %}

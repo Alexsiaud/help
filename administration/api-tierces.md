@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit **Autoriser l'accès à la configuration de la plateforme** peut créer des clés d'API tierces.
 {% endhint %}
 
@@ -68,6 +68,6 @@ Vous pouvez rendre la clé inactive sans la supprimer, permettant une réactivat
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Des liens vers la documentation **Développeur** et **SSO** sont disponibles dans l'interface pour vous accompagner dans l'intégration.
 {% endhint %}

@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis et Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un canal de collecte Google Drive
 {% endhint %}
 
@@ -26,15 +26,15 @@ Google Drive permet de réceptionner automatiquement des documents déposés dan
 
 * Pour des envois ponctuels ou urgents (collecte une fois par jour uniquement)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Important : Un document collecté ne sera pas récupéré une seconde fois, même s'il reste dans l'espace de dépôt.
 {% endhint %}
 
 ***
 
-### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡
 
-{% @arcade/embed flowId="7zXHcTuYxlw1H4A2fhum" url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" %}
+{% @arcade/embed url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" flowId="7zXHcTuYxlw1H4A2fhum" %}
 
 ***
 
@@ -107,10 +107,10 @@ Vérifiez que le client a bien accepté la connexion et que les documents sont d
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Les documents collectés passent automatiquement par l'OCR et sont disponibles dans la bannette de l'entreprise, prêts pour la saisie.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Un document collecté ne sera jamais récupéré une seconde fois, même s'il reste dans l'espace de collecte.
 {% endhint %}

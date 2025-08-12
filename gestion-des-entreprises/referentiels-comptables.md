@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la comptabilité**](../administration/detail-des-droits.md) peut gérer les référentiels comptables.
 {% endhint %}
 
@@ -87,4 +87,4 @@ Ces éléments peuvent être créés directement depuis votre saisie sans passer
 
 ### **Vidéo interactive** : Synchronisation des référentiels comptable 💡
 
-{% @arcade/embed flowId="oDMS1sZpPjnSFvnF01Ha" url="https://app.arcade.software/share/oDMS1sZpPjnSFvnF01Ha" %}
+{% @arcade/embed url="https://app.arcade.software/share/oDMS1sZpPjnSFvnF01Ha" flowId="oDMS1sZpPjnSFvnF01Ha" %}

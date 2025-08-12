@@ -30,7 +30,9 @@ Ces configurations impactent directement les automatisations de vos saisies comp
 
 ### <sup>**Préparer l'environnement**</sup>
 
+{% hint style="danger" %}
 **Impact critique** : Une mauvaise configuration peut compromettre l’export vers le logiciel comptable
+{% endhint %}
 
 **Critères obligatoires avant configuration :**
 

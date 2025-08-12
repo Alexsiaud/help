@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit **Autoriser l’accès à la configuration de la plateforme** peut accéder aux configurations de la plateforme
 {% endhint %}
 
@@ -20,9 +20,7 @@ La configuration des paramètres permet de personnaliser l'interface de la plate
 
 ### <sup>**Préparer l'environnement**</sup>
 
-{% hint style="info" %}
 Les modifications des paramètres avancés peuvent affecter le fonctionnement de la plateforme pour tous les utilisateurs
-{% endhint %}
 
 ***
 
@@ -54,7 +52,7 @@ Ces options permettent de personnaliser entièrement l'identité visuelle de vot
 ### <sup>**Configuration - Avancé**</sup>
 
 * **Paramètres généraux**
-  * ⚠️ Les modifications de ces paramètres peuvent impacter le comportement global de la plateforme
+  * Les modifications de ces paramètres peuvent impacter le comportement global de la plateforme
   * Accédez à la section **Avancé** > **Général**, modifiez les paramètres selon vos besoins puis cliquez sur **Enregistrer** en bas de la page pour valider les changements.
 * **Paramètres des modules**
   * Accédez à la section **Avancé** > **Modules**, configurez les paramètres spécifiques aux modules puis cliquez sur **Enregistrer** en bas de la page pour appliquer les modifications.

@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur avec le droit [**Déposer des documents**](../administration/detail-des-droits.md) dans le classeur ou l’entreprise peut déposer des documents dans la bannette.
 {% endhint %}
 
@@ -25,9 +25,9 @@ Vous disposerez :
 
 ***
 
-### **Vidéo interactive** 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### **Vidéo interactive** 💡
 
-{% @arcade/embed flowId="Hk9LMNuZEjWz9lcwRaJF" url="https://app.arcade.software/share/Hk9LMNuZEjWz9lcwRaJF" %}
+{% @arcade/embed url="https://app.arcade.software/share/Hk9LMNuZEjWz9lcwRaJF" flowId="Hk9LMNuZEjWz9lcwRaJF" %}
 
 ***
 
@@ -86,4 +86,6 @@ Utilisez la sélection multiple lors de l'import ou configurez un canal de colle
 
 ### <sup>**Avertissement**</sup>
 
+{% hint style="warning" %}
 **Limitation technique** : Le traitement OCR peut prendre plusieurs minutes selon la complexité et le nombre de documents.
+{% endhint %}

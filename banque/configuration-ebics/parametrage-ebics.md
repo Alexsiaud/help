@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur interne ayant le droit [**Autoriser l’accès au paramétrage de la comptabilité**](../../administration/detail-des-droits.md) peut configurer un dépôt EBICS.
 {% endhint %}
 
@@ -34,7 +34,7 @@ Assurez-vous d'avoir les informations bancaires correctes avant de commencer. Un
 
 ### Vidéo interactive 💡
 
-{% @arcade/embed flowId="0MUKXJNUTLrF7wOJ4gvc" url="https://app.arcade.software/share/0MUKXJNUTLrF7wOJ4gvc" %}
+{% @arcade/embed url="https://app.arcade.software/share/0MUKXJNUTLrF7wOJ4gvc" flowId="0MUKXJNUTLrF7wOJ4gvc" %}
 
 ***
 
@@ -57,7 +57,7 @@ Le BIC/SWIFT peut être ajouté lors de cette étape si vous le possédez.
 
 ### <sup>**Ajouter le compte bancaire**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 L'IBAN doit être valide et correspondre exactement au compte bancaire concerné.
 {% endhint %}
 

@@ -6,7 +6,7 @@ hidden: true
 
 ### <sub>**Prérequis & Permissions**</sub>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un canal de collecte Dropbox.
 {% endhint %}
 
@@ -35,22 +35,20 @@ L'utilisateur doit également disposer des identifiants Dropbox du compte ou pou
 
 ***
 
-### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡
 
-{% @arcade/embed flowId="7zXHcTuYxlw1H4A2fhum" url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" %}
+{% @arcade/embed url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" flowId="7zXHcTuYxlw1H4A2fhum" %}
 
 ### <sup>**Préparer l'environnement**</sup>
 
-**Assurez-vous d'avoir les identifiants Dropbox avant de commencer la configuration. Sans ces informations, vous devrez faire une demande au propriétaire du compte.**
-**Critères obligatoires :**
+**Assurez-vous d'avoir les identifiants Dropbox avant de commencer la configuration. Sans ces informations, vous devrez faire une demande au propriétaire du compte.** **Critères obligatoires :**
+
 * Utilisateur destinataire créé dans la plateforme
 * Classeur de destination défini pour organiser les documents reçus
 
 ***
 
 ### <sup>**Créer un canal de collecte Dropbox**</sup>
-
-Procédez comme suit :
 
 1. Accédez au menu **Collecte** puis cliquez sur **Nouveau canal**
 2. Sélectionnez **Dropbox** comme type de canal
@@ -61,7 +59,9 @@ Procédez comme suit :
 
 ### <sup>**Gestion des collectes**</sup>
 
+{% hint style="info" %}
 La collecte automatique s'effectue **une fois par jour**.
+{% endhint %}
 
 Pour une collecte manuelle :
 
@@ -99,6 +99,6 @@ Vérifiez que la connexion Dropbox est toujours active en éditant le canal de c
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Les documents réceptionnés sont automatiquement traités par l'OCR et disponibles dans la bannette de l'entreprise pour la saisie.
 {% endhint %}

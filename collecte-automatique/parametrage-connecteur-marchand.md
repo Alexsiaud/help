@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un canal de collecte connecteur marchand.
 {% endhint %}
 
@@ -14,9 +14,12 @@ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la
 
 ### <sup>**Contexte & Recommandations**</sup>
 
+{% hint style="info" %}
 Le connecteur marchand permet la récupération automatique de factures depuis les espaces clients fournisseur (aussi appelé "web scraping").
+{% endhint %}
 
 **Limitations :**
+
 * Nécessite les identifiants de connexion
 * Demande parfois une double authentification
 
@@ -24,8 +27,8 @@ Le connecteur marchand permet la récupération automatique de factures depuis l
 
 ### <sup>**Préparer l'environnement**</sup>
 
-**Assurez-vous d'avoir les identifiants Dropbox avant de commencer la configuration. Sans ces informations, vous devrez faire une demande au propriétaire du compte.**
-**Critères obligatoires :**
+**Assurez-vous d'avoir les identifiants Dropbox avant de commencer la configuration. Sans ces informations, vous devrez faire une demande au propriétaire du compte.** **Critères obligatoires :**
+
 * Utilisateur destinataire créé dans la plateforme
 * Classeur de destination défini pour organiser les documents reçus
 

@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis et Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) peut configurer les statuts de documents dans le plan de classement.
 {% endhint %}
 
@@ -26,7 +26,7 @@ Les statuts permettent d'identifier un état sur un document (ex : payé, litige
 
 ### Vidéo interactive 💡
 
-{% @arcade/embed flowId="b7Nzs7RiKDw3y19C2NAR" url="https://app.arcade.software/share/b7Nzs7RiKDw3y19C2NAR" %}
+{% @arcade/embed url="https://app.arcade.software/share/b7Nzs7RiKDw3y19C2NAR" flowId="b7Nzs7RiKDw3y19C2NAR" %}
 
 ***
 

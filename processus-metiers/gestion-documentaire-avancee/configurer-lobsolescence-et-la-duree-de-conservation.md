@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** peut configurer l'Obsolescence & Durée de conservation.
 {% endhint %}
 
@@ -20,7 +20,7 @@ La configuration de l'obsolescence et de la durée de conservation permet de gé
 
 ### <sup>**Préparer l'environnement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Une mauvaise configuration peut entraîner la suppression ou l'archivage non désiré de documents importants.
 {% endhint %}
 
@@ -72,10 +72,10 @@ L'archivage conserve les documents dans le menu Rechercher, la suppression place
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 La configuration de l'obsolescence et de la durée de conservation impact directement la gestion de vos documents.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Vérifiez soigneusement vos paramètres avant validation pour éviter toute perte de données non désirée.
 {% endhint %}

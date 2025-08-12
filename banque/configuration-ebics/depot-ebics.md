@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur avec le droit [**Déposer des documents**](../../administration/detail-des-droits.md) dans le classeur ou l’entreprise peut déposer des documents dans la bannette.
 {% endhint %}
 
@@ -20,7 +20,7 @@ L'import EBICS (Electronic Banking Internet Communication Standard) permet d'int
 
 ### <sup>**Quand utiliser cette fonctionnalité :**</sup>
 
-* Quand [l’import POWENS](broken-reference) (scrapping bancaire) ou [JeDéclare](../connecteurs-tiers/parametrage-jedeclare.md) n’est pas possible
+* Quand [l’import POWENS](broken-reference/) (scrapping bancaire) ou [JeDéclare](../connecteurs-tiers/parametrage-jedeclare.md) n’est pas possible
 * Dépôt de mouvements multi-entreprises
 
 {% hint style="info" %}
@@ -31,8 +31,8 @@ Consultez la documentation dédiée au [paramétrage](parametrage-ebics.md) avan
 
 ### <sup>**Préparer l'environnement**</sup>
 
-**Attention** : Un fichier EBICS mal formaté ou corrompu peut provoquer des erreurs d'import.
-**Formats compatibles obligatoires :**
+**Attention** : Un fichier EBICS mal formaté ou corrompu peut provoquer des erreurs d'import. **Formats compatibles obligatoires :**
+
 * **Format CFONB** : Standard français pour les échanges bancaires, privilégié pour les banques françaises
 * **Format OFX** : Format international, compatible avec la plupart des institutions bancaires
 
@@ -40,17 +40,16 @@ Consultez la documentation dédiée au [paramétrage](parametrage-ebics.md) avan
 
 ### Vidéo interactive 💡
 
-{% @arcade/embed flowId="ZPuTbQElU2U42wsRPvoa" url="https://app.arcade.software/share/ZPuTbQElU2U42wsRPvoa" %}
+{% @arcade/embed url="https://app.arcade.software/share/ZPuTbQElU2U42wsRPvoa" flowId="ZPuTbQElU2U42wsRPvoa" %}
 
 ***
 
 ### <sup>**Importer un fichier EBICS**</sup>
 
-{% hint style="info" %}
-Ou :
+{% hint style="warning" %}
+**Important** : Assurez-vous d'être dans la bonne entreprise avant l'import pour éviter les erreurs de comptabilisation.
 {% endhint %}
 
-**Important** : Assurez-vous d'être dans la bonne entreprise avant l'import pour éviter les erreurs de comptabilisation.
 1. Depuis votre interface INGENEO
 2. Rendez-vous dans le menu **Bannettes**
 3. Sélectionnez le classeur **Banque**
@@ -74,4 +73,6 @@ Vérifiez que le format est bien CFONB ou OFX. Certaines banques proposent plusi
 
 ### <sup>**Avertissement**</sup>
 
+{% hint style="warning" %}
 **Gestion des doublons** : L'import d'un même fichier EBICS plusieurs fois peut créer des mouvements en double. Vérifiez vos imports avant validation comptable.
+{% endhint %}

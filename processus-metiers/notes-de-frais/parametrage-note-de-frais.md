@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis et Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seuls les utilisateurs ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) pourront paramétrer les notes de frais.
 {% endhint %}
 
@@ -14,17 +14,17 @@ Seuls les utilisateurs ayant le droit [**Autoriser l’accès au paramétrage de
 
 ### Vidéo interactive 💡
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Le paramétrage des notes de frais nécessite obligatoirement un [**classeur comptable**](../../gestion-des-entreprises/classeurs-comptables.md) de type **Notes de frais**.
 {% endhint %}
 
-{% @arcade/embed flowId="kzNUw3zexuqY7BWa0lZ2" url="https://app.arcade.software/share/kzNUw3zexuqY7BWa0lZ2" %}
+{% @arcade/embed url="https://app.arcade.software/share/kzNUw3zexuqY7BWa0lZ2" flowId="kzNUw3zexuqY7BWa0lZ2" %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 La création de notes de frais nécessite obligatoirement un [**circuit de validation**](../workflow/circuit-de-validation.md) de type **formulaire**.
 {% endhint %}
 
-{% @arcade/embed flowId="xDllqwOIyhIc5AwHRUBb" url="https://app.arcade.software/share/xDllqwOIyhIc5AwHRUBb" %}
+{% @arcade/embed url="https://app.arcade.software/share/xDllqwOIyhIc5AwHRUBb" flowId="xDllqwOIyhIc5AwHRUBb" %}
 
 ***
 
@@ -66,7 +66,7 @@ Une mauvaise configuration initiale entraînera des erreurs de saisie et des dys
 6. Cliquez sur **Enregistrer**.
 7. Indiquez le nom de l'utilisateur, avec la possibilité d'ajouter plusieurs utilisateurs avec le **+**.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Si un utilisateur est seul dans son circuit, les notes sont validées automatiquement.
 {% endhint %}
 
@@ -90,6 +90,6 @@ Dans **Circuits de validation**, éditez le circuit concerné et utilisez le **+
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Une fois une note de frais validée et transférée, elle ne peut plus être modifiée directement. Toute correction nécessitera une écriture comptable d'ajustement.
 {% endhint %}

@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un administrateur ayant accès aux Paramètres peut créer ou modifier des profils de droits d’administration et de sites.
 {% endhint %}
 
@@ -30,7 +30,7 @@ La gestion des profils de droits permet d’attribuer précisément les accès a
 
 **Préparer les profils de droits**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Une mauvaise configuration peut donner des accès non souhaités à des données sensibles.
 {% endhint %}
 
@@ -80,6 +80,14 @@ Vérifiez que vous êtes connecté en tant qu'administrateur avec les droits sur
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
-Les profils de droits s’appliquent immédiatement après enregistrement. ⚠️ Évitez d'accorder tous les droits à un profil par défaut : préférez des droits minimums adaptés au poste. ⚠️ Privilégiez une mise à jour régulière des profils pour garantir la sécurité d’accès.
+{% hint style="warning" %}
+Les profils de droits s’appliquent immédiatement après enregistrement.
+{% endhint %}
+
+{% hint style="warning" %}
+Évitez d'accorder tous les droits à un profil par défaut : préférez des droits minimums adaptés au poste.
+{% endhint %}
+
+{% hint style="warning" %}
+Privilégiez une mise à jour régulière des profils pour garantir la sécurité d’accès.
 {% endhint %}

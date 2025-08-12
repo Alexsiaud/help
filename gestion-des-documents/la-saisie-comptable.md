@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant les [droits de saisie ](../administration/detail-des-droits.md)peut effectuer la saisie comptable des documents.
 {% endhint %}
 
@@ -34,7 +34,7 @@ Assurez-vous d'avoir sélectionné la bonne entreprise avant de commencer la sai
 
 ### <sup>**Accéder à la saisie comptable**</sup>
 
-&#x20;Cliquer sur **Bannettes**, puis sélectionner l'entreprise concernée. Sélectionner ou rechercher le classeur de dépôt souhaité, puis cliquer sur la loupe en bout de ligne du document à saisir. Une fenêtre à 3 volets redimensionnables s'ouvre :
+Cliquer sur **Bannettes**, puis sélectionner l'entreprise concernée. Sélectionner ou rechercher le classeur de dépôt souhaité, puis cliquer sur la loupe en bout de ligne du document à saisir. Une fenêtre à 3 volets redimensionnables s'ouvre :
 
 * Liste des documents présents dans la bannette
 * Volet de saisie comptable du document
@@ -59,7 +59,7 @@ Si le compte tiers est présent dans le FEC, celui-ci peut être renseigné auto
 
 ### **Vidéo interactive** : compte de tiers 💡
 
-{% @arcade/embed flowId="QKoNFPdDXr9oqr8YKxXU" url="https://app.arcade.software/share/QKoNFPdDXr9oqr8YKxXU" %}
+{% @arcade/embed url="https://app.arcade.software/share/QKoNFPdDXr9oqr8YKxXU" flowId="QKoNFPdDXr9oqr8YKxXU" %}
 
 ### <sup>**Comptes de charges**</sup>
 
@@ -69,7 +69,7 @@ Saisir les premières lettres ou chiffres des comptes ou un mot du libellé dans
 
 Saisir les premières lettres ou chiffres des comptes ou un mot du libellé dans les champs des comptes de TVA. Cliquer sur l'icône **plus** pour ajouter une ligne et sur l'icône **corbeille** pour supprimer une ligne. Cliquer sur **Enregistrer** pour valider la saisie. Cliquer sur **Enregistrer** pour valider la saisie.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Une fois enregistré, le document est exporté et n'est plus visible dans la bannette.
 {% endhint %}
 
@@ -85,10 +85,10 @@ Une fois enregistré, le document est exporté et n'est plus visible dans la ban
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
-Une fois la saisie enregistrée, le document passe en export et disparaît de la bannette. Vérifiez bien vos saisies avant de valider.&#x20;
+{% hint style="warning" %}
+Une fois la saisie enregistrée, le document passe en export et disparaît de la bannette. Vérifiez bien vos saisies avant de valider.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Consultez toujours la zone **Vigilances** pour vous assurer qu'aucune information importante n'a été omise lors de la saisie.
 {% endhint %}

@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** peut créer et gérer les tampons personnalisés.
 {% endhint %}
 
@@ -82,6 +82,6 @@ Accédez à la liste des tampons et utilisez l'option de suppression. Attention,
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Les tampons créés sont visibles par tous les utilisateurs ayant accès aux classeurs associés. Assurez-vous que le contenu est approprié pour un usage partagé.
 {% endhint %}

@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au déploiement en masse**](../../administration/detail-des-droits.md) pourra accéder aux modèles de natures de frais.
 {% endhint %}
 
@@ -27,7 +27,7 @@ Les modèles de nature de frais permettent de standardiser la configuration comp
 
 ### <sup>**Préparer l'environnement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Une mauvaise configuration initiale entraînera des erreurs de saisie et des dysfonctionnements dans les circuits de validation de note de frais.
 {% endhint %}
 
@@ -40,7 +40,7 @@ Une mauvaise configuration initiale entraînera des erreurs de saisie et des dys
 
 ### Vidéo interactive 💡
 
-{% @arcade/embed flowId="SADnjkLjs1kfjxyI4cLS" url="https://app.arcade.software/share/SADnjkLjs1kfjxyI4cLS" %}
+{% @arcade/embed url="https://app.arcade.software/share/SADnjkLjs1kfjxyI4cLS" flowId="SADnjkLjs1kfjxyI4cLS" %}
 
 ***
 

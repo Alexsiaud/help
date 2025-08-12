@@ -20,7 +20,7 @@ layout:
 
 ### <sup>**Prérequis / Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur avec le droit [**Enregistrer les documents**](../administration/detail-des-droits.md) peut effectuer des modifications sur les documents.
 {% endhint %}
 
@@ -59,11 +59,11 @@ Les modifications effectuées ne seront sauvegardées qu'après avoir cliqué su
 
 Fusion de document :
 
-{% @arcade/embed flowId="IBMNmXkOkNK3VyqYjnyj" url="https://app.arcade.software/share/IBMNmXkOkNK3VyqYjnyj" %}
+{% @arcade/embed url="https://app.arcade.software/share/IBMNmXkOkNK3VyqYjnyj" flowId="IBMNmXkOkNK3VyqYjnyj" %}
 
-Eclater les documents :&#x20;
+Eclater les documents :
 
-{% @arcade/embed flowId="7UuBXRsFS0C2hpyYLcN0" url="https://app.arcade.software/share/7UuBXRsFS0C2hpyYLcN0" %}
+{% @arcade/embed url="https://app.arcade.software/share/7UuBXRsFS0C2hpyYLcN0" flowId="7UuBXRsFS0C2hpyYLcN0" %}
 
 ***
 

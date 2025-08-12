@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) créer un canal de collecte Sharepoint.
 {% endhint %}
 
@@ -20,14 +20,14 @@ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la
 
 ***
 
-### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡
 
-{% @arcade/embed flowId="7zXHcTuYxlw1H4A2fhum" url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" %}
+{% @arcade/embed url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" flowId="7zXHcTuYxlw1H4A2fhum" %}
 
 ### <sup>**Préparer l'environnement**</sup>
 
-**Une mauvaise configuration du classeur de destination peut entraîner une mauvaise collecte des documents**
-**Critères obligatoires avant création :**
+**Une mauvaise configuration du classeur de destination peut entraîner une mauvaise collecte des documents** **Critères obligatoires avant création :**
+
 * Avoir un classeur de destination créé
 * Disposer des identifiants du compte SharePoint associé (requis pour l'authentification de la connexion), à défaut le contact de l’utilisateur détenant les identifiants
 
@@ -44,7 +44,9 @@ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la
 
 **Une fenêtre de connexion SharePoint s'ouvrira automatiquement - gardez vos identifiants à portée de main. Finaliser la connexion SharePoint.**
 
+{% hint style="warning" %}
 **Sans validation de la connexion SharePoint, le canal ne pourra pas collecter de documents.**
+{% endhint %}
 
 ### **Si vous avez les identifiants SharePoint :**
 
@@ -58,7 +60,9 @@ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la
 3. Sélectionnez l'**utilisateur** ayant les accès
 4. L’utilisateur va recevoir une notification et pourra renseigner ses identifiants
 
+{% hint style="info" %}
 **Vous pouvez tester la collecte manuellement via "Exécuter manuellement le processus de collecte".**
+{% endhint %}
 
 ***
 

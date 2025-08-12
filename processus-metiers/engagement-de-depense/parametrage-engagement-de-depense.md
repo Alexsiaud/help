@@ -6,15 +6,17 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** pourra paramétrer les engagements de dépenses.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un profil **initiateur** dans un circuit de validation d’engagement de dépenses peut initier un bon de commande.
 {% endhint %}
 
+{% hint style="success" %}
 **Un classeur de plan de classement** dédié doit obligatoirement être créé en amont.
+{% endhint %}
 
 ***
 
@@ -40,7 +42,7 @@ Ce processus se concrétise par l'émission d'un bon de commande et inclut un ci
 
 ### <sup>**Préparer l'environnement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Une mauvaise configuration initiale peut bloquer tout le processus de validation.
 {% endhint %}
 
@@ -80,10 +82,10 @@ Une mauvaise configuration initiale peut bloquer tout le processus de validation
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Seuls les profils initiateurs peuvent créer des engagements de dépenses. Les valideurs sont définis dans le circuit de validation et reçoivent des notifications automatiques.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Une fois un engagement soumis, il ne peut être modifié que par les valideurs dans le circuit. Vérifiez toutes les informations avant soumission.
 {% endhint %}

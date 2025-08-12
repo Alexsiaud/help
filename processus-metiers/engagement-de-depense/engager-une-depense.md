@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un profil **initiateur** dans un circuit de validation d’engagement de dépenses peut initier un bon de commande.
 {% endhint %}
 
@@ -33,12 +33,10 @@ Procédez comme suit :
 9. Vérifiez l'état du budget avec le curseur visuel
 10. Cliquez sur **Enregistrer et soumettre**
 
-{% hint style="info" %}
-Vous pouvez créer les articles à la volée dans le tableau de la commande.
-{% endhint %}
+Le bon de commande est maintenant visible dans vos engagements avec son statut de validation.
 
 {% hint style="info" %}
-Le bon de commande est maintenant visible dans vos engagements avec son statut de validation.
+Vous pouvez créer les articles à la volée dans le tableau de la commande.
 {% endhint %}
 
 ***
@@ -83,10 +81,10 @@ Consultez l'historique de validation disponible dans le détail de chaque engage
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Seuls les profils initiateurs peuvent créer des engagements de dépenses. Les valideurs sont définis dans le circuit de validation et reçoivent des notifications automatiques.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Une fois un engagement soumis, il ne peut être modifié que par les valideurs dans le circuit. Vérifiez toutes les informations avant soumission.
 {% endhint %}

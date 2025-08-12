@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un mail dédié.
 {% endhint %}
 
@@ -28,9 +28,9 @@ Cette solution est idéale pour automatiser la collecte de documents récurrents
 
 ***
 
-### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡
 
-{% @arcade/embed flowId="QvTy0RsptgAiTileM9NK" url="https://app.arcade.software/share/QvTy0RsptgAiTileM9NK" %}
+{% @arcade/embed url="https://app.arcade.software/share/QvTy0RsptgAiTileM9NK" flowId="QvTy0RsptgAiTileM9NK" %}
 
 ***
 
@@ -75,7 +75,7 @@ Une fois configuré, les documents envoyés sur cette adresse seront :
 2. Cliquez sur Boîte de messagerie
 3. Consultez la **messagerie**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 La messagerie est boîte de réception uniquement, il ne sera pas possible de répondre aux mails reçus.
 {% endhint %}
 
@@ -99,6 +99,6 @@ Il est inutile de cliquer sur les pièces jointes dans la boîte de messagerie c
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Les informations contenues dans l'objet et le corps du mail sont visibles dans la boîte de messagerie mais seules les pièces jointes sont traitées et stockées dans la bannette.
 {% endhint %}
