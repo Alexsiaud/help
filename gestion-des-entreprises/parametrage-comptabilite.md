@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur avec le droit [**Autoriser l’accès au paramétrage de la comptabilité**](../administration/detail-des-droits.md) peut configurer les informations comptables.
 
 Ces configurations impactent directement les automatisations de vos saisies comptables.
@@ -24,8 +24,7 @@ Ces configurations impactent directement les automatisations de vos saisies comp
 ### <sup>**Quand NE PAS modifier ces paramètres :**</sup>
 
 * En cours d'exercice sans validation préalable de l'expert-comptable
-* Pendant les périodes de clôture ou déclarations fiscales[
-  ](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+* Pendant les périodes de clôture ou déclarations fiscales
 
 ***
 
@@ -33,12 +32,12 @@ Ces configurations impactent directement les automatisations de vos saisies comp
 
 {% hint style="info" %}
 **Impact critique** : Une mauvaise configuration peut compromettre l’export vers le logiciel comptable
+{% endhint %}
 
 **Critères obligatoires avant configuration :**
 
 * **Code dossier identique** : Le code dossier INGENEO doit correspondre exactement à celui de votre logiciel comptable pour permettre l’export ou la synchronisation si le logiciel comptable le permet, pour certains logiciels comptables un menu déroulant sera proposé
 * **Informations logiciel à jour** : Vérifiez la version et les paramètres de votre logiciel comptable avant configuration
-{% endhint %}
 
 ***
 

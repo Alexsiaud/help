@@ -6,7 +6,7 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la comptabilité** ](../administration/detail-des-droits.md)peut créer et configurer des classeurs comptables.
 
 Il sera nécessaire, un fois le classeur créé d'attribuer le droit sur ce dernier **Gérer les référentiels associés (ajouter, modifier, supprimer)**
@@ -22,9 +22,9 @@ Créer plusieurs classeurs comptable permet également d’automatiser des élé
 
 ***
 
-### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡
 
-{% @arcade/embed flowId="ju5pEnAEOySPw1pj9bYh" url="https://app.arcade.software/share/ju5pEnAEOySPw1pj9bYh" %}
+{% @arcade/embed url="https://app.arcade.software/share/ju5pEnAEOySPw1pj9bYh" flowId="ju5pEnAEOySPw1pj9bYh" %}
 
 ***
 
@@ -86,10 +86,10 @@ Vérifiez la configuration du contrôle des doublons dans le menu paramétrage g
 
 Rendez-vous dans le menu paramétrage avancé et désactivez les fonctions non désirées.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 La configuration des classeurs comptables impacte directement l'organisation de vos données comptables.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Assurez-vous de bien définir tous les paramètres avant de commencer à utiliser le classeur.
 {% endhint %}

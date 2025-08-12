@@ -14,7 +14,7 @@ Seul un utilisateur ayant le droit [**Autoriser la création d’entreprise**](.
 
 ### <sup>**Contexte & Recommandations**</sup>
 
-La création d'une entreprise permet d'initialiser un nouveau dossier comptable.&#x20;
+La création d'une entreprise permet d'initialiser un nouveau dossier comptable.
 
 Cette action est nécessaire avant de pouvoir traiter les factures ou accéder aux [paramètres avancés](parametrages-generaux.md).
 
@@ -26,9 +26,9 @@ Lors de l'intégration d'un nouveau client
 
 ***
 
-### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡
 
-{% @arcade/embed flowId="Ekl1mfs0I4ZlmeMQmkoz" url="https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz" %}
+{% @arcade/embed url="https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz" flowId="Ekl1mfs0I4ZlmeMQmkoz" %}
 
 ***
 
@@ -105,6 +105,6 @@ Accédez aux paramètres avancés de l'entreprise via le menu entreprise.
 
 ### <sup>**Avertissement**</sup>
 
-{% hint style="danger" %}
-&#x20;Une fois l'entreprise créée, assurez-vous de vérifier la cohérence des données importées avant de commencer le traitement des factures.
+{% hint style="warning" %}
+Une fois l'entreprise créée, assurez-vous de vérifier la cohérence des données importées avant de commencer le traitement des factures.
 {% endhint %}
