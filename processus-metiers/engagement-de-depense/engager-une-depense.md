@@ -7,10 +7,20 @@ hidden: true
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-Seul un profil **initiateur** dans un circuit de validation d’engagement de dépenses peut initier un bon de commande.
+Seul un profil **initiateur** dans un [circuit de validation](../workflow/circuit-de-validation.md) d’engagement de dépenses peut initier un bon de commande.
 {% endhint %}
 
 ***
+
+### <sup>**Vidéo interactive**</sup> :bulb:
+
+Saisir une dépense :
+
+{% @arcade/embed flowId="uZ9fIQVmtfjSlUYz4Z2m" url="https://app.arcade.software/share/uZ9fIQVmtfjSlUYz4Z2m" %}
+
+Valider un engagement de dépense :
+
+{% @arcade/embed flowId="WwEGzzPsb9VA55bIod27" url="https://app.arcade.software/share/WwEGzzPsb9VA55bIod27" %}
 
 ### <sup>**Créer un engagement de dépenses**</sup>
 
@@ -58,7 +68,7 @@ Procédez comme suit :
 4. Consultez l'historique si nécessaire
 
 {% hint style="info" %}
-Les documents validés sont consultables dans le menu **Rechercher**.
+Les documents validés sont consultables dans le menu [**Rechercher**](../../gestion-des-documents/rechercher-un-document.md).
 {% endhint %}
 
 ***

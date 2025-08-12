@@ -7,7 +7,7 @@ hidden: true
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** pourra paramétrer les engagements de dépenses.
+Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) pourra paramétrer les engagements de dépenses.
 {% endhint %}
 
 {% hint style="success" %}
@@ -24,7 +24,23 @@ Seul un profil **initiateur** dans un circuit de validation d’engagement de d�
 
 L'engagement de dépenses sur INGENEO permet à une structure de prendre formellement la décision de dépenser des fonds pour un achat.
 
-Ce processus se concrétise par l'émission d'un bon de commande et inclut un circuit de validation.
+Ce processus se concrétise par l'émission d'un bon de commande et inclut un [circuit de validation](../workflow/circuit-de-validation.md).
+
+***
+
+### Vidéo interactive :bulb:
+
+Création du classeur :
+
+{% @arcade/embed flowId="IFxgeNSC0o8YJn9Z1JiY" url="https://app.arcade.software/share/IFxgeNSC0o8YJn9Z1JiY" %}
+
+Création d'un formulaire :
+
+{% @arcade/embed flowId="VyLxt0pBx4jSaNiYozcd" url="https://app.arcade.software/share/VyLxt0pBx4jSaNiYozcd" %}
+
+Création du circuit de validation :
+
+{% @arcade/embed flowId="yDulI5LZhyDxCByXg4hn" url="https://app.arcade.software/share/yDulI5LZhyDxCByXg4hn" %}
 
 ***
 

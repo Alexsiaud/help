@@ -7,7 +7,7 @@ hidden: true
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** peut configurer l'Obsolescence & Durée de conservation.
+Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) peut configurer l'Obsolescence & Durée de conservation.
 {% endhint %}
 
 ***

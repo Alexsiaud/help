@@ -7,7 +7,7 @@ hidden: true
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-Un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** peut configurer le chaînage documentaire.
+Un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) peut configurer le chaînage documentaire.
 {% endhint %}
 
 ***
@@ -35,6 +35,18 @@ Assurez-vous d'avoir correctement configuré vos classeurs avant de procéder au
 * Disposer des droits pour créer des classeurs
 * Avoir identifié les types de documents à chaîner
 * Connaître la structure des numéros de commande à reconnaître
+
+***
+
+### Vidéo interactive :bulb:
+
+Paramétrage :&#x20;
+
+{% @arcade/embed flowId="auFxRu9jM50djA93UQ25" url="https://app.arcade.software/share/auFxRu9jM50djA93UQ25" %}
+
+Rapprochement :
+
+{% @arcade/embed flowId="dYhtZeHon6LGY9xlNwPj" url="https://app.arcade.software/share/dYhtZeHon6LGY9xlNwPj" %}
 
 ***
 
