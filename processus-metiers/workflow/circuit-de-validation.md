@@ -16,7 +16,7 @@ Un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des proces
 
 Le circuit de validation permet d'automatiser les demandes de validation pour des documents déposés dans des classeurs comptables ou de plan de classement.
 
-### <sup>**Types de circuits de validation :**</sup>
+### <sup>**Types de circuits de validation**</sup>
 
 * **Prédéfini** : s'appliquent aux classeurs comptables ou de plan de classement
 * **Formulaire** : spécifiques aux processus métier [note de frais](../notes-de-frais/) ou [engagement de dépense](../engagement-de-depense/), retrouvez les paramétrages dans les pages dédiées
@@ -65,7 +65,7 @@ Il est possible d’appliquer automatiquement des [statuts](configurer-les-statu
 
 ***
 
-### <sup>**Options supplémentaires par utilisateur disponible :**</sup>
+### <sup>**Options supplémentaires par utilisateur disponible**</sup>
 
 * Changer le circuit de validation
 * Changer le classeur
