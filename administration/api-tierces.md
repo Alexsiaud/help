@@ -7,7 +7,7 @@ hidden: true
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-Seul un utilisateur ayant le droit **Autoriser l'accès à la configuration de la plateforme** peut créer des clés d'API tierces.
+Seul un utilisateur ayant le droit [**Autoriser l'accès à la configuration de la plateforme**](detail-des-droits.md) peut créer des clés d'API tierces.
 {% endhint %}
 
 ***

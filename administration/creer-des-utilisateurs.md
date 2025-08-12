@@ -9,7 +9,7 @@ hidden: true
 **Permissions requises selon le type d'utilisateur :**
 
 {% hint style="success" %}
-**Utilisateur interne** : Seul un utilisateur ayant le droit **Autoriser l’accès à l’administration de la plateforme** peut créer un utilisateur interne
+**Utilisateur interne** : Seul un utilisateur ayant le droit [**Autoriser l’accès à l’administration de la plateforme**](detail-des-droits.md) peut créer un utilisateur interne
 {% endhint %}
 
 {% hint style="success" %}
@@ -25,11 +25,23 @@ La plateforme distingue deux types d'utilisateurs avec des droits différents :
 * **Utilisateur interne** : comptable, expert-comptable, personne interne à la structure
 * **Utilisateur externe** : personne externe à votre structure (client, commissaire aux comptes...)
 
-Les droits octroyés à chaque utilisateur sont paramétrables par profils de site ou d’**entreprise**.
+Les droits octroyés à chaque utilisateur sont paramétrables par [profils de site ou d’**entreprise**](gerer-les-profils-de-droits.md).
 
 {% hint style="warning" %}
 **Limitation importante** : Affectez un profil d'entreprise uniquement si l'utilisateur doit avoir accès à certaines entreprises spécifiques.
 {% endhint %}
+
+***
+
+### Vidéo interactive :bulb:
+
+Création utilisateur client  :
+
+{% @arcade/embed flowId="nFE5LGPWOKIUPOcl3O5s" url="https://app.arcade.software/share/nFE5LGPWOKIUPOcl3O5s" %}
+
+Création utilisateur collaborateur :&#x20;
+
+{% @arcade/embed flowId="HRoqyR4NZW2v9htRUrDM" url="https://app.arcade.software/share/HRoqyR4NZW2v9htRUrDM" %}
 
 ***
 

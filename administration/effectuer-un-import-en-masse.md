@@ -7,7 +7,7 @@ hidden: true
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-Seul un utilisateur avec le droit **Autoriser l’accès au déploiement en masse** peut effectuer des imports en masse d'entreprises.
+Seul un utilisateur avec le droit [**Autoriser l’accès au déploiement en masse**](detail-des-droits.md) peut effectuer des imports en masse d'entreprises.
 {% endhint %}
 
 ***

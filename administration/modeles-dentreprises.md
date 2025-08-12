@@ -7,7 +7,7 @@ hidden: true
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-Seul un utilisateur ayant le droit **Autoriser l’accès au déploiement en masse** peut créer et gérer les modèles d'entreprise.
+Seul un utilisateur ayant le droit [**Autoriser l’accès au déploiement en masse**](detail-des-droits.md) peut créer et gérer les modèles d'entreprise.
 {% endhint %}
 
 ***
@@ -73,7 +73,7 @@ Accédez à **Menu entreprise** > **Actions multiples** > **Modèles** > **Gesti
 
 **Vous ne voyez pas les classeurs dans les profils d'entreprise ?**
 
-Vérifiez que vous avez créé les classeurs comptables et de GED AVANT de configurer les profils d'entreprise. Recréez les profils si nécessaire.
+Vérifiez que vous avez créé les classeurs comptables et de GED avant de configurer les profils d'entreprise. Recréez les profils si nécessaire.
 
 **Vous voulez dupliquer un modèle existant ?**
 
