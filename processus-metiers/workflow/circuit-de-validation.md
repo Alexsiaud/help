@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Circuit de validation
 
 ### <sup>**Prérequis et Permissions**</sup>

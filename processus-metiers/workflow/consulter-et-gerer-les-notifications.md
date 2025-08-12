@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Consulter et gérer les notifications
 
 ### <sup>**Prérequis et Permissions**</sup>
