@@ -21,7 +21,7 @@ La saisie comptable permet de traiter les documents présents dans les bannettes
 ### <sup>**Préparer la saisie**</sup>
 
 {% hint style="info" %}
-Assurez vous d'avoir sélectionné la bonne entreprise avant de commencer la saisie pour éviter les erreurs de comptabilisation.
+Assurez-vous d'avoir sélectionné la bonne entreprise avant de commencer la saisie pour éviter les erreurs de comptabilisation.
 {% endhint %}
 
 **Critères obligatoires :**

@@ -30,7 +30,7 @@ L'application mobile permet une saisie rapide et pratique de vos notes de frais 
 
 ### <sup>**Préparer la saisie**</sup>
 
-Assurez vous que vos paramètres sont correctement configurés sur votre plateforme avant de commencer la saisie mobile.
+Assurez-vous que vos paramètres sont correctement configurés sur votre plateforme avant de commencer la saisie mobile.
 
 {% hint style="info" %}
 Vérifiez que vous sélectionnez la bonne entreprise avant de commencer la saisie.

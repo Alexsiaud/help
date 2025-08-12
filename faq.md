@@ -61,7 +61,7 @@ Pour paramétrer un connecteur Windows, référez vous à la documentation assoc
 
 **J'ai des documents en erreur d'export, que faire ?**&#x20;
 
-Assurez vous d'avoir créé un tableau de bord avec l'indicateur "Liste des documents comptables en erreur d'export", vous aurez la liste des documents en erreur ainsi que la raison de l'erreur pour corriger le paramétrage. Corrigez la saisie, enregistrez vos corrections puis remettez à l'export votre écriture.
+Assurez-vous d'avoir créé un tableau de bord avec l'indicateur "Liste des documents comptables en erreur d'export", vous aurez la liste des documents en erreur ainsi que la raison de l'erreur pour corriger le paramétrage. Corrigez la saisie, enregistrez vos corrections puis remettez à l'export votre écriture.
 
 **Est-ce que je peux récupérer un document supprimé sur INGENEO ?**&#x20;
 
