@@ -39,7 +39,7 @@ La saisie bancaire sur INGENEO offre une approche flexible permettant le traitem
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/sn5CnvmZkENVnYXL9eIt" flowId="sn5CnvmZkENVnYXL9eIt" %}
 

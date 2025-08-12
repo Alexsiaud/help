@@ -18,7 +18,7 @@ Les modèles de nature de frais permettent de standardiser la configuration comp
 
 ***
 
-### <sup>**Quand l'utiliser :**</sup>
+**Quand l'utiliser :**
 
 * Création récurrente de note de frais
 * Gain de temps lors de création de note de frais
@@ -38,7 +38,7 @@ Une mauvaise configuration initiale entraînera des erreurs de saisie et des dys
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/SADnjkLjs1kfjxyI4cLS" flowId="SADnjkLjs1kfjxyI4cLS" %}
 

@@ -18,7 +18,7 @@ OneDrive est adapté pour la collecte automatisée de documents déposés dans l
 
 ***
 
-### <sup>**Quand l'utiliser :**</sup>
+**Quand l'utiliser :**
 
 * Import régulier de documents clients
 * Dépôt sécurisé de pièces comptables
@@ -26,7 +26,7 @@ OneDrive est adapté pour la collecte automatisée de documents déposés dans l
 
 ***
 
-### <sup>**Informations importantes :**</sup>
+### <sup>**Informations importantes**</sup>
 
 * Un document collecté ne sera jamais collecté une seconde fois, même s'il reste dans l'espace
 * Collecte automatique limitée à une fois par jour
@@ -34,7 +34,7 @@ OneDrive est adapté pour la collecte automatisée de documents déposés dans l
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" flowId="7zXHcTuYxlw1H4A2fhum" %}
 

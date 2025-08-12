@@ -25,7 +25,7 @@ POWENS permet la récupération automatique de mouvements bancaires.
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/wCQUeyBSdNjxFGKdkzda" flowId="wCQUeyBSdNjxFGKdkzda" %}
 

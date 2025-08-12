@@ -25,15 +25,13 @@ Il est possible d’appliquer automatiquement des [statuts](configurer-les-statu
 
 ***
 
-### <sup>**Quand l'utiliser :**</sup>
+**Quand l'utiliser :**
 
 * Pour digitaliser la validation de documents
 * Quand plusieurs niveaux d'approbation sont nécessaires
 * Pour tracer le parcours de validation des documents
 
-***
-
-### <sup>**Fonctionnalités disponibles :**</sup>
+**Fonctionnalités disponibles :**
 
 * Création de plusieurs niveaux avec différents rôles
 * Circuit obligatoire par classeur ou plan de classement

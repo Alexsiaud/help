@@ -14,14 +14,14 @@ Ces configurations impactent directement les automatisations de vos saisies comp
 
 ***
 
-### <sup>**Quand utiliser cette configuration :**</sup>
+**Quand utiliser cette configuration :**
 
 * Configuration initiale après [création d'entreprise](creer-une-entreprise.md)
 * Changement de logiciel comptable ou mise à jour majeure
 * Modification du régime fiscal ou du type de comptabilité
 * Optimisation des automatisations de saisie
 
-### <sup>**Quand NE PAS modifier ces paramètres :**</sup>
+**Quand NE PAS modifier ces paramètres :**
 
 * En cours d'exercice sans validation préalable de l'expert-comptable
 * Pendant les périodes de clôture ou déclarations fiscales

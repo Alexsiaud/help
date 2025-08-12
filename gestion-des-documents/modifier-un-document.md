@@ -32,7 +32,7 @@ La modification de documents depuis les bannettes permet d'effectuer diverses op
 
 ***
 
-### <sup>**Quand l'utiliser :**</sup>
+**Quand l'utiliser :**
 
 * Pour corriger l'orientation d'un document scanné
 * Découper une zone spécifique (ex : tickets scannés)

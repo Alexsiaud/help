@@ -46,13 +46,11 @@ Le connecteur marchand permet la récupération automatique de factures depuis l
 
 ***
 
-### <sup>**Gestion des collectes**</sup>
+**Gestion des collectes :**
 
 La collecte automatique s'effectue **une fois par jour**.
 
-***
-
-### <sup>**Consulter l'historique :**</sup>
+**Consulter l'historique :**
 
 Menu **Collecte > Historique** pour visualiser toutes les collectes effectuées
 

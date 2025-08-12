@@ -20,14 +20,14 @@ L'utilisateur doit également disposer des identifiants Dropbox du compte ou pou
 
 ***
 
-### <sup>**Quand l'utiliser :**</sup>
+**Quand l'utiliser :**
 
 * Import régulier de documents clients
 * Dépôt sécurisé de pièces comptables
 * Automatisation de la collecte documentaire
 * Partage de fichiers volumineux avec vos clients
 
-### <sup>**Limitations importantes :**</sup>
+**Limitations importantes :**
 
 * Un document collecté ne sera jamais collecté une seconde fois, même s'il reste dans l'espace
 * Collecte automatique limitée à une fois par jour
@@ -35,7 +35,7 @@ L'utilisateur doit également disposer des identifiants Dropbox du compte ou pou
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" flowId="7zXHcTuYxlw1H4A2fhum" %}
 
@@ -71,7 +71,7 @@ Pour une collecte manuelle :
 
 ***
 
-### <sup>**Consulter l'historique :**</sup>
+**Consulter l'historique :**
 
 Menu **Collecte > Historique** pour visualiser toutes les collectes effectuées
 

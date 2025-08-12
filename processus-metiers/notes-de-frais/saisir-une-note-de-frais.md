@@ -12,7 +12,7 @@ Seul un utilisateur étant **initiateur** d'un circuit de validation de note de 
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/lF7cVoQXhj3ll9mE0PJl" flowId="lF7cVoQXhj3ll9mE0PJl" %}
 

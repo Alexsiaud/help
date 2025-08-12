@@ -12,7 +12,7 @@ Seuls les utilisateurs ayant le droit [**Autoriser l’accès au paramétrage de
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% hint style="warning" %}
 Le paramétrage des notes de frais nécessite obligatoirement un [**classeur comptable**](../../gestion-des-entreprises/classeurs-comptables.md) de type **Notes de frais**.
@@ -28,13 +28,13 @@ La création de notes de frais nécessite obligatoirement un [**circuit de valid
 
 ***
 
-### <sup>**Quand l'utiliser :**</sup>
+**Quand l'utiliser :**
 
 * Pour la gestion des remboursements de frais professionnels de collaborateurs
 * Lors d’un besoin de validation de dépenses
 * Pour automatiser la saisie de notes de frais
 
-### <sup>**Quand NE PAS l'utiliser :**</sup>
+**Quand NE PAS l'utiliser :**
 
 * Pour des frais exceptionnels ou ponctuels sans besoin de validation
 * Si vous préférez une saisie comptable directe

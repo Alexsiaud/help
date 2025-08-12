@@ -20,13 +20,7 @@ Cette action est nécessaire avant de pouvoir traiter les factures ou accéder a
 
 ***
 
-### <sup>**Quand l'utiliser :**</sup>
-
-Lors de l'intégration d'un nouveau client
-
-***
-
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz" flowId="Ekl1mfs0I4ZlmeMQmkoz" %}
 

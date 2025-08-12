@@ -20,7 +20,7 @@ Cette solution est idéale pour automatiser la collecte de documents récurrents
 
 ***
 
-### <sup>**Limitations importantes :**</sup>
+### <sup>**Limitations importantes**</sup>
 
 * Le mail dédié permet uniquement la réception de documents
 * Les documents sont traités automatiquement par OCR
@@ -28,7 +28,7 @@ Cette solution est idéale pour automatiser la collecte de documents récurrents
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/QvTy0RsptgAiTileM9NK" flowId="QvTy0RsptgAiTileM9NK" %}
 

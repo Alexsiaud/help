@@ -26,7 +26,7 @@ La recherche de documents permet de retrouver rapidement un fichier dans vos cla
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/3LX4Tn5WwqCZGSNtXAEu" flowId="3LX4Tn5WwqCZGSNtXAEu" %}
 

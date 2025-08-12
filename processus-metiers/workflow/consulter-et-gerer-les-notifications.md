@@ -18,7 +18,7 @@ Le système de notifications INGENEO centralise toutes les informations importan
 
 ***
 
-### <sup>**Ce que traite les notifications :**</sup>
+### <sup>**Ce que traite les notifications**</sup>
 
 * Suivi des traitements en cours (OCR, demandes, validations, etc.)
 * Consultation des rapports générés automatiquement
@@ -29,7 +29,7 @@ Le système de notifications INGENEO centralise toutes les informations importan
 
 ***
 
-### <sup>**Bonnes pratiques recommandées :**</sup>
+### <sup>**Bonnes pratiques recommandées**</sup>
 
 * **Consultation régulière** : Vérifiez quotidiennement l'icône de notification pour éviter l'accumulation d'alertes
 * **Priorisation** : Identifiez les notifications critiques nécessitant une action immédiate

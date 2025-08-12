@@ -22,7 +22,7 @@ Créer plusieurs classeurs comptable permet également d’automatiser des élé
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/ju5pEnAEOySPw1pj9bYh" flowId="ju5pEnAEOySPw1pj9bYh" %}
 

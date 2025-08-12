@@ -32,7 +32,7 @@ Assurez-vous d'avoir les informations bancaires correctes avant de commencer. Un
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/0MUKXJNUTLrF7wOJ4gvc" flowId="0MUKXJNUTLrF7wOJ4gvc" %}
 

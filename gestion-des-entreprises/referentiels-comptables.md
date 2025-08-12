@@ -18,14 +18,14 @@ Les référentiels comptables constituent la base de données de votre entrepris
 
 ***
 
-### <sup>**Quand utiliser cette fonctionnalité :**</sup>
+**Quand utiliser cette fonctionnalité :**
 
 * Configuration initiale d'une nouvelle entreprise
 * Mise à jour des paramètres comptables en cours d'exercice
 * Adaptation aux évolutions réglementaires (TVA, plan comptable)
 * Optimisation des automatisations de saisie
 
-### <sup>**Quand NE PAS modifier les référentiels :**</sup>
+**Quand NE PAS modifier les référentiels :**
 
 * En cours de clôture comptable (risque d'incohérence)
 * Pour des modifications ponctuelles (utilisez les saisies manuelles)
@@ -85,6 +85,6 @@ Ces éléments peuvent être créés directement depuis votre saisie sans passer
 
 **Limitation de synchronisation** : La synchronisation avec les logiciels comptables n'est disponible que si l'interconnexion est techniquement supportée pour votre logiciel spécifique.
 
-### <sup>**Vidéo interactive**</sup> <sup></sup><sup>: Synchronisation des référentiels comptable 💡</sup>
+### <sup>**Vidéo interactive**</sup> <sup></sup><sup>💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/oDMS1sZpPjnSFvnF01Ha" flowId="oDMS1sZpPjnSFvnF01Ha" %}

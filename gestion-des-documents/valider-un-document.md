@@ -24,7 +24,7 @@ La validation de documents dans un circuit permet de s'assurer qu'un processus d
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/6OOceuIhp3mZr2ioeA49" flowId="6OOceuIhp3mZr2ioeA49" %}
 

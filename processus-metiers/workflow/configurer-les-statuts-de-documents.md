@@ -24,7 +24,7 @@ Les statuts permettent d'identifier un état sur un document (ex : payé, litige
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/b7Nzs7RiKDw3y19C2NAR" flowId="b7Nzs7RiKDw3y19C2NAR" %}
 

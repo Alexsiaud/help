@@ -18,11 +18,11 @@ Google Drive permet de réceptionner automatiquement des documents déposés dan
 
 ***
 
-### <sup>**Quand l'utiliser :**</sup>
+**Quand l'utiliser :**
 
 * Collecte automatisée de documents clients récurrents
 
-### <sup>**Quand NE PAS l'utiliser :**</sup>
+**Quand NE PAS l'utiliser :**
 
 * Pour des envois ponctuels ou urgents (collecte une fois par jour uniquement)
 
@@ -32,7 +32,7 @@ Important : Un document collecté ne sera pas récupéré une seconde fois, mêm
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" flowId="7zXHcTuYxlw1H4A2fhum" %}
 

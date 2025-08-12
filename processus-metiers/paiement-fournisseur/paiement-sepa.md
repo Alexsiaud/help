@@ -20,7 +20,7 @@ Les droits des utilisateurs (**profils de site** ou d’**entreprise**) sont sci
 
 ***
 
-### <sup>**Quand l'utiliser :**</sup>
+**Quand l'utiliser :**
 
 * Pour les paiements fournisseurs sécurisés
 * Pour les virements dans l'espace SEPA

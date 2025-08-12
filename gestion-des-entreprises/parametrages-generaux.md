@@ -18,13 +18,13 @@ Le menu **Informations générales** centralise toutes les données légales et 
 
 ***
 
-### <sup>**Quand utiliser cette fonctionnalité :**</sup>
+**Quand utiliser cette fonctionnalité :**
 
-* Configuration post-[création d'entreprise](creer-une-entreprise.md)
+* Configuration après la [création d'entreprise](creer-une-entreprise.md)
 * Mise à jour suite à changements légaux (adresse, forme juridique)
 * Renforcement de la sécurité avec mot de passe
 
-### <sup>**Quand NE PAS modifier ces informations :**</sup>
+**Quand NE PAS modifier ces informations :**
 
 * Pendant les périodes de déclarations fiscales (risque d'incohérence)
 * Sans vérification préalable des informations légales officielles
@@ -42,7 +42,7 @@ Le menu **Informations générales** centralise toutes les données légales et 
 
 ***
 
-### <sup>**Gestion des informations légales :**</sup>
+### <sup>**Gestion des informations légales**</sup>
 
 1. Consultez les **informations saisies lors de la création**
 2. Vérifiez les **données légales**
@@ -53,7 +53,7 @@ Le menu **Informations générales** centralise toutes les données légales et 
 
 ***
 
-### <sup>**Gestion des unités légales et établissements :**</sup>
+### <sup>**Gestion des unités légales et établissements**</sup>
 
 1. Consultez les **informations de l'unité légale** récupérées via SIRENE
 2. Vérifiez les **données des établissements** associés

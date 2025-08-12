@@ -18,7 +18,7 @@ L'import en masse permet de créer simultanément plusieurs entreprises sur INGE
 
 ***
 
-### <sup>**Quand utiliser cette fonctionnalité :**</sup>
+**Quand utiliser cette fonctionnalité :**
 
 * Déploiement initial pour un cabinet avec de nombreux clients
 * Création groupée d'entreprises avec des paramètres similaires (utiliser les modèles d’entreprises)

@@ -18,7 +18,7 @@ L'import EBICS (Electronic Banking Internet Communication Standard) permet d'int
 
 ***
 
-### <sup>**Quand utiliser cette fonctionnalité :**</sup>
+**Quand utiliser cette fonctionnalité :**
 
 * Quand [l’import POWENS](broken-reference/) (scrapping bancaire) ou [JeDéclare](../connecteurs-tiers/parametrage-jedeclare.md) n’est pas possible
 * Dépôt de mouvements multi-entreprises
@@ -38,7 +38,7 @@ Consultez la documentation dédiée au [paramétrage](parametrage-ebics.md) avan
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/ZPuTbQElU2U42wsRPvoa" flowId="ZPuTbQElU2U42wsRPvoa" %}
 

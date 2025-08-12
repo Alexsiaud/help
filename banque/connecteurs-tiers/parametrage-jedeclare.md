@@ -32,7 +32,7 @@ Le rapprochement des entreprises s'effectue par leurs raisons sociales.
 
 ***
 
-### Vidéo interactive 💡
+### <sup>Vidéo interactive 💡</sup>
 
 JeDéclare Administrateur
 

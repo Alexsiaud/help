@@ -28,13 +28,13 @@ Ce processus se concrétise par l'émission d'un bon de commande et inclut un ci
 
 ***
 
-### <sup>Quand utiliser :</sup>
+Quand utiliser :
 
 * Formaliser vos demandes d'achat
 * Respecter les processus de validation interne
 * Faciliter le rapprochement facture/bon de commande
 
-### <sup>**Quand ne pas l'utiliser :**</sup>
+**Quand ne pas l'utiliser :**
 
 * Les achats d'urgence nécessitant une validation immédiate
 
