@@ -5,7 +5,9 @@ icon: gear-complex
 
 # ADMINISTRATION
 
-Ce menu vous aide à gérer efficacement les utilisateurs sur la plateforme INGENEO
+Un outil collaboratif a besoin d'une administration complète.
+
+Ce menu vous aide à gérer efficacement les utilisateurs, la personnalisation et la gestion de masse de la plateforme INGENEO
 
 ***
 
