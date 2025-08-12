@@ -52,10 +52,16 @@ Vous pouvez sélectionner un autre document de la bannette directement depuis ce
 
 Si le compte tiers est présent dans le FEC, celui-ci peut être renseigné automatiquement si la plateforme a reconnu le fournisseur dans le document. Dans le cas où aucun compte tiers n'est pas renseigné, cliquer dans le champ **Compte** sur une ligne à renseigner :
 
-* **Option 1 - Recherche par nom :** Saisir les premières lettres du nom du compte tiers, puis sélectionner le compte souhaité dans la liste qui s'affiche.
-* **Option 2 - Recherche par libellé :** Saisir les premières lettres du libellé du compte tiers, puis sélectionner le compte souhaité dans la liste qui s'affiche.
-* **Option 3 - Fenêtre de recherche :** tapez sur la touche **Entrée** de votre clavier pour ouvrir la fenêtre de recherche des comptes tiers, puis sélectionner le compte souhaité et valider avec **Sélectionner**.
-* **Option 4 - Création de compte tiers :** Saisir le code du compte tiers, puis tapez sur la touche **Entrée** de votre clavier pour ouvrir la fenêtre de création de compte tiers. Renseigner les différents champs pour la création du compte tiers. Cliquer sur **Entreprise** pour compléter les informations du compte tiers. Cliquer sur **Options avancées** pour sélectionner les différentes options proposées. Cliquer sur **Masque de saisie** pour compléter les informations du compte tiers. Cliquer sur **Enregistrer** en bas de la page. Seuls les **code** et **intitulé** du tiers sont obligatoires à la création, le tiers sera créé en comptabilité à l’intégration de l’écriture.
+* **Option 1 - Recherche par nom :** Saisissez les premières lettres du nom du compte tiers, puis sélectionnez le compte souhaité dans la liste qui s'affiche.
+* **Option 2 - Recherche par libellé :** Saisissez les premières lettres du libellé du compte tiers, puis sélectionnez le compte souhaité dans la liste qui s'affiche.
+* **Option 3 - Fenêtre de recherche :** tapez sur la touche **Entrée** de votre clavier pour ouvrir la fenêtre de recherche des comptes tiers, puis sélectionnez le compte souhaité et validez avec **Sélectionner**.
+* **Option 4 - Création de compte tiers :**&#x20;
+  1. Saisissez le code du compte tiers, puis tapez sur la touche **Entrée** de votre clavier pour ouvrir la fenêtre de création de compte tiers
+  2. Renseignez les différents champs pour la création du compte tiers
+  3. Cliquez sur **Entreprise** pour compléter les informations du compte tiers
+  4. Cliquez sur **Options avancées** pour sélectionner les différentes options proposées
+  5. Cliquez sur **Masque de saisie** pour compléter les informations du compte tiers
+  6. Cliquez sur **Enregistrer** en bas de la page. Seuls les **code** et **intitulé** du tiers sont obligatoires à la création, le tiers sera créé en comptabilité à l’intégration de l’écriture
 
 ### <sup>**Vidéo interactive**</sup> <sup></sup><sup>💡</sup>
 
