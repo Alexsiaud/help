@@ -6,11 +6,17 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur avec le droit **Mettre les factures au paiement** pourra initier un paiement.
+{% hint style="info" %}
+Seul un utilisateur avec le droit **Mettre les factures au paiement** pourra initier un paiement.
+{% endhint %}
 
-✍️ Seul un utilisateur avec le droit **Payer les factures au paiement** pourra initier un paiement.
+{% hint style="info" %}
+Seul un utilisateur avec le droit **Payer les factures au paiement** pourra initier un paiement.
+{% endhint %}
 
-✍️ Seul un utilisateur avec le droit **Autoriser l’accès au paramétrage des processus métier** pourra configurer le paiement.
+{% hint style="info" %}
+Seul un utilisateur avec le droit **Autoriser l’accès au paramétrage des processus métier** pourra configurer le paiement.
+{% endhint %}
 
 ***
 
@@ -22,12 +28,14 @@ Le paiement fournisseur permet d'automatiser le processus de validation et de r�
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ Une mauvaise configuration des droits peut bloquer le processus de paiement ou donner des accès non autorisés.
+{% hint style="info" %}
+Une mauvaise configuration des droits peut bloquer le processus de paiement ou donner des accès non autorisés.
 
 **Critères obligatoires avant de commencer :**
 
 * Entreprise avec numéro SIREN valide
 * Compte tiers avec IBAN et BIC valide
+{% endhint %}
 
 ***
 

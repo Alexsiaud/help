@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit **Autoriser l’accès à la configuration de la plateforme** peut accéder aux configurations de la plateforme
+{% hint style="info" %}
+Seul un utilisateur ayant le droit **Autoriser l’accès à la configuration de la plateforme** peut accéder aux configurations de la plateforme
+{% endhint %}
 
 ***
 
@@ -18,16 +20,20 @@ La configuration des paramètres permet de personnaliser l'interface de la plate
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ Les modifications des paramètres avancés peuvent affecter le fonctionnement de la plateforme pour tous les utilisateurs
+{% hint style="info" %}
+Les modifications des paramètres avancés peuvent affecter le fonctionnement de la plateforme pour tous les utilisateurs
+{% endhint %}
 
 ***
 
 ### <sup>**Accéder aux paramètres**</sup>
 
-⚠️ Toute modification enregistrée sera appliquée immédiatement à l'ensemble de la plateforme
+{% hint style="info" %}
+Toute modification enregistrée sera appliquée immédiatement à l'ensemble de la plateforme
 
 1. Depuis votre compte administrateur, rendez-vous dans le menu principal.
 2. Cliquez sur **Paramètres** dans le menu principal puis accédez à la section **Configuration**.
+{% endhint %}
 
 ### <sup>**Configuration - Généralités**</sup>
 
@@ -36,7 +42,9 @@ La configuration des paramètres permet de personnaliser l'interface de la plate
   * **Restaurer les images** : permet de revenir aux visuels par défaut
   * **Restaurer les couleurs** : permet de revenir à la palette de couleurs d'origine
 
-✍️ Ces options permettent de personnaliser entièrement l'identité visuelle de votre plateforme
+{% hint style="info" %}
+Ces options permettent de personnaliser entièrement l'identité visuelle de votre plateforme
+{% endhint %}
 
 ### <sup>**Journaux**</sup>
 

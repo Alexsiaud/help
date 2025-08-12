@@ -6,9 +6,11 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la comptabilité** ](../administration/detail-des-droits.md)peut créer et configurer des classeurs comptables.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la comptabilité** ](../administration/detail-des-droits.md)peut créer et configurer des classeurs comptables.
 
 Il sera nécessaire, un fois le classeur créé d'attribuer le droit sur ce dernier **Gérer les référentiels associés (ajouter, modifier, supprimer)**
+{% endhint %}
 
 ***
 
@@ -20,7 +22,7 @@ Créer plusieurs classeurs comptable permet également d’automatiser des élé
 
 ***
 
-### Vidéo interactive :bulb:[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
 
 {% @arcade/embed flowId="ju5pEnAEOySPw1pj9bYh" url="https://app.arcade.software/share/ju5pEnAEOySPw1pj9bYh" %}
 
@@ -28,24 +30,28 @@ Créer plusieurs classeurs comptable permet également d’automatiser des élé
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ Une mauvaise configuration du classeur peut impacter l'organisation de vos données comptables.
+{% hint style="info" %}
+Une mauvaise configuration du classeur peut impacter l'organisation de vos données comptables.
 
 **Critères obligatoires :**
 
 * Définir le nom du classeur de manière claire et explicite
 * Choisir le type de classeur correspondant à votre usage pour assurer une configuration appropriée
 * Vérifier vos permissions d'accès au menu entreprise
+{% endhint %}
 
 ***
 
 ### <sup>**Créer le classeur comptable**</sup>
 
-⚠️ Le type de classeur ne pourra pas être modifié après création.
+{% hint style="info" %}
+Le type de classeur ne pourra pas être modifié après création.
 
 1. Depuis votre compte, rendez-vous dans le menu **entreprise** – **Classeurs comptables**.
 2. Cliquez sur **Ajouter**.
 3. Saisissez un nom pour le classeur.
 4. Sélectionnez un type de classeur correspondant à votre usage.
+{% endhint %}
 
 ***
 
@@ -60,7 +66,9 @@ Créer plusieurs classeurs comptable permet également d’automatiser des élé
 * Afficher la fenêtre d'avertissement lorsque la date de facture n'est pas comprise dans la période d'exercice en cours
 * Choix d’un circuit de validation obligatoire pour tous les documents
 
-✍️ Vérifiez que toutes les configurations correspondent à vos besoins avant validation.
+{% hint style="info" %}
+Vérifiez que toutes les configurations correspondent à vos besoins avant validation.
+{% endhint %}
 
 ***
 
@@ -78,6 +86,10 @@ Vérifiez la configuration du contrôle des doublons dans le menu paramétrage g
 
 Rendez-vous dans le menu paramétrage avancé et désactivez les fonctions non désirées.
 
-⚠️ La configuration des classeurs comptables impacte directement l'organisation de vos données comptables.
+{% hint style="info" %}
+La configuration des classeurs comptables impacte directement l'organisation de vos données comptables.
+{% endhint %}
 
-⚠️ Assurez-vous de bien définir tous les paramètres avant de commencer à utiliser le classeur.
+{% hint style="info" %}
+Assurez-vous de bien définir tous les paramètres avant de commencer à utiliser le classeur.
+{% endhint %}

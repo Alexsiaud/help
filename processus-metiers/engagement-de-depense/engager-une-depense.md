@@ -6,13 +6,16 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un profil **initiateur** dans un circuit de validation d’engagement de dépenses peut initier un bon de commande.
+{% hint style="info" %}
+Seul un profil **initiateur** dans un circuit de validation d’engagement de dépenses peut initier un bon de commande.
+{% endhint %}
 
 ***
 
 ### <sup>**Créer un engagement de dépenses**</sup>
 
-⚠️ Vérifiez que le budget est suffisant avant de soumettre.
+{% hint style="info" %}
+Vérifiez que le budget est suffisant avant de soumettre.
 
 Procédez comme suit :
 
@@ -28,16 +31,22 @@ Procédez comme suit :
 8. Joignez les pièces justificatives si nécessaire
 9. Vérifiez l'état du budget avec le curseur visuel
 10. Cliquez sur **Enregistrer et soumettre**
+{% endhint %}
 
-✍️ Vous pouvez créer les articles à la volée dans le tableau de la commande.
+{% hint style="info" %}
+Vous pouvez créer les articles à la volée dans le tableau de la commande.
+{% endhint %}
 
-✍️ Le bon de commande est maintenant visible dans vos engagements avec son statut de validation.
+{% hint style="info" %}
+Le bon de commande est maintenant visible dans vos engagements avec son statut de validation.
+{% endhint %}
 
 ***
 
 ### <sup>**Valider ou refuser un engagement**</sup>
 
-⚠️ Une validation fait passer l'engagement au niveau suivant et ne peut être annulée par l’initiateur.
+{% hint style="info" %}
+Une validation fait passer l'engagement au niveau suivant et ne peut être annulée par l’initiateur.
 
 Procédez comme suit :
 
@@ -48,8 +57,11 @@ Procédez comme suit :
    * **Refuser** : Renvoie au niveau précédent (obligation de renseigner un commentaire)
    * **Modifier** : Permet les corrections avant validation
 4. Consultez l'historique si nécessaire
+{% endhint %}
 
-✍️ Les documents validés sont consultables dans le menu **Rechercher**.
+{% hint style="info" %}
+Les documents validés sont consultables dans le menu **Rechercher**.
+{% endhint %}
 
 ***
 
@@ -71,6 +83,10 @@ Consultez l'historique de validation disponible dans le détail de chaque engage
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Seuls les profils initiateurs peuvent créer des engagements de dépenses. Les valideurs sont définis dans le circuit de validation et reçoivent des notifications automatiques.
+{% hint style="info" %}
+Seuls les profils initiateurs peuvent créer des engagements de dépenses. Les valideurs sont définis dans le circuit de validation et reçoivent des notifications automatiques.
+{% endhint %}
 
-⚠️ Une fois un engagement soumis, il ne peut être modifié que par les valideurs dans le circuit. Vérifiez toutes les informations avant soumission.
+{% hint style="info" %}
+Une fois un engagement soumis, il ne peut être modifié que par les valideurs dans le circuit. Vérifiez toutes les informations avant soumission.
+{% endhint %}

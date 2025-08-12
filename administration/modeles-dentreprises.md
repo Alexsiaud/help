@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit **Autoriser l’accès au déploiement en masse** peut créer et gérer les modèles d'entreprise.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit **Autoriser l’accès au déploiement en masse** peut créer et gérer les modèles d'entreprise.
+{% endhint %}
 
 ***
 
@@ -81,6 +83,10 @@ Depuis la liste des modèles, utilisez la fonction de duplication puis modifiez 
 
 ### <sup>**Avertissement**</sup>
 
-️ **Les modèles d'entreprise impactent directement la configuration des nouvelles entreprises créées.**
+{% hint style="info" %}
+**Les modèles d'entreprise impactent directement la configuration des nouvelles entreprises créées.**
+{% endhint %}
 
-⚠️ **Testez toujours vos modèles sur un environnement de test avant activation en production.**
+{% hint style="info" %}
+**Testez toujours vos modèles sur un environnement de test avant activation en production.**
+{% endhint %}

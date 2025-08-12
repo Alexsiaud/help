@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur interne ayant le droit [**Autoriser l’accès au paramétrage de la comptabilité**](../../administration/detail-des-droits.md) peut configurer un dépôt EBICS.
+{% hint style="info" %}
+Seul un utilisateur interne ayant le droit [**Autoriser l’accès au paramétrage de la comptabilité**](../../administration/detail-des-droits.md) peut configurer un dépôt EBICS.
+{% endhint %}
 
 ***
 
@@ -18,17 +20,19 @@ Le paramétrage EBICS permet de configurer l’entreprise pour l'import de mouve
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ Assurez-vous d'avoir les informations bancaires correctes avant de commencer. Une mauvaise configuration peut empêcher l'import des données.
+{% hint style="info" %}
+Assurez-vous d'avoir les informations bancaires correctes avant de commencer. Une mauvaise configuration peut empêcher l'import des données.
 
 **Critères obligatoires :**
 
 * IBAN valide du compte bancaire
 * BIC/SWIFT si disponible
 * Classeur de banque créé
+{% endhint %}
 
 ***
 
-### Vidéo interactive :bulb:
+### Vidéo interactive 💡
 
 {% @arcade/embed flowId="0MUKXJNUTLrF7wOJ4gvc" url="https://app.arcade.software/share/0MUKXJNUTLrF7wOJ4gvc" %}
 
@@ -36,20 +40,25 @@ Le paramétrage EBICS permet de configurer l’entreprise pour l'import de mouve
 
 ### <sup>**Créer la banque**</sup>
 
-⚠️ Le nom de la banque n'impacte pas l'import.
+{% hint style="info" %}
+Le nom de la banque n'impacte pas l'import.
 
 1. Depuis votre compte, rendez-vous dans l’édition de l’**entreprise**.
 2. Cliquez sur **Banque**
 3. Puis sur **+ Ajouter**
 4. Saisissez le nom de la banque et cliquez sur **Enregistrer**
+{% endhint %}
 
-✍️ Le BIC/SWIFT peut être ajouté lors de cette étape si vous le possédez.
+{% hint style="info" %}
+Le BIC/SWIFT peut être ajouté lors de cette étape si vous le possédez.
+{% endhint %}
 
 ***
 
 ### <sup>**Ajouter le compte bancaire**</sup>
 
-⚠️ L'IBAN doit être valide et correspondre exactement au compte bancaire concerné.
+{% hint style="info" %}
+L'IBAN doit être valide et correspondre exactement au compte bancaire concerné.
 
 1. Cliquez sur **+** pour ajouter un compte à la banque créée, puis renseignez les informations suivantes :
    * Libellé du compte
@@ -57,8 +66,11 @@ Le paramétrage EBICS permet de configurer l’entreprise pour l'import de mouve
    * Classeur de rattachement
    * IBAN complet
 2. Cliquez sur **Enregistrer** pour finaliser la configuration
+{% endhint %}
 
-✍️ La plateforme liera automatiquement cet IBAN à l'entreprise pour permettre les dépôts EBICS multi-entreprise.
+{% hint style="info" %}
+La plateforme liera automatiquement cet IBAN à l'entreprise pour permettre les dépôts EBICS multi-entreprise.
+{% endhint %}
 
 ***
 

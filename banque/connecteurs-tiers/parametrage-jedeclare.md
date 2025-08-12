@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit [**Autoriser l’accès à la configuration de la plateforme**](../../administration/detail-des-droits.md) et le droit **Autoriser l’accès à l’administration de la plateforme** peut effectuer le premier paramétrage de l'API JeDéclare
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Autoriser l’accès à la configuration de la plateforme**](../../administration/detail-des-droits.md) et le droit **Autoriser l’accès à l’administration de la plateforme** peut effectuer le premier paramétrage de l'API JeDéclare
+{% endhint %}
 
 ***
 
@@ -24,11 +26,13 @@ Posséder un compte de **récupération de flux** JeDéclare
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ Le rapprochement des entreprises s'effectue par leurs raisons sociales.
+{% hint style="info" %}
+Le rapprochement des entreprises s'effectue par leurs raisons sociales.
+{% endhint %}
 
 ***
 
-### Vidéo interactive :bulb:
+### Vidéo interactive 💡
 
 JeDéclare Administrateur
 
@@ -48,7 +52,9 @@ JeDéclare Entreprise
 4. Cochez l'activation de l'entreprise souhaitée et cliquez sur **Enregistrer**
 5. Une manipulation reste à faire dans l’entreprise, voir la [vidéo intéractive ](parametrage-jedeclare.md#video-interactive)
 
-✍️ **JeDéclare est maintenant paramétré et opérationnel**
+{% hint style="info" %}
+**JeDéclare est maintenant paramétré et opérationnel**
+{% endhint %}
 
 ***
 
@@ -70,4 +76,6 @@ Décochez l'activation dans les paramètres de l'agrégateur et enregistrez.
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Seuls les administrateurs peuvent paramétrer les agrégateurs. Le rapprochement s'effectue automatiquement par raison sociale.
+{% hint style="info" %}
+Seuls les administrateurs peuvent paramétrer les agrégateurs. Le rapprochement s'effectue automatiquement par raison sociale.
+{% endhint %}

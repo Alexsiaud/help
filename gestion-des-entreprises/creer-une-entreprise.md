@@ -26,7 +26,7 @@ Lors de l'intégration d'un nouveau client
 
 ***
 
-### Vidéo interactive :bulb:[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
 
 {% @arcade/embed flowId="Ekl1mfs0I4ZlmeMQmkoz" url="https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz" %}
 

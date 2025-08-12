@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur avec un rôle de **valideur** dans un [circuit de validation](../processus-metiers/workflow/circuit-de-validation.md) peut valider des documents.
+{% hint style="info" %}
+Seul un utilisateur avec un rôle de **valideur** dans un [circuit de validation](../processus-metiers/workflow/circuit-de-validation.md) peut valider des documents.
+{% endhint %}
 
 ***
 
@@ -22,7 +24,7 @@ La validation de documents dans un circuit permet de s'assurer qu'un processus d
 
 ***
 
-### Vidéo interactive :bulb:
+### Vidéo interactive 💡
 
 {% @arcade/embed flowId="6OOceuIhp3mZr2ioeA49" url="https://app.arcade.software/share/6OOceuIhp3mZr2ioeA49" %}
 
@@ -32,9 +34,13 @@ La validation de documents dans un circuit permet de s'assurer qu'un processus d
 2. Sélectionnez le document à valider
 3. Cliquez sur **valider** ou **refuser** le document
 
-✍️ L'action choisie changera le niveau et le statut du document dans le circuit de validation. Une notification est donnée à l'utilisateur suivant dans le circuit de validation.
+{% hint style="info" %}
+L'action choisie changera le niveau et le statut du document dans le circuit de validation. Une notification est donnée à l'utilisateur suivant dans le circuit de validation.
+{% endhint %}
 
-✍️ Tout refus obligera l’utilisateur à renseigner un commentaire.
+{% hint style="info" %}
+Tout refus obligera l’utilisateur à renseigner un commentaire.
+{% endhint %}
 
 ***
 

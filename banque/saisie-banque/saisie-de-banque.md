@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit [**Enregistrer les documents**](../../administration/detail-des-droits.md) sur le classeur de type banque peut traiter les mouvements bancaires.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Enregistrer les documents**](../../administration/detail-des-droits.md) sur le classeur de type banque peut traiter les mouvements bancaires.
+{% endhint %}
 
 ***
 
@@ -27,17 +29,19 @@ La saisie bancaire sur INGENEO offre une approche flexible permettant le traitem
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ **Impact critique** : Une mauvaise imputation des mouvements bancaires peut fausser la comptabilité et compliquer les rapprochements bancaires.
+{% hint style="info" %}
+**Impact critique** : Une mauvaise imputation des mouvements bancaires peut fausser la comptabilité et compliquer les rapprochements bancaires.
 
 **Critères pour optimiser la saisie :**
 
 * **Codes TVA configurés** : Paramétrez vos codes TVA les plus fréquents pour accélérer la saisie
 * **Plan comptable à jour** : Vérifiez que tous les comptes nécessaires sont créés
 * **Règles d'imputation** : Configurez les chaînes de caractères pour l'automatisation des comptes
+{% endhint %}
 
 ***
 
-### Vidéo interactive :bulb:
+### Vidéo interactive 💡
 
 {% @arcade/embed flowId="sn5CnvmZkENVnYXL9eIt" url="https://app.arcade.software/share/sn5CnvmZkENVnYXL9eIt" %}
 
@@ -54,7 +58,9 @@ La saisie bancaire sur INGENEO offre une approche flexible permettant le traitem
 7. Vérifiez les propositions d'imputation
 8. Validez les mouvements en cliquant sur le bouton **Validation semi-automatique** en forme de tête de robot
 
-✍️ **Efficacité** : Cette méthode combine rapidité et contrôle pour les mouvements récurrents paramétrés.
+{% hint style="info" %}
+**Efficacité** : Cette méthode combine rapidité et contrôle pour les mouvements récurrents paramétrés.
+{% endhint %}
 
 ***
 
@@ -76,4 +82,6 @@ Paramétrez d'abord vos règles d'imputation, puis utilisez la **Validation semi
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ **Contrôle obligatoire** : Vérifiez systématiquement les imputations automatiques avant validation définitive, notamment pour les nouveaux types de mouvements.
+{% hint style="info" %}
+**Contrôle obligatoire** : Vérifiez systématiquement les imputations automatiques avant validation définitive, notamment pour les nouveaux types de mouvements.
+{% endhint %}

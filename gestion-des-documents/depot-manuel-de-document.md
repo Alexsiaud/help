@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur avec le droit [**Déposer des documents**](../administration/detail-des-droits.md) dans le classeur ou l’entreprise peut déposer des documents dans la bannette.
+{% hint style="info" %}
+Seul un utilisateur avec le droit [**Déposer des documents**](../administration/detail-des-droits.md) dans le classeur ou l’entreprise peut déposer des documents dans la bannette.
+{% endhint %}
 
 ***
 
@@ -23,7 +25,7 @@ Vous disposerez :
 
 ***
 
-### **Vidéo interactive** :bulb:[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### **Vidéo interactive** 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
 
 {% @arcade/embed flowId="Hk9LMNuZEjWz9lcwRaJF" url="https://app.arcade.software/share/Hk9LMNuZEjWz9lcwRaJF" %}
 
@@ -60,7 +62,9 @@ Pour automatiser la réception de documents, configurez les canaux suivants :
 * [**Google Drive**](../collecte-automatique/parametrage-google-drive.md)**,** [**Dropbox**](../collecte-automatique/parametrage-dropbox.md)**,** [**OneDrive**](../collecte-automatique/parametrage-onedrive.md)**,** [**SharePoint** ](../collecte-automatique/parametrage-sharepoint.md): Synchronisation cloud
 * **DématBox** : Solution dédiée dématérialisation
 
-✍️ Consultez les documentations à votre disposition pour la configuration détaillée de chaque canal.
+{% hint style="info" %}
+Consultez les documentations à votre disposition pour la configuration détaillée de chaque canal.
+{% endhint %}
 
 ***
 
@@ -82,4 +86,6 @@ Utilisez la sélection multiple lors de l'import ou configurez un canal de colle
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ **Limitation technique** : Le traitement OCR peut prendre plusieurs minutes selon la complexité et le nombre de documents.
+{% hint style="info" %}
+**Limitation technique** : Le traitement OCR peut prendre plusieurs minutes selon la complexité et le nombre de documents.
+{% endhint %}

@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis et Permissions**</sup>
 
-✍️ Seul un utilisateur étant **initiateur** d'un circuit de validation de note de frais pourra saisir des notes de frais.
+{% hint style="info" %}
+Seul un utilisateur étant **initiateur** d'un circuit de validation de note de frais pourra saisir des notes de frais.
+{% endhint %}
 
 ***
 
@@ -28,9 +30,13 @@ L'application mobile permet une saisie rapide et pratique de vos notes de frais 
 
 ### <sup>**Préparer la saisie**</sup>
 
-⚠️ Assurez-vous que vos paramètres sont correctement configurés sur votre plateforme avant de commencer la saisie mobile.
+{% hint style="info" %}
+Assurez-vous que vos paramètres sont correctement configurés sur votre plateforme avant de commencer la saisie mobile.
+{% endhint %}
 
-⚠️ Vérifiez que vous sélectionnez la bonne entreprise avant de commencer la saisie.
+{% hint style="info" %}
+Vérifiez que vous sélectionnez la bonne entreprise avant de commencer la saisie.
+{% endhint %}
 
 ***
 
@@ -47,7 +53,9 @@ L'application mobile permet une saisie rapide et pratique de vos notes de frais 
    * **Commentaire** (optionnel)
 6. Appuyez sur **Soumettre**
 
-✍️ Seules les informations sur le classeur et la nature sont obligatoires pour valider votre saisie.
+{% hint style="info" %}
+Seules les informations sur le classeur et la nature sont obligatoires pour valider votre saisie.
+{% endhint %}
 
 ***
 
@@ -82,4 +90,6 @@ Une fois soumise, la note de frais est transmise au circuit de validation config
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Comme sur la plateforme web, la note de frais sera automatiquement adressée au valideur défini dans votre circuit de validation paramétré.
+{% hint style="info" %}
+Comme sur la plateforme web, la note de frais sera automatiquement adressée au valideur défini dans votre circuit de validation paramétré.
+{% endhint %}

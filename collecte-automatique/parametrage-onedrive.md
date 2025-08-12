@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un canal de collecte One Drive.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un canal de collecte One Drive.
+{% endhint %}
 
 ***
 
@@ -32,24 +34,27 @@ OneDrive est adapté pour la collecte automatisée de documents déposés dans l
 
 ***
 
-### Vidéo interactive :bulb:[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
 
 {% @arcade/embed flowId="7zXHcTuYxlw1H4A2fhum" url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" %}
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ Assurez-vous d'avoir les identifiants du compte One Drive avant de commencer la configuration. Sans ces informations, vous devrez faire une demande au propriétaire du compte.
+{% hint style="info" %}
+Assurez-vous d'avoir les identifiants du compte One Drive avant de commencer la configuration. Sans ces informations, vous devrez faire une demande au propriétaire du compte.
 
 **Critères obligatoires :**
 
 * Utilisateur destinataire créé dans la plateforme
 * Classeur de destination défini
+{% endhint %}
 
 ***
 
 ### <sup>**Créer le canal de collecte One Drive**</sup>
 
-⚠️ **La sauvegarde ouvrira automatiquement un navigateur pour la connexion Google. Préparez vos identifiants.**
+{% hint style="info" %}
+**La sauvegarde ouvrira automatiquement un navigateur pour la connexion Google. Préparez vos identifiants.**
 
 1. Depuis la plateforme, accédez à la gestion des canaux de collecte.
 2. Cliquez sur **Créer un canal** et sélectionnez **OneDrive** comme type de canal.
@@ -57,6 +62,7 @@ OneDrive est adapté pour la collecte automatisée de documents déposés dans l
 4. Définissez le classeur de destination pour le dépôt des documents.
 5. Validez la création du canal.
 6. Le client reçoit une notification pour connecter OneDrive.
+{% endhint %}
 
 ***
 
@@ -98,4 +104,6 @@ Vérifiez que la connexion OneDrive est toujours active en éditant le canal de 
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ **Les documents réceptionnés sont automatiquement traités par l'OCR et disponibles dans la bannette de l'entreprise pour la saisie.**
+{% hint style="info" %}
+**Les documents réceptionnés sont automatiquement traités par l'OCR et disponibles dans la bannette de l'entreprise pour la saisie.**
+{% endhint %}

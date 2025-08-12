@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant les [droits de saisie ](../administration/detail-des-droits.md)peut effectuer la saisie comptable des documents.
+{% hint style="info" %}
+Seul un utilisateur ayant les [droits de saisie ](../administration/detail-des-droits.md)peut effectuer la saisie comptable des documents.
+{% endhint %}
 
 ***
 
@@ -18,13 +20,15 @@ La saisie comptable permet de traiter les documents présents dans les bannettes
 
 ### <sup>**Préparer la saisie**</sup>
 
-⚠️ Assurez-vous d'avoir sélectionné la bonne entreprise avant de commencer la saisie pour éviter les erreurs de comptabilisation.
+{% hint style="info" %}
+Assurez-vous d'avoir sélectionné la bonne entreprise avant de commencer la saisie pour éviter les erreurs de comptabilisation.
 
 **Critères obligatoires :**
 
 * Avoir les droits d’accès à la saisie de l'entreprise concernée
 * Connaître le plan comptable de l'entreprise pour une saisie précise
 * Vérifier que les documents sont bien présents dans la bannette sélectionnée
+{% endhint %}
 
 ***
 
@@ -36,7 +40,9 @@ La saisie comptable permet de traiter les documents présents dans les bannettes
 * Volet de saisie comptable du document
 * Aperçu du document avec historique et notes
 
-✍️ Vous pouvez sélectionner un autre document de la bannette directement depuis cette interface.
+{% hint style="info" %}
+Vous pouvez sélectionner un autre document de la bannette directement depuis cette interface.
+{% endhint %}
 
 ***
 
@@ -51,7 +57,7 @@ Si le compte tiers est présent dans le FEC, celui-ci peut être renseigné auto
 * **Option 3 - Fenêtre de recherche :** tapez sur la touche **Entrée** de votre clavier pour ouvrir la fenêtre de recherche des comptes tiers, puis sélectionner le compte souhaité et valider avec **Sélectionner**.
 * **Option 4 - Création de compte tiers :** Saisir le code du compte tiers, puis tapez sur la touche **Entrée** de votre clavier pour ouvrir la fenêtre de création de compte tiers. Renseigner les différents champs pour la création du compte tiers. Cliquer sur **Entreprise** pour compléter les informations du compte tiers. Cliquer sur **Options avancées** pour sélectionner les différentes options proposées. Cliquer sur **Masque de saisie** pour compléter les informations du compte tiers. Cliquer sur **Enregistrer** en bas de la page. Seuls les **code** et **intitulé** du tiers sont obligatoires à la création, le tiers sera créé en comptabilité à l’intégration de l’écriture.
 
-### **Vidéo interactive** : compte de tiers :bulb:
+### **Vidéo interactive** : compte de tiers 💡
 
 {% @arcade/embed flowId="QKoNFPdDXr9oqr8YKxXU" url="https://app.arcade.software/share/QKoNFPdDXr9oqr8YKxXU" %}
 
@@ -63,7 +69,9 @@ Saisir les premières lettres ou chiffres des comptes ou un mot du libellé dans
 
 Saisir les premières lettres ou chiffres des comptes ou un mot du libellé dans les champs des comptes de TVA. Cliquer sur l'icône **plus** pour ajouter une ligne et sur l'icône **corbeille** pour supprimer une ligne. Cliquer sur **Enregistrer** pour valider la saisie. Cliquer sur **Enregistrer** pour valider la saisie.
 
-✍️ Une fois enregistré, le document est exporté et n'est plus visible dans la bannette.
+{% hint style="info" %}
+Une fois enregistré, le document est exporté et n'est plus visible dans la bannette.
+{% endhint %}
 
 ***
 
@@ -77,6 +85,10 @@ Saisir les premières lettres ou chiffres des comptes ou un mot du libellé dans
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Une fois la saisie enregistrée, le document passe en export et disparaît de la bannette. Vérifiez bien vos saisies avant de valider.&#x20;
+{% hint style="info" %}
+Une fois la saisie enregistrée, le document passe en export et disparaît de la bannette. Vérifiez bien vos saisies avant de valider.&#x20;
+{% endhint %}
 
-⚠️ Consultez toujours la zone **Vigilances** pour vous assurer qu'aucune information importante n'a été omise lors de la saisie.
+{% hint style="info" %}
+Consultez toujours la zone **Vigilances** pour vous assurer qu'aucune information importante n'a été omise lors de la saisie.
+{% endhint %}

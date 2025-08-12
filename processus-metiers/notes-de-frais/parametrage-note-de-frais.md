@@ -6,19 +6,25 @@ hidden: true
 
 ### <sup>**Prérequis et Permissions**</sup>
 
-✍️ Seuls les utilisateurs ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) pourront paramétrer les notes de frais.
+{% hint style="info" %}
+Seuls les utilisateurs ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) pourront paramétrer les notes de frais.
+{% endhint %}
 
 ***
 
-### Vidéo interactive :bulb:
+### Vidéo interactive 💡
 
-⚠️ Le paramétrage des notes de frais nécessite obligatoirement un [**classeur comptable**](../../gestion-des-entreprises/classeurs-comptables.md) de type **Notes de frais**.
+{% hint style="info" %}
+Le paramétrage des notes de frais nécessite obligatoirement un [**classeur comptable**](../../gestion-des-entreprises/classeurs-comptables.md) de type **Notes de frais**.
 
 {% @arcade/embed flowId="kzNUw3zexuqY7BWa0lZ2" url="https://app.arcade.software/share/kzNUw3zexuqY7BWa0lZ2" %}
+{% endhint %}
 
-⚠️ La création de notes de frais nécessite obligatoirement un [**circuit de validation**](../workflow/circuit-de-validation.md) de type **formulaire**.
+{% hint style="info" %}
+La création de notes de frais nécessite obligatoirement un [**circuit de validation**](../workflow/circuit-de-validation.md) de type **formulaire**.
 
 {% @arcade/embed flowId="xDllqwOIyhIc5AwHRUBb" url="https://app.arcade.software/share/xDllqwOIyhIc5AwHRUBb" %}
+{% endhint %}
 
 ***
 
@@ -37,7 +43,8 @@ hidden: true
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ Une mauvaise configuration initiale entraînera des erreurs de saisie et des dysfonctionnements dans les circuits de validation.
+{% hint style="info" %}
+Une mauvaise configuration initiale entraînera des erreurs de saisie et des dysfonctionnements dans les circuits de validation.
 
 **Critères obligatoires :**
 
@@ -45,6 +52,7 @@ hidden: true
 * Créer au moins un circuit de validation avec des utilisateurs actifs
 * Paramétrer le journal comptable par défaut pour le classeur
 * Créer et paramétrer les natures de frais
+{% endhint %}
 
 ***
 
@@ -58,7 +66,9 @@ hidden: true
 6. Cliquez sur **Enregistrer**.
 7. Indiquez le nom de l'utilisateur, avec la possibilité d'ajouter plusieurs utilisateurs avec le **+**.
 
-✍️ Si un utilisateur est seul dans son circuit, les notes sont validées automatiquement.
+{% hint style="info" %}
+Si un utilisateur est seul dans son circuit, les notes sont validées automatiquement.
+{% endhint %}
 
 ***
 
@@ -80,4 +90,6 @@ Dans **Circuits de validation**, éditez le circuit concerné et utilisez le **+
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Une fois une note de frais validée et transférée, elle ne peut plus être modifiée directement. Toute correction nécessitera une écriture comptable d'ajustement.
+{% hint style="info" %}
+Une fois une note de frais validée et transférée, elle ne peut plus être modifiée directement. Toute correction nécessitera une écriture comptable d'ajustement.
+{% endhint %}

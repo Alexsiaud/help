@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit [**Autoriser l’accès au déploiement en masse**](../../administration/detail-des-droits.md) pourra accéder aux modèles de natures de frais.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Autoriser l’accès au déploiement en masse**](../../administration/detail-des-droits.md) pourra accéder aux modèles de natures de frais.
+{% endhint %}
 
 ***
 
@@ -25,16 +27,18 @@ Les modèles de nature de frais permettent de standardiser la configuration comp
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ Une mauvaise configuration initiale entraînera des erreurs de saisie et des dysfonctionnements dans les circuits de validation de note de frais.
+{% hint style="info" %}
+Une mauvaise configuration initiale entraînera des erreurs de saisie et des dysfonctionnements dans les circuits de validation de note de frais.
 
 **Critères obligatoires :**
 
 * Avoir dans les référentiels comptables les comptes HT et TVA pour chaque nature de frais
 * Paramétrez le journal comptable par défaut pour le classeur
+{% endhint %}
 
 ***
 
-### Vidéo interactive :bulb:
+### Vidéo interactive 💡
 
 {% @arcade/embed flowId="SADnjkLjs1kfjxyI4cLS" url="https://app.arcade.software/share/SADnjkLjs1kfjxyI4cLS" %}
 
@@ -60,7 +64,9 @@ Les modèles de nature de frais permettent de standardiser la configuration comp
 2. Créez votre barème kilométrique selon les taux officiels ou par taux personnalisé
 3. **Enregistrez** les modifications
 
-✍️ Utilisez les barèmes kilométriques officiels pour respecter la réglementation fiscale.
+{% hint style="info" %}
+Utilisez les barèmes kilométriques officiels pour respecter la réglementation fiscale.
+{% endhint %}
 
 ***
 

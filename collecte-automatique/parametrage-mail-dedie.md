@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un mail dédié.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un mail dédié.
+{% endhint %}
 
 ***
 
@@ -26,7 +28,7 @@ Cette solution est idéale pour automatiser la collecte de documents récurrents
 
 ***
 
-### Vidéo interactive :bulb:[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
 
 {% @arcade/embed flowId="QvTy0RsptgAiTileM9NK" url="https://app.arcade.software/share/QvTy0RsptgAiTileM9NK" %}
 
@@ -34,12 +36,14 @@ Cette solution est idéale pour automatiser la collecte de documents récurrents
 
 ### <sup>**Préparer la création du mail dédié**</sup>
 
-⚠️ Une fois créé, le mail dédié générera une adresse unique qui ne pourra pas être modifiée.
+{% hint style="info" %}
+Une fois créé, le mail dédié générera une adresse unique qui ne pourra pas être modifiée.
 
 **Critères obligatoires avant création :**
 
 * Définir le classeur de destination (comptable ou plan de classement)
 * Choisir un préfixe explicite
+{% endhint %}
 
 ***
 
@@ -71,7 +75,9 @@ Une fois configuré, les documents envoyés sur cette adresse seront :
 2. Cliquez sur Boîte de messagerie
 3. Consultez la **messagerie**
 
-⚠️ La messagerie est boîte de réception uniquement, il ne sera pas possible de répondre aux mails reçus.
+{% hint style="info" %}
+La messagerie est boîte de réception uniquement, il ne sera pas possible de répondre aux mails reçus.
+{% endhint %}
 
 ***
 
@@ -93,4 +99,6 @@ Il est inutile de cliquer sur les pièces jointes dans la boîte de messagerie c
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Les informations contenues dans l'objet et le corps du mail sont visibles dans la boîte de messagerie mais seules les pièces jointes sont traitées et stockées dans la bannette.
+{% hint style="info" %}
+Les informations contenues dans l'objet et le corps du mail sont visibles dans la boîte de messagerie mais seules les pièces jointes sont traitées et stockées dans la bannette.
+{% endhint %}

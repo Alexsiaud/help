@@ -20,7 +20,9 @@ layout:
 
 ### <sup>**Prérequis / Permissions**</sup>
 
-✍️ Seul un utilisateur avec le droit [**Enregistrer les documents**](../administration/detail-des-droits.md) peut effectuer des modifications sur les documents.
+{% hint style="info" %}
+Seul un utilisateur avec le droit [**Enregistrer les documents**](../administration/detail-des-droits.md) peut effectuer des modifications sur les documents.
+{% endhint %}
 
 ***
 
@@ -41,17 +43,19 @@ La modification de documents depuis les bannettes permet d'effectuer diverses op
 
 ### <sup>**Préparer la modification**</sup>
 
-⚠️ Les modifications effectuées ne seront sauvegardées qu'après avoir cliqué sur **Enregistrer sous**. Toute fermeture de la page sans sauvegarde entraînera la perte des modifications.
+{% hint style="info" %}
+Les modifications effectuées ne seront sauvegardées qu'après avoir cliqué sur **Enregistrer sous**. Toute fermeture de la page sans sauvegarde entraînera la perte des modifications.
 
 **Éléments à vérifier avant modification :**
 
 * **Document accessible** - Vérifiez que le document est bien présent dans vos bannettes
 * **Droits de modification** - Assurez-vous d'avoir les permissions nécessaires
 * **Entreprise sélectionnée** - Vérifiez que vous êtes dans la bonne entreprise
+{% endhint %}
 
 ***
 
-### **Vidéos interactives** :bulb:
+### **Vidéos interactives** 💡
 
 Fusion de document :
 
@@ -81,9 +85,13 @@ Eclater les documents :&#x20;
    * Choisissez **Toutes les X pages** ou **La sélection**
 6. Cliquez sur **Enregistrer sous** pour intégrer vos modifications
 
-✍️ Quand vous souhaiterez **Enregistrer** un document vous aurez toujours la possibilité ou non de supprimer les originaux.
+{% hint style="info" %}
+Quand vous souhaiterez **Enregistrer** un document vous aurez toujours la possibilité ou non de supprimer les originaux.
+{% endhint %}
 
-✍️ Chaque zone découpée ou page éclatée peut être repassée en OCR individuellement pour un traitement optimal. La plateforme vous propose de conserver ou non le document d’origine.
+{% hint style="info" %}
+Chaque zone découpée ou page éclatée peut être repassée en OCR individuellement pour un traitement optimal. La plateforme vous propose de conserver ou non le document d’origine.
+{% endhint %}
 
 ***
 

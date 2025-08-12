@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis et Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un canal de collecte Google Drive
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un canal de collecte Google Drive
+{% endhint %}
 
 ***
 
@@ -24,13 +26,13 @@ Google Drive permet de réceptionner automatiquement des documents déposés dan
 
 * Pour des envois ponctuels ou urgents (collecte une fois par jour uniquement)
 
-
-
-⚠️ Important : Un document collecté ne sera pas récupéré une seconde fois, même s'il reste dans l'espace de dépôt.
+{% hint style="info" %}
+Important : Un document collecté ne sera pas récupéré une seconde fois, même s'il reste dans l'espace de dépôt.
+{% endhint %}
 
 ***
 
-### Vidéo interactive :bulb:[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
 
 {% @arcade/embed flowId="7zXHcTuYxlw1H4A2fhum" url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" %}
 
@@ -38,27 +40,33 @@ Google Drive permet de réceptionner automatiquement des documents déposés dan
 
 ### <sup>**Préparer la connexion**</sup>
 
-⚠️ Vous devrez disposer des identifiants du compte Google du client ou faire une demande au propriétaire du compte.
+{% hint style="info" %}
+Vous devrez disposer des identifiants du compte Google du client ou faire une demande au propriétaire du compte.
 
 **Critères obligatoires :**
 
 * Disposer des identifiants de connexion Google du client
 * Le client doit être créé comme utilisateur dans la plateforme (utilisateur EXTERNE si nécessaire)
 * Définir le classeur de destination pour le dépôt des documents
+{% endhint %}
 
 ***
 
 ### <sup>**Créer le canal de collecte Google Drive**</sup>
 
-⚠️ L'enregistrement ouvrira automatiquement un navigateur pour la connexion Google.
+{% hint style="info" %}
+L'enregistrement ouvrira automatiquement un navigateur pour la connexion Google.
 
 1. Depuis votre compte INGENEO, rendez-vous dans le menu Entreprise.
 2. Accédez à la section Collecte puis cliquez sur Nouveau canal.
 3. Sélectionnez Google Drive comme type de canal.
 4. Saisissez les identifiants Google requis.
 5. Choisissez le dossier de dépôt de documents dans l'encart "Configuration des répertoires récupérés".
+{% endhint %}
 
-✍️ Le dossier réservé au dépôt devient automatiquement visible dans le Google Drive du client.
+{% hint style="info" %}
+Le dossier réservé au dépôt devient automatiquement visible dans le Google Drive du client.
+{% endhint %}
 
 ***
 
@@ -75,7 +83,9 @@ Possibilité d'exécuter manuellement depuis :
 * La liste des canaux de collecte : bouton **Exécuter manuellement le processus de collecte**
 * L'édition du canal, page **Exécution**
 
-⚠️ Une confirmation sera demandée avant l'exécution manuelle.
+{% hint style="info" %}
+Une confirmation sera demandée avant l'exécution manuelle.
+{% endhint %}
 
 ***
 
@@ -97,6 +107,10 @@ Vérifiez que le client a bien accepté la connexion et que les documents sont d
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Les documents collectés passent automatiquement par l'OCR et sont disponibles dans la bannette de l'entreprise, prêts pour la saisie.
+{% hint style="info" %}
+Les documents collectés passent automatiquement par l'OCR et sont disponibles dans la bannette de l'entreprise, prêts pour la saisie.
+{% endhint %}
 
-⚠️ Un document collecté ne sera jamais récupéré une seconde fois, même s'il reste dans l'espace de collecte.
+{% hint style="info" %}
+Un document collecté ne sera jamais récupéré une seconde fois, même s'il reste dans l'espace de collecte.
+{% endhint %}

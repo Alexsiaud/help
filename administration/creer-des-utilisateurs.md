@@ -6,10 +6,12 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ **Permissions requises selon le type d'utilisateur :**
+{% hint style="info" %}
+**Permissions requises selon le type d'utilisateur :**
 
 * **Utilisateur interne** : Seul un utilisateur ayant le droit **Autoriser l’accès à l’administration de la plateforme** peut créer un utilisateur interne
 * **Utilisateur externe** : Un utilisateur ayant le droit **Autoriser l’accès à l’administration** (profil d'entreprise) peut créer un utilisateur externe.
+{% endhint %}
 
 ***
 
@@ -22,7 +24,9 @@ La plateforme distingue deux types d'utilisateurs avec des droits différents :
 
 Les droits octroyés à chaque utilisateur sont paramétrables par profils de site ou d’**entreprise**.
 
-⚠️ **Limitation importante** : Affectez un profil d'entreprise uniquement si l'utilisateur doit avoir accès à certaines entreprises spécifiques.
+{% hint style="info" %}
+**Limitation importante** : Affectez un profil d'entreprise uniquement si l'utilisateur doit avoir accès à certaines entreprises spécifiques.
+{% endhint %}
 
 ***
 
@@ -83,6 +87,10 @@ Utilisez le bouton **Supprimer** disponible dans la liste des utilisateurs. Cett
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ **Processus d'activation** : Tout nouvel utilisateur doit créer son mot de passe via le mail d'activation reçu avant de pouvoir accéder à la plateforme.
+{% hint style="info" %}
+**Processus d'activation** : Tout nouvel utilisateur doit créer son mot de passe via le mail d'activation reçu avant de pouvoir accéder à la plateforme.
+{% endhint %}
 
-⚠️ **Gestion des accès entreprise** : Un utilisateur externe peut avoir accès à plusieurs entreprises, mais l'accès doit être configuré individuellement depuis chaque entreprise.
+{% hint style="info" %}
+**Gestion des accès entreprise** : Un utilisateur externe peut avoir accès à plusieurs entreprises, mais l'accès doit être configuré individuellement depuis chaque entreprise.
+{% endhint %}

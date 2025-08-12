@@ -6,9 +6,11 @@ hidden: true
 
 ### <sub>**Prérequis & Permissions**</sub>
 
-✍️ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un canal de collecte Dropbox.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) peut créer un canal de collecte Dropbox.
 
 L'utilisateur doit également disposer des identifiants Dropbox du compte ou pouvoir faire une demande au propriétaire du compte.
+{% endhint %}
 
 ***
 
@@ -33,18 +35,20 @@ L'utilisateur doit également disposer des identifiants Dropbox du compte ou pou
 
 ***
 
-### Vidéo interactive :bulb:[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
 
 {% @arcade/embed flowId="7zXHcTuYxlw1H4A2fhum" url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" %}
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ **Assurez-vous d'avoir les identifiants Dropbox avant de commencer la configuration. Sans ces informations, vous devrez faire une demande au propriétaire du compte.**
+{% hint style="info" %}
+**Assurez-vous d'avoir les identifiants Dropbox avant de commencer la configuration. Sans ces informations, vous devrez faire une demande au propriétaire du compte.**
 
 **Critères obligatoires :**
 
 * Utilisateur destinataire créé dans la plateforme
 * Classeur de destination défini pour organiser les documents reçus
+{% endhint %}
 
 ***
 
@@ -99,4 +103,6 @@ Vérifiez que la connexion Dropbox est toujours active en éditant le canal de c
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Les documents réceptionnés sont automatiquement traités par l'OCR et disponibles dans la bannette de l'entreprise pour la saisie.
+{% hint style="info" %}
+Les documents réceptionnés sont automatiquement traités par l'OCR et disponibles dans la bannette de l'entreprise pour la saisie.
+{% endhint %}

@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** peut créer et gérer les tampons personnalisés.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** peut créer et gérer les tampons personnalisés.
+{% endhint %}
 
 ***
 
@@ -18,19 +20,23 @@ Les tampons personnalisés permettent d'apposer rapidement des mentions sur vos 
 * Standardiser des informations
 * Gagner du temps lors du traitement documentaire
 
-⚠️ Une fois créé, le tampon sera disponible pour tous les utilisateurs ayant accès aux classeurs sélectionnés.
+{% hint style="info" %}
+Une fois créé, le tampon sera disponible pour tous les utilisateurs ayant accès aux classeurs sélectionnés.
+{% endhint %}
 
 ***
 
 ### <sup>**Préparer la création du tampon**</sup>
 
-⚠️ Assurez-vous d'avoir défini le contenu et le libellé de votre tampon avant de commencer la création.
+{% hint style="info" %}
+Assurez-vous d'avoir défini le contenu et le libellé de votre tampon avant de commencer la création.
 
 **Critères obligatoires :**
 
 * Libellé clair et explicite pour identifier le tampon
 * Contenu du tampon défini (texte qui sera apposé)
 * Classeurs de destination identifiés
+{% endhint %}
 
 ***
 
@@ -44,7 +50,9 @@ Les tampons personnalisés permettent d'apposer rapidement des mentions sur vos 
 6. Cliquez sur **Ajouter un classeur**.
 7. Sélectionnez le classeur souhaité, puis **Enregistrer**.
 
-✍️ Le tampon est désormais créé et associé aux classeurs sélectionnés.
+{% hint style="info" %}
+Le tampon est désormais créé et associé aux classeurs sélectionnés.
+{% endhint %}
 
 ***
 
@@ -74,4 +82,6 @@ Accédez à la liste des tampons et utilisez l'option de suppression. Attention,
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Les tampons créés sont visibles par tous les utilisateurs ayant accès aux classeurs associés. Assurez-vous que le contenu est approprié pour un usage partagé.
+{% hint style="info" %}
+Les tampons créés sont visibles par tous les utilisateurs ayant accès aux classeurs associés. Assurez-vous que le contenu est approprié pour un usage partagé.
+{% endhint %}

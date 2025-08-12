@@ -6,11 +6,13 @@ hidden: true
 
 ### <sup>**Prérequis et Permissions**</sup>
 
-✍️ Seul un utilisateur étant **initiateur** d'un circuit de validation de note de frais pourra saisir des notes de frais.
+{% hint style="info" %}
+Seul un utilisateur étant **initiateur** d'un circuit de validation de note de frais pourra saisir des notes de frais.
+{% endhint %}
 
 ***
 
-### Vidéo interactive :bulb:
+### Vidéo interactive 💡
 
 {% @arcade/embed flowId="lF7cVoQXhj3ll9mE0PJl" url="https://app.arcade.software/share/lF7cVoQXhj3ll9mE0PJl" %}
 
@@ -29,6 +31,10 @@ Avant de saisir votre note de frais assurez vous d'avoir procéder au [paramétr
 5. Vous pouvez ajouter plusieurs lignes de frais à une même note
 6. Cliquez sur **Enregistrer et soumettre**
 
-✍️ Si vous ne souhaitez pas soumettre la note de frais immédiatement, vous pouvez l’enregistrer en brouillon pour la reprendre ultérieurement.
+{% hint style="info" %}
+Si vous ne souhaitez pas soumettre la note de frais immédiatement, vous pouvez l’enregistrer en brouillon pour la reprendre ultérieurement.
+{% endhint %}
 
-✍️ Une fois enregistrée, votre note de frais sera automatiquement transmise au niveau suivant de votre circuit de validation.
+{% hint style="info" %}
+Une fois enregistrée, votre note de frais sera automatiquement transmise au niveau suivant de votre circuit de validation.
+{% endhint %}

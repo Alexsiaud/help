@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis et Permissions**</sup>
 
-✍️ Un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) peut configurer les circuits de validation. L'utilisation nécessite des rôles spécifiques selon le niveau de validation.
+{% hint style="info" %}
+Un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) peut configurer les circuits de validation. L'utilisation nécessite des rôles spécifiques selon le niveau de validation.
+{% endhint %}
 
 ***
 
@@ -38,7 +40,7 @@ Il est possible d’appliquer automatiquement des [statuts](configurer-les-statu
 
 ***
 
-### Vidéo interactive :bulb:
+### Vidéo interactive 💡
 
 {% @arcade/embed flowId="ROLF2KrulWbatkcmMctl" url="https://app.arcade.software/share/ROLF2KrulWbatkcmMctl" %}
 
@@ -76,4 +78,6 @@ Il est possible d’appliquer automatiquement des [statuts](configurer-les-statu
 * Appliquer la signature
 * Appliquer le tampon
 
-⚠️ La suppression d'un circuit en cours d'utilisation peut entraîner la perte de documents en attente de validation
+{% hint style="info" %}
+La suppression d'un circuit en cours d'utilisation peut entraîner la perte de documents en attente de validation
+{% endhint %}

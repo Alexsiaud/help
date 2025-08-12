@@ -6,11 +6,13 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un administrateur ayant accès aux Paramètres peut créer ou modifier des profils de droits d’administration et de sites.
+{% hint style="info" %}
+Seul un administrateur ayant accès aux Paramètres peut créer ou modifier des profils de droits d’administration et de sites.
 
 **Profil d’administration :** permet l’administration et le paramétrage de la plateforme
 
 **Profil de site** : permet la productivité sur un site
+{% endhint %}
 
 ***
 
@@ -28,11 +30,13 @@ La gestion des profils de droits permet d’attribuer précisément les accès a
 
 **Préparer les profils de droits**
 
-⚠️ Une mauvaise configuration peut donner des accès non souhaités à des données sensibles.
+{% hint style="info" %}
+Une mauvaise configuration peut donner des accès non souhaités à des données sensibles.
 
 * **Lister les rôles utilisateurs** pour anticiper les besoins d’accès.
 * **Définir les périmètres fonctionnels** (ex : saisie comptable, paramétrages).
 * **Créer une nomenclature claire des profils** (ex : "Admin Site", "Lecture Comptable").
+{% endhint %}
 
 ***
 
@@ -46,7 +50,9 @@ La gestion des profils de droits permet d’attribuer précisément les accès a
 6. Sélectionnez les droits souhaités pour chaque classeur
 7. Cliquez sur **Enregistrer** pour valider
 
-✍️ Choisissez un intitulé explicite pour retrouver facilement le profil plus tard.
+{% hint style="info" %}
+Choisissez un intitulé explicite pour retrouver facilement le profil plus tard.
+{% endhint %}
 
 ### <sup>**Ajouter ou modifier un profil de site**</sup>
 
@@ -74,4 +80,6 @@ Vérifiez que vous êtes connecté en tant qu'administrateur avec les droits sur
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Les profils de droits s’appliquent immédiatement après enregistrement. ⚠️ Évitez d'accorder tous les droits à un profil par défaut : préférez des droits minimums adaptés au poste. ⚠️ Privilégiez une mise à jour régulière des profils pour garantir la sécurité d’accès.
+{% hint style="info" %}
+Les profils de droits s’appliquent immédiatement après enregistrement. ⚠️ Évitez d'accorder tous les droits à un profil par défaut : préférez des droits minimums adaptés au poste. ⚠️ Privilégiez une mise à jour régulière des profils pour garantir la sécurité d’accès.
+{% endhint %}

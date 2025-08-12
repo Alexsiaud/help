@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis et Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) peut configurer les statuts de documents dans le plan de classement.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) peut configurer les statuts de documents dans le plan de classement.
+{% endhint %}
 
 ***
 
@@ -22,7 +24,7 @@ Les statuts permettent d'identifier un état sur un document (ex : payé, litige
 
 ***
 
-### Vidéo interactive :bulb:
+### Vidéo interactive 💡
 
 {% @arcade/embed flowId="b7Nzs7RiKDw3y19C2NAR" url="https://app.arcade.software/share/b7Nzs7RiKDw3y19C2NAR" %}
 
@@ -30,7 +32,8 @@ Les statuts permettent d'identifier un état sur un document (ex : payé, litige
 
 ### <sup>**Créer les statuts de documents**</sup>
 
-⚠️ Assurez-vous de bien sélectionner le classeur correspondant à vos besoins avant d'ajouter les statuts.
+{% hint style="info" %}
+Assurez-vous de bien sélectionner le classeur correspondant à vos besoins avant d'ajouter les statuts.
 
 1. Depuis votre compte, rendez-vous dans **Entreprise** > **Plan de classement** > **Processus métier** > **Statut**.
 2. Cliquez sur **+ Ajouter**
@@ -39,8 +42,11 @@ Les statuts permettent d'identifier un état sur un document (ex : payé, litige
 5. Cliquez sur **+** pour ajouter des **Statuts** (possibilité d'appliquer une couleur par statut)
 6. Saisissez des **intitulés de statuts**
 7. Cliquez sur **Enregistrer**
+{% endhint %}
 
-✍️ Une fois créé, le statut apparaît dans la liste avec la possibilité de le Supprimer ou de l'Éditer selon vos besoins.
+{% hint style="info" %}
+Une fois créé, le statut apparaît dans la liste avec la possibilité de le Supprimer ou de l'Éditer selon vos besoins.
+{% endhint %}
 
 ***
 

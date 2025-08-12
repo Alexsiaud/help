@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) créer un canal de collecte Sharepoint.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la collecte**](../administration/detail-des-droits.md) créer un canal de collecte Sharepoint.
+{% endhint %}
 
 ***
 
@@ -18,18 +20,20 @@ hidden: true
 
 ***
 
-### Vidéo interactive :bulb:[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
+### Vidéo interactive 💡[&#xD;](https://app.arcade.software/share/Ekl1mfs0I4ZlmeMQmkoz)
 
 {% @arcade/embed flowId="7zXHcTuYxlw1H4A2fhum" url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" %}
 
 ### <sup>**Préparer l'environnement**</sup>
 
-⚠️ **Une mauvaise configuration du classeur de destination peut entraîner une mauvaise collecte des documents**
+{% hint style="info" %}
+**Une mauvaise configuration du classeur de destination peut entraîner une mauvaise collecte des documents**
 
 **Critères obligatoires avant création :**
 
 * Avoir un classeur de destination créé
 * Disposer des identifiants du compte SharePoint associé (requis pour l'authentification de la connexion), à défaut le contact de l’utilisateur détenant les identifiants
+{% endhint %}
 
 ***
 
@@ -42,9 +46,13 @@ hidden: true
 5. Paramétrez les options de collecte souhaitées (actions automatiques, rotation, détection page blanche, découpe)
 6. Cliquez sur **Enregistrer**
 
-✍️ **Une fenêtre de connexion SharePoint s'ouvrira automatiquement - gardez vos identifiants à portée de main. Finaliser la connexion SharePoint.**
+{% hint style="info" %}
+**Une fenêtre de connexion SharePoint s'ouvrira automatiquement - gardez vos identifiants à portée de main. Finaliser la connexion SharePoint.**
+{% endhint %}
 
-⚠️ **Sans validation de la connexion SharePoint, le canal ne pourra pas collecter de documents.**
+{% hint style="info" %}
+**Sans validation de la connexion SharePoint, le canal ne pourra pas collecter de documents.**
+{% endhint %}
 
 ### **Si vous avez les identifiants SharePoint :**
 
@@ -58,7 +66,9 @@ hidden: true
 3. Sélectionnez l'**utilisateur** ayant les accès
 4. L’utilisateur va recevoir une notification et pourra renseigner ses identifiants
 
-✍️ **Vous pouvez tester la collecte manuellement via "Exécuter manuellement le processus de collecte".**
+{% hint style="info" %}
+**Vous pouvez tester la collecte manuellement via "Exécuter manuellement le processus de collecte".**
+{% endhint %}
 
 ***
 

@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Un utilisateur interne ayant un rôle de collaborateur / gestionnaire ou administrateur peut configurer le paiement SEPA et les droits associés.
+{% hint style="info" %}
+Un utilisateur interne ayant un rôle de collaborateur / gestionnaire ou administrateur peut configurer le paiement SEPA et les droits associés.
+{% endhint %}
 
 ***
 
@@ -36,13 +38,15 @@ Les droits des utilisateurs (**profils de site** ou d’**entreprise**) sont sci
 
 ### **Paramétrer les classeurs**
 
-⚠️ Cette configuration détermine qui peut mettre au paiement et qui peut effectuer les paiements. Une mauvaise attribution des droits peut créer des risques de sécurité.
+{% hint style="info" %}
+Cette configuration détermine qui peut mettre au paiement et qui peut effectuer les paiements. Une mauvaise attribution des droits peut créer des risques de sécurité.
 
 1. Depuis votre compte, rendez-vous dans le menu **Entreprise**.
 2. Cliquez sur **Entreprise**, puis éditez l'entreprise où activer le paiement fournisseur.
 3. Cliquez sur **Administration**, puis sur **Profils d'entreprise**.
 4. Sélectionnez ou créez un profil avec les droits nécessaires.
 5. Attribuez les droits de **mise au paiement** et/ou de **paiement** selon les besoins.
+{% endhint %}
 
 ***
 
@@ -54,7 +58,9 @@ Les droits des utilisateurs (**profils de site** ou d’**entreprise**) sont sci
 4. Pour plusieurs factures : faites un clic droit sur les factures sélectionnées, puis choisissez **Générer le fichier SEPA**.
 5. Cliquez sur **Générer le fichier SEPA**.
 
-✍️ Un fichier nommé "sepa-facture.xml" ou "sepa-multifactures.xml" sera enregistré dans votre répertoire de téléchargement. Ce fichier devra être importé ou transféré à votre banque pour effectuer le paiement.
+{% hint style="info" %}
+Un fichier nommé "sepa-facture.xml" ou "sepa-multifactures.xml" sera enregistré dans votre répertoire de téléchargement. Ce fichier devra être importé ou transféré à votre banque pour effectuer le paiement.
+{% endhint %}
 
 ***
 
@@ -76,4 +82,6 @@ Accédez aux profils de sites depuis le menu **Paramètres** > **Profils de droi
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ La configuration des droits de paiement doit être effectuée avec précaution. Assurez-vous que seuls les utilisateurs autorisés ont accès aux fonctionnalités de paiement pour maintenir la sécurité financière de votre organisation.
+{% hint style="info" %}
+La configuration des droits de paiement doit être effectuée avec précaution. Assurez-vous que seuls les utilisateurs autorisés ont accès aux fonctionnalités de paiement pour maintenir la sécurité financière de votre organisation.
+{% endhint %}

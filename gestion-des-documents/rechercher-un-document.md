@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit [**Consulter les documents enregistrés**](../administration/detail-des-droits.md) peut accéder à la recherche de document des entreprises concernées.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit [**Consulter les documents enregistrés**](../administration/detail-des-droits.md) peut accéder à la recherche de document des entreprises concernées.
+{% endhint %}
 
 ***
 
@@ -24,7 +26,7 @@ La recherche de documents permet de retrouver rapidement un fichier dans vos cla
 
 ***
 
-### Vidéo interactive :bulb:
+### Vidéo interactive 💡
 
 {% @arcade/embed flowId="3LX4Tn5WwqCZGSNtXAEu" url="https://app.arcade.software/share/3LX4Tn5WwqCZGSNtXAEu" %}
 
@@ -32,24 +34,28 @@ La recherche de documents permet de retrouver rapidement un fichier dans vos cla
 
 ### <sup>**Préparer la recherche**</sup>
 
-⚠️ Pour effectuer une recherche sur toutes les entreprises, vous devez obligatoirement saisir une valeur dans le champ de recherche sur le contenu des documents.
+{% hint style="info" %}
+Pour effectuer une recherche sur toutes les entreprises, vous devez obligatoirement saisir une valeur dans le champ de recherche sur le contenu des documents.
 
 **Critères de recherche disponibles :**
 
 * Recherche par mot-clé dans le contenu des documents
 * Filtrage avancé par critères spécifiques
 * Sélection d'entreprise(s) cible(s)
+{% endhint %}
 
 ***
 
 ### <sup>**Effectuer une recherche de document**</sup>
 
-⚠️ Les résultats de recherche sont conservés jusqu'à la fermeture de la fenêtre de recherche.
+{% hint style="info" %}
+Les résultats de recherche sont conservés jusqu'à la fermeture de la fenêtre de recherche.
 
 1. Accédez à la fonctionnalité de recherche depuis le menu principal
 2. Saisissez un ou plusieurs mots-clés dans le champ de recherche
 3. Sélectionnez les filtres souhaités (statut, période, entreprise, etc.)
 4. Cliquez sur **Valider** pour appliquer les filtres
+{% endhint %}
 
 ***
 
@@ -71,6 +77,10 @@ Les résultats restent disponibles tant que la fenêtre de recherche est ouverte
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Les performances de recherche peuvent varier selon le volume de documents dans vos classeurs comptables.
+{% hint style="info" %}
+Les performances de recherche peuvent varier selon le volume de documents dans vos classeurs comptables.
+{% endhint %}
 
-⚠️ La fermeture de la fenêtre de recherche efface définitivement tous les résultats conservés.
+{% hint style="info" %}
+La fermeture de la fenêtre de recherche efface définitivement tous les résultats conservés.
+{% endhint %}

@@ -6,13 +6,17 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** peut accéder aux paramètres d'administration et gérer les sites.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage des processus métier** peut accéder aux paramètres d'administration et gérer les sites.
 
 Les **sites** permettent la gestion de droits sur un groupe d’entreprises, ils peuvent être créés par sites physiques ou bien par portefeuille.
 
 Un **site par défaut** est proposé sur votre plateforme.
+{% endhint %}
 
-⚠️ Il est obligatoire de renseigner au moins un site pour toute création d’entreprise.
+{% hint style="info" %}
+Il est obligatoire de renseigner au moins un site pour toute création d’entreprise.
+{% endhint %}
 
 ***
 
@@ -26,7 +30,9 @@ Utilisez cette fonctionnalité pour ajouter de nouveaux sites à votre infrastru
 
 Supprimez les sites obsolètes.
 
-⚠️ La suppression d'un site peut impacter les utilisateurs qui y ont accès.
+{% hint style="info" %}
+La suppression d'un site peut impacter les utilisateurs qui y ont accès.
+{% endhint %}
 
 ***
 
@@ -67,4 +73,6 @@ Sélectionnez le site dans la liste et utilisez la fonction d'édition pour modi
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Les modifications apportées aux sites peuvent affecter immédiatement l'accès des utilisateurs. Assurez-vous de coordonner ces changements avec vos équipes.
+{% hint style="info" %}
+Les modifications apportées aux sites peuvent affecter immédiatement l'accès des utilisateurs. Assurez-vous de coordonner ces changements avec vos équipes.
+{% endhint %}

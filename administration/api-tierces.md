@@ -6,7 +6,9 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Seul un utilisateur ayant le droit **Autoriser l'accès à la configuration de la plateforme** peut créer des clés d'API tierces.
+{% hint style="info" %}
+Seul un utilisateur ayant le droit **Autoriser l'accès à la configuration de la plateforme** peut créer des clés d'API tierces.
+{% endhint %}
 
 ***
 
@@ -42,7 +44,9 @@ INGENEO permet de créer des clés d'API tierces pour des intercommunications av
 1. Activez les **Autorisations d'accès aux méthodes** nécessaires.
 2. Configurez les **Restrictions d'accès aux entreprises** si besoin.
 
-✍️ Il est possible de régénérer la clé API et de la rendre inactive selon vos besoins.
+{% hint style="info" %}
+Il est possible de régénérer la clé API et de la rendre inactive selon vos besoins.
+{% endhint %}
 
 ***
 
@@ -64,4 +68,6 @@ Vous pouvez rendre la clé inactive sans la supprimer, permettant une réactivat
 
 ### <sup>**Avertissement**</sup>
 
-⚠️ Des liens vers la documentation **Développeur** et **SSO** sont disponibles dans l'interface pour vous accompagner dans l'intégration.
+{% hint style="info" %}
+Des liens vers la documentation **Développeur** et **SSO** sont disponibles dans l'interface pour vous accompagner dans l'intégration.
+{% endhint %}
