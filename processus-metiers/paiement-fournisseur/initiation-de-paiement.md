@@ -7,7 +7,7 @@ hidden: true
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-Seul un utilisateur avec le droit **Mettre les factures au paiement** pourra initier un paiement.
+Seul un utilisateur avec le droit [**Mettre les factures au paiement**](../../administration/detail-des-droits.md) pourra initier un paiement.
 {% endhint %}
 
 {% hint style="success" %}
@@ -22,9 +22,27 @@ Seul un utilisateur avec le droit **Autoriser l’accès au paramétrage des pro
 
 ### <sup>**Contexte & Recommandations**</sup>
 
-Le paiement fournisseur permet d'automatiser le processus de validation et de règlement des factures directement depuis l'application. Cette fonctionnalité est adaptée aux entreprises ayant un circuit de validation structuré.
+Le paiement fournisseur permet d'automatiser le processus de validation et de règlement des factures directement depuis l'application. Cette fonctionnalité est adaptée aux entreprises ayant un [circuit de validation](../workflow/circuit-de-validation.md) structuré.
 
 ***
+
+### <sup>**Vidéo interactive**</sup> :bulb:
+
+Le paramétrage :&#x20;
+
+{% @arcade/embed flowId="ehoDQ1g59CRi3bFRcrlr" url="https://app.arcade.software/share/ehoDQ1g59CRi3bFRcrlr" %}
+
+Edition du mode de paiement :&#x20;
+
+{% @arcade/embed flowId="9jHQs0sygZANQ7ZhVBI0" url="https://app.arcade.software/share/9jHQs0sygZANQ7ZhVBI0" %}
+
+La mise au paiement :&#x20;
+
+{% @arcade/embed flowId="k9z0fwQF8aT9J3SrcFqS" url="https://app.arcade.software/share/k9z0fwQF8aT9J3SrcFqS" %}
+
+Le paiement :&#x20;
+
+{% @arcade/embed flowId="Ed8W38ftSyveLJWKp2YI" url="https://app.arcade.software/share/Ed8W38ftSyveLJWKp2YI" %}
 
 ### <sup>**Préparer l'environnement**</sup>
 
