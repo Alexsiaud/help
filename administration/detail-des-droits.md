@@ -1,7 +1,9 @@
 ---
-description: 
-priority: 
+description: tout les droits de la plateforme
+priority: 6
 chatbot_keywords: 
+  - droits
+  - accès
 ---
 
 # Détail des droits

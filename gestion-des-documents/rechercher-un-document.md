@@ -1,7 +1,10 @@
 ---
-description: 
-priority: 
+description: Rechercher un document
+priority: 5
 chatbot_keywords: 
+  - rechercher
+  - document
+  - facture
 ---
 
 # Rechercher un document

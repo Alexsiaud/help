@@ -1,7 +1,10 @@
 ---
-description: 
-priority: 
+description: Paramétrages généraux d'une entreprise
+priority: 5
 chatbot_keywords: 
+  - paramétrages généraux
+  - raison sociale
+  - SIREN
 ---
 
 # Paramétrages généraux

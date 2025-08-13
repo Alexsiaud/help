@@ -1,7 +1,9 @@
 ---
-description: 
-priority: 
+description: accès et confirgation graphique 
+priority: 3
 chatbot_keywords: 
+  - logo
+  - couleurs
 ---
 
 # Configuration visuelle

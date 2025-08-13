@@ -1,7 +1,11 @@
 ---
-description: 
-priority: 
+description: Dépôt manuel d'ebics
+priority: 5
 chatbot_keywords: 
+  - ebics
+  - dépôt
+  - manuel
+  - mouvements bancaires
 ---
 
 # Dépôt EBICS

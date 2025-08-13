@@ -1,7 +1,10 @@
 ---
-description: 
-priority: 
-chatbot_keywords: 
+description: import de masse  
+priority: 4
+chatbot_keywords:
+  - import
+  - masse
+  - entreprise
 ---
 
 # Effectuer un import en masse

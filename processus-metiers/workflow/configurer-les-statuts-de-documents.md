@@ -1,7 +1,9 @@
 ---
-description: 
-priority: 
+description: Configurer les statuts de documents
+priority: 3
 chatbot_keywords: 
+  - statuts
+  - documents
 ---
 
 # Configurer les statuts de documents

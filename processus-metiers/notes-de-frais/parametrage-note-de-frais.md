@@ -1,7 +1,10 @@
 ---
-description: 
-priority: 
+description: Paramétrage note de frais
+priority: 5
 chatbot_keywords: 
+  - paramétrage
+  - note de frais
+  - natures
 ---
 
 # Paramétrage note de frais

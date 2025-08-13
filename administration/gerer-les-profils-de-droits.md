@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: Les profils de droits
+priority: 5
 chatbot_keywords: 
+  - profil de site
+  - profil
+  - administration
+  - droits
+  - accès
 ---
 
 # Gérer les profils de droits

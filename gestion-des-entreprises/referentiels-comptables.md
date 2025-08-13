@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: accès et paramétrages référentiels comptables 
+priority: 6
 chatbot_keywords: 
+  - code journaux
+  - comptes tiers
+  - comptes charge
+  - analytique
+  - synchronisation
 ---
 
 # Référentiels comptables

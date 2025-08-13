@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: Paramétrage Google Drive
+priority: 6
 chatbot_keywords: 
+  - paramétrage
+  - google drive
+  - récupération
+  - documents
+  - cloud
 ---
 
 # Paramétrage Google Drive

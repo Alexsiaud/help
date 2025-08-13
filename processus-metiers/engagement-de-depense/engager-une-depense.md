@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: Engager une dépense
+priority: 3
 chatbot_keywords: 
+  - engager
+  - dépense
+  - engagement
+  - achat
+  - commande
 ---
 
 # Engager une dépense

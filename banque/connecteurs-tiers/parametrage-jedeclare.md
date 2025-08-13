@@ -1,7 +1,11 @@
 ---
-description: 
-priority: 
+description: Paramétrage JeDéclare
+priority: 5
 chatbot_keywords: 
+  - paramétrage
+  - jedeclare
+  - récupération
+  - flux
 ---
 
 # Paramétrage JeDéclare

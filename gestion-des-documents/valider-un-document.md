@@ -1,7 +1,11 @@
 ---
-description: 
-priority: 
+description: Valider un document
+priority: 5
 chatbot_keywords: 
+  - valider
+  - document
+  - circuit
+  - validation
 ---
 
 # Valider un document

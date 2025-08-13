@@ -1,7 +1,10 @@
 ---
-description: 
-priority: 
+description: Chaînage documentaire
+priority: 4
 chatbot_keywords: 
+  - chaînage
+  - documentaire
+  - bon de livraison
 ---
 
 # Chaînage documentaire

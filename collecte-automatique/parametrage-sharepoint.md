@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: Paramétrage SharePoint
+priority: 6
 chatbot_keywords: 
+  - paramétrage
+  - sharepoint
+  - récupération
+  - documents
+  - cloud
 ---
 
 # Paramétrage SharePoint

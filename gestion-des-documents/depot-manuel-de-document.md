@@ -1,7 +1,10 @@
 ---
-description: 
-priority: 
+description: Dépôt manuel de document
+priority: 6
 chatbot_keywords: 
+  - dépôt
+  - manuel
+  - document
 ---
 
 # Dépôt manuel de document

@@ -1,7 +1,10 @@
 ---
-description: 
-priority: 
+description: Gestion / création utilisateurs 
+priority: 5
 chatbot_keywords: 
+  - utilisateur
+  - collaborateur
+  - client
 ---
 
 # Créer des utilisateurs

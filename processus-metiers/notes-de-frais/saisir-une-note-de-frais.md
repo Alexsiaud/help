@@ -1,7 +1,9 @@
 ---
-description: 
-priority: 
+description: Saisir une note de frais
+priority: 5
 chatbot_keywords: 
+  - saisir
+  - note de frais
 ---
 
 # Saisir une note de frais

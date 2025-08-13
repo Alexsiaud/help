@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: Créer et configurer des classeurs comptables et activer les éléments comptables
+priority: 3
 chatbot_keywords: 
+  - classeur
+  - éléments comptables
+  - Activer les éléments comptables
+  - Saisir les éléments comptables
+  - éléments comptables obligatoires
 ---
 
 # Classeurs & éléments comptables
@@ -12,13 +17,13 @@ chatbot_keywords:
 Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage de la comptabilité** ](../administration/detail-des-droits.md)peut créer et configurer des classeurs comptables.
 {% endhint %}
 
-Il sera nécessaire, un fois le classeur créé d'attribuer le droit sur ce dernier **Gérer les référentiels associés (ajouter, modifier, supprimer)**
+Il sera nécessaire, un fois le classeur créé, d'attribuer le droit sur ce dernier **Gérer les référentiels associés (ajouter, modifier, supprimer)**
 
 ***
 
 ### <sup>**Contexte & Recommandations**</sup>
 
-Les classeurs comptables permettent d'activer les éléments comptables dans la fenêtre de saisie, il sera également possible de les rendre obligatoire.
+Les paramétrages des classeurs comptables permettent d'activer les éléments comptables dans la fenêtre de saisie, il sera également possible de les rendre obligatoire.
 
 ***
 

@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: Paramétrage mail dédié
+priority: 6
 chatbot_keywords: 
+  - paramétrage
+  - mail
+  - dédié
+  - récupération
+  - documents
 ---
 
 # Paramétrage mail dédié

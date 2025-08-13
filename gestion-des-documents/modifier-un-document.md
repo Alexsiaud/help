@@ -1,18 +1,13 @@
 ---
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+description: Modifier un document
+priority: 6
+chatbot_keywords: 
+  - modifier
+  - document
+  - facturette
+  - fusionner
+  - découper
+  - éclater
 ---
 
 # Modifier un document

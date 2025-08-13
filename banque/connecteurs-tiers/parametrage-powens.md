@@ -1,7 +1,13 @@
 ---
-description: 
-priority: 
+description: Paramétrage POWENS scrapping
+priority: 6
 chatbot_keywords: 
+  - paramétrage
+  - powens
+  - récupération
+  - mouvements
+  - banque
+  - scrapping
 ---
 
 # Paramétrage POWENS

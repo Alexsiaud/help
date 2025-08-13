@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: Paramétrage OneDrive
+priority: 6
 chatbot_keywords: 
+  - paramétrage
+  - onedrive
+  - récupération
+  - documents
+  - cloud
 ---
 
 # Paramétrage OneDrive

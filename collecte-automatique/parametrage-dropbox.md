@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: Paramétrage Dropbox
+priority: 6
 chatbot_keywords: 
+  - paramétrage
+  - dropbox
+  - récupération
+  - documents
+  - cloud
 ---
 
 # Paramétrage Dropbox

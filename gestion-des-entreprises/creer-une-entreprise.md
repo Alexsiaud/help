@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: Créer une entreprise, un nouveau dossier
+priority: 7
 chatbot_keywords: 
+  - dossier
+  - entreprise
+  - code dossier
+  - site par defaut
+  - nouveau dossier
 ---
 
 # Créer une entreprise

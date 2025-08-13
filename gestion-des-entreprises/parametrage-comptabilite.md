@@ -1,7 +1,13 @@
 ---
-description: 
-priority: 
+description: Paramétrage comptabilité
+priority: 5
 chatbot_keywords: 
+  - saisie à 0€
+  - logiciel comptable
+  - code dossier
+  - périodes d'exercice
+  - clôture
+  - paramétrages avancés
 ---
 
 # Paramétrage comptabilité

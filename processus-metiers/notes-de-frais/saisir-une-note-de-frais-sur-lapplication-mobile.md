@@ -1,7 +1,10 @@
 ---
-description: 
-priority: 
+description: Saisir une note de frais sur l'application mobile
+priority: 5
 chatbot_keywords: 
+  - saisir
+  - note de frais
+  - application mobile
 ---
 
 # Saisir une note de frais sur l'application mobile

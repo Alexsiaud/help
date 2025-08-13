@@ -1,7 +1,10 @@
 ---
-description: 
-priority: 
+description: Circuit de validation
+priority: 6
 chatbot_keywords: 
+  - circuit
+  - validation
+  - workflow
 ---
 
 # Circuit de validation

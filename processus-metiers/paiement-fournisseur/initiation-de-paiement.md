@@ -1,7 +1,11 @@
 ---
-description: 
-priority: 
+description: Initiation de paiement
+priority: 5
 chatbot_keywords: 
+  - initiation
+  - paiement
+  - virement
+  - powens
 ---
 
 # Initiation de paiement

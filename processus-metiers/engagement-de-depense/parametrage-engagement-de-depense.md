@@ -1,7 +1,12 @@
 ---
-description: 
-priority: 
+description: Paramétrage engagement de dépense
+priority: 3
 chatbot_keywords: 
+  - paramétrage
+  - engagement
+  - dépense
+  - achat
+  - commande
 ---
 
 # Paramétrage engagement de dépense

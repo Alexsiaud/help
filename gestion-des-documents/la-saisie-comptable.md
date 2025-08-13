@@ -1,7 +1,10 @@
 ---
-description: 
-priority: 
+description: La saisie comptable
+priority: 6
 chatbot_keywords: 
+  - saisie
+  - comptable
+  - document
 ---
 
 # La saisie comptable
