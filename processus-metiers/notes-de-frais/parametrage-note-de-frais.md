@@ -54,7 +54,7 @@ Une mauvaise configuration initiale entraînera des erreurs de saisie et des dys
 
 ### <sup>**Configurer les notes de frais**</sup>
 
-1. Accédez au menu **Entreprise** > **Plan de classement** > **Processus métier** > **Formulaire**.
+1. Accédez au menu **Entreprise > Plan de classement > Processus métier >** **Circuits de validation**.
 2. Cliquez sur **Ajouter** pour créer un nouveau circuit de validation.
 3. Choisissez dans le menu déroulant le type **Formulaire** et enregistrez.
 4. Indiquez le nom du circuit de validation et le formulaire dédié **Note de frais**.
