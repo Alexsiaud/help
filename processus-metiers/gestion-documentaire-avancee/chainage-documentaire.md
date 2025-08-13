@@ -1,5 +1,4 @@
 ---
-description: Chaînage documentaire
 priority: 4
 chatbot_keywords: 
   - chaînage

@@ -1,5 +1,4 @@
 ---
-description: accès et paramétrages référentiels comptables 
 priority: 6
 chatbot_keywords: 
   - code journaux

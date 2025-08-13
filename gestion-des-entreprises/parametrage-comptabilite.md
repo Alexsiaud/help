@@ -1,5 +1,4 @@
 ---
-description: Paramétrage comptabilité
 priority: 5
 chatbot_keywords: 
   - saisie à 0€

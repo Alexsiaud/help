@@ -1,5 +1,4 @@
 ---
-description: Dépôt manuel d'ebics
 priority: 5
 chatbot_keywords: 
   - ebics

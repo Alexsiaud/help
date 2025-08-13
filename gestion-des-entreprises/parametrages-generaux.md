@@ -1,5 +1,4 @@
 ---
-description: Paramétrages généraux d'une entreprise
 priority: 5
 chatbot_keywords: 
   - paramétrages généraux

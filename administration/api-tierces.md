@@ -1,5 +1,4 @@
 ---
-description: Accès paramétrages des api tierces
 priority: 3
 chatbot_keywords:
   - Welyb

@@ -1,5 +1,4 @@
 ---
-description: gestion des sites
 priority: 4
 chatbot_keywords: 
   - site

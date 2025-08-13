@@ -1,5 +1,4 @@
 ---
-description: Paiement SEPA
 priority: 5
 chatbot_keywords: 
   - paiement

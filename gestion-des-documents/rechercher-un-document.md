@@ -1,5 +1,4 @@
 ---
-description: Rechercher un document
 priority: 5
 chatbot_keywords: 
   - rechercher

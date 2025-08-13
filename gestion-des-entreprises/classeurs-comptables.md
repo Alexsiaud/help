@@ -1,5 +1,4 @@
 ---
-description: Créer et configurer des classeurs comptables et activer les éléments comptables
 priority: 3
 chatbot_keywords: 
   - classeur

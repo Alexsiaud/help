@@ -1,13 +1,11 @@
 ---
-description: >-
-  Cette base de connaissances contient toute la documentation nécessaire pour
-  utiliser efficacement votre solution de digitalisation comptable.
 icon: book-open
+Description: Cette base de connaissances contient toute la documentation nécessaire pour utiliser efficacement votre solution de digitalisation comptable.
 ---
 
 # Bienvenue
 
-Cette documentation est organisée par sections thématiques pour vous permettre de trouver rapidement l'information recherchée.&#x20;
+Cette documentation est organisée par sections thématiques pour vous permettre de trouver rapidement l'information recherchée.
 
 Utilisez la barre de recherche ou naviguez dans les différentes catégories.
 

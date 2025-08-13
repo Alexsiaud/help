@@ -1,5 +1,4 @@
 ---
-description: Modèles de natures de frais
 priority: 8
 chatbot_keywords: 
   - modèle

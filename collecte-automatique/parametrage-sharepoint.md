@@ -1,5 +1,4 @@
 ---
-description: Paramétrage SharePoint
 priority: 6
 chatbot_keywords: 
   - paramétrage

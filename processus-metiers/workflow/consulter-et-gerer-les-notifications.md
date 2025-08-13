@@ -1,5 +1,4 @@
 ---
-description: Consulter et gérer les notifications
 priority: 3
 chatbot_keywords: 
   - consulter

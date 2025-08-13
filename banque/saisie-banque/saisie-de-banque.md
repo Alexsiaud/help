@@ -1,5 +1,4 @@
 ---
-description: Saisie de banque
 priority: 6
 chatbot_keywords: 
   - saisie

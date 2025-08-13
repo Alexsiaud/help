@@ -1,5 +1,4 @@
 ---
-description: Les profils de droits
 priority: 5
 chatbot_keywords: 
   - profil de site

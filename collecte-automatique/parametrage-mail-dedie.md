@@ -1,5 +1,4 @@
 ---
-description: Paramétrage mail dédié
 priority: 6
 chatbot_keywords: 
   - paramétrage

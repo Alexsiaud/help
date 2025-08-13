@@ -1,5 +1,4 @@
 ---
-description: Paramétrage note de frais
 priority: 5
 chatbot_keywords: 
   - paramétrage

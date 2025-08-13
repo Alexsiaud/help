@@ -1,5 +1,4 @@
 ---
-description: Paramétrage OneDrive
 priority: 6
 chatbot_keywords: 
   - paramétrage

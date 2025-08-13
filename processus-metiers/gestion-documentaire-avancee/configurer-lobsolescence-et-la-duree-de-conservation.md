@@ -1,5 +1,4 @@
 ---
-description: Configurer l'Obsolescence et la Durée de conservation
 priority: 3
 chatbot_keywords: 
   - obsolescence

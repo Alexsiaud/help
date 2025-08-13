@@ -1,5 +1,4 @@
 ---
-description: Gerer / créer les modèles
 priority: 5
 chatbot_keywords: 
   - modèles

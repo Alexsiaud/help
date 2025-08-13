@@ -1,5 +1,4 @@
 ---
-description: Circuit de validation
 priority: 6
 chatbot_keywords: 
   - circuit

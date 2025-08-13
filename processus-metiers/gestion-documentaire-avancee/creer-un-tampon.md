@@ -1,5 +1,4 @@
 ---
-description: Créer un tampon
 priority: 3
 chatbot_keywords: 
   - créer

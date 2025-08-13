@@ -1,5 +1,4 @@
 ---
-description: Paramétrage connecteur marchand
 priority: 6
 chatbot_keywords: 
   - paramétrage

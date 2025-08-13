@@ -1,5 +1,4 @@
 ---
-description: import de masse  
 priority: 4
 chatbot_keywords:
   - import

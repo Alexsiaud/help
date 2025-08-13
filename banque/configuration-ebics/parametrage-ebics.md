@@ -1,5 +1,4 @@
 ---
-description: Paramétrage pour dépôts d'EBICS
 priority: 6
 chatbot_keywords: 
   - dépôt

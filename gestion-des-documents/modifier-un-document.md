@@ -1,5 +1,4 @@
 ---
-description: Modifier un document
 priority: 6
 chatbot_keywords: 
   - modifier

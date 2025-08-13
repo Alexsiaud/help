@@ -1,5 +1,4 @@
 ---
-description: 
 priority: 
 chatbot_keywords: 
 ---

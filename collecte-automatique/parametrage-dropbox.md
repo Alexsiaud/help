@@ -1,5 +1,4 @@
 ---
-description: Paramétrage Dropbox
 priority: 6
 chatbot_keywords: 
   - paramétrage

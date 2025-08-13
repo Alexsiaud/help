@@ -1,5 +1,4 @@
 ---
-description: Gestion / création utilisateurs 
 priority: 5
 chatbot_keywords: 
   - utilisateur

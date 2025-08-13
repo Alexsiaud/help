@@ -1,5 +1,4 @@
 ---
-description: Paramétrage Google Drive
 priority: 6
 chatbot_keywords: 
   - paramétrage
