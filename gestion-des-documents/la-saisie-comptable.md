@@ -44,11 +44,19 @@ Vous pouvez sélectionner un autre document de la bannette directement depuis ce
 
 ***
 
+### <sup>**Saisir les éléments comptables**</sup>
+
+La plupart des éléments comptables seront renseignés grâce à l'analyse OCR. Par défaut les dates de facture et d'échéance, ainsi que le numéro de facture seront affichés.&#x20;
+
+Les paramétrages de vos [classeurs & référentiels](../gestion-des-entreprises/referentiels-comptables.md) vous permettrons d'afficher et de renseigner d'autres éléments comptables.
+
+***
+
 ### <sup>**Saisir les comptes comptables**</sup>
 
 **Compte tiers :**
 
-Si le compte tiers est présent dans le FEC, celui-ci peut être renseigné automatiquement si la plateforme a reconnu le fournisseur dans le document. Dans le cas où aucun compte tiers n'est pas renseigné, cliquer dans le champ **Compte** sur une ligne à renseigner :
+Si le [compte tiers](../gestion-des-entreprises/referentiels-comptables.md) est présent dans le FEC, celui-ci peut être renseigné automatiquement si la plateforme a reconnu le fournisseur dans le document. Dans le cas où aucun compte tiers n'est pas renseigné, cliquer dans le champ **Compte** sur une ligne à renseigner :
 
 * **Option 1 - Recherche par nom :** Saisissez les premières lettres du nom du compte tiers, puis sélectionnez le compte souhaité dans la liste qui s'affiche.
 * **Option 2 - Recherche par libellé :** Saisissez les premières lettres du libellé du compte tiers, puis sélectionnez le compte souhaité dans la liste qui s'affiche.

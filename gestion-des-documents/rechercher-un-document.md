@@ -10,7 +10,7 @@ Seul un utilisateur ayant le droit [**Consulter les documents enregistrés**](..
 
 ### <sup>**Contexte & Recommandations**</sup>
 
-La recherche de documents permet de retrouver rapidement un fichier dans vos classeurs comptables et plan de classement. Cette fonction est particulièrement utile pour :
+La recherche de documents permet de retrouver rapidement un fichier dans vos [classeurs comptables](../gestion-des-entreprises/classeurs-comptables.md) et plan de classement. Cette fonction est particulièrement utile pour :
 
 * Retrouver un document spécifique par son nom, numéro ou contenu
 * Effectuer des recherches ciblées dans un ou plusieurs classeurs
@@ -28,17 +28,26 @@ La recherche de documents permet de retrouver rapidement un fichier dans vos cla
 
 ***
 
-### <sup>**Préparer la recherche**</sup>
-
-{% hint style="info" %}
-Pour effectuer une recherche sur toutes les entreprises, vous devez obligatoirement saisir une valeur dans le champ de recherche sur le contenu des documents.
-{% endhint %}
-
 **Critères de recherche disponibles :**
 
 * Recherche par mot-clé dans le contenu des documents
 * Filtrage avancé par critères spécifiques
-* Sélection d'entreprise(s) cible(s)
+  * ID du document
+  * Action d'un utilisateur
+  * Méthode d'enregistrement
+  * [Statut](../processus-metiers/workflow/configurer-les-statuts-de-documents.md)
+  * Numéro de facture ou de pièce
+  * Compte tiers
+  * Montant
+* Statut de d'export
+* Exercice
+* Date
+  * Du document
+  * De dépôt
+  * D'enregistrement
+  * d'export
+  * d'échéance
+* Classeur de l'entreprise
 
 ***
 

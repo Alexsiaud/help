@@ -33,7 +33,7 @@ Procédez comme suit :
 
 1. Depuis votre interface principale, accédez au menu **Bannettes**.
 2. Sélectionnez l'**entreprise** concernée dans la liste
-3. Recherchez et sélectionnez le **classeur de dépôt** approprié
+3. Recherchez et sélectionnez le [**classeur**](../gestion-des-entreprises/classeurs-comptables.md) **de dépôt** approprié
 4. Cliquez sur le bouton **Ajouter**
 5. Importez vos documents via l'explorateur de fichiers
 6. Cliquez sur **Ouvrir** pour confirmer la sélection

@@ -17,7 +17,7 @@ layout:
 
 # Modifier un document
 
-### <sup>**Prérequis / Permissions**</sup>
+### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
 Seul un utilisateur avec le droit [**Enregistrer les documents**](../administration/detail-des-droits.md) peut effectuer des modifications sur les documents.
@@ -25,7 +25,7 @@ Seul un utilisateur avec le droit [**Enregistrer les documents**](../administrat
 
 ***
 
-### <sup>**Contexte / Recommandations**</sup>
+### <sup>**Contexte & Recommandations**</sup>
 
 La modification de documents depuis les bannettes permet d'effectuer diverses opérations d'édition avant traitement.
 
