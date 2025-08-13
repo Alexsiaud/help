@@ -32,39 +32,33 @@ Le code dossier doit être identique à celui du logiciel comptable pour permett
 Assurez-vous d'avoir le fichier FEC à jour avant de commencer la procédure.
 {% endhint %}
 
-1. Depuis votre interface principale, suivez ces étapes :
-2. Dans le menu de gauche, cliquez sur **Entreprise**
-3. Cliquez sur **Ajouter**
-4. Dans la page **Généralités**, renseignez tous les champs requis
-5. Le champ **Code dossier** doit être identique à celui du logiciel comptable
-6. Si vous n’avez pas créé de site, sélectionnez **site par défaut**
-7. Cliquez sur **Suivant**
+Depuis votre interface principale, suivez ces étapes :
 
-***
-
-### <sup>**Initialiser l'entreprise**</sup>
-
-* **Importer un fichier FEC (Recommandé)**
+1. Dans le menu de gauche, cliquez sur **Entreprise**
+2. Cliquez sur **Ajouter**
+3. Dans la page **Généralités**, renseignez tous les champs requis
+4. Le champ **Code dossier** doit être identique à celui du logiciel comptable
+5. Si vous n’avez pas créé de site, sélectionnez **site par défaut**
+6. Cliquez sur **Suivant.**
+7. Importer un fichier **FEC** (recommandé)
+8. Les libellés d'écriture sont proposés par défaut et modifiables par clic droit dans leurs champs respectifs afin de choisir les variables d’automatisation
+9. Cliquez sur **Enregistrer** en bas de page
 
 {% hint style="success" %}
-Importer un FEC permet la création des référentiels comptables (codes journaux, comptes de tiers et comptes comptables) mais il permet aussi de récupérer les occurrences afin de permettre à la plateforme de faire des propositions de saisie adaptées dès le démarrage de la saisie.
+Importer un FEC permet la création des [référentiels comptables](referentiels-comptables.md) (codes journaux, comptes de tiers et comptes comptables) mais il permet aussi de récupérer les occurrences afin de permettre à la plateforme de faire des propositions de saisie adaptées dès le démarrage de la saisie.
 {% endhint %}
-
-* Les libellés d'écriture sont proposés par défaut et modifiables par clic droit dans leurs champs respectifs afin de choisir les variables d’automatisation
-
-8. Cliquez sur **Enregistrer** en bas de page
 
 ***
 
 #### **Option : Sélectionner un modèle de dossier**
 
 {% hint style="warning" %}
-La création du modèle doit être effectuée avant la création de l’entreprise.
+La [création du modèle](../administration/modeles-dentreprises.md) doit être effectuée avant la création de l’entreprise.
 {% endhint %}
 
-9. Sélectionnez dans le menu déroulant le modèle désiré
-10. Activez le ou les différents imports souhaités
-11. Cliquez sur **Enregistrer**
+1. Sélectionnez dans le menu déroulant le modèle désiré
+2. Activez le ou les différents imports souhaités
+3. Cliquez sur **Enregistrer**
 
 ***
 
@@ -89,7 +83,7 @@ Vérifiez que le fichier FEC est au bon format et que les codes journaux sont bi
 
 #### **Vous voulez modifier les paramètres après création ?**
 
-Accédez aux paramètres avancés de l'entreprise via le menu entreprise.
+Accédez aux [paramètres avancés](parametrages-generaux.md) de l'entreprise via le menu entreprise.
 
 ***
 

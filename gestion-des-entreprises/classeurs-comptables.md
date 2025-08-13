@@ -51,7 +51,7 @@ Une mauvaise configuration du classeur peut impacter l'organisation de vos donn�
 
 ***
 
-### <sup>**Créer le classeur comptable**</sup>
+### <sup>**Créer un classeur comptable**</sup>
 
 {% hint style="info" %}
 Le type de classeur ne pourra pas être modifié après création.
@@ -61,6 +61,21 @@ Le type de classeur ne pourra pas être modifié après création.
 2. Cliquez sur **Ajouter**.
 3. Saisissez un nom pour le classeur.
 4. Sélectionnez un type de classeur correspondant à votre usage.
+
+***
+
+### &#x20;<sup>**Éditer un classeur comptable**</sup>
+
+{% hint style="info" %}
+Éditez un classeur afin d'adapter vos éléments com
+{% endhint %}
+
+1. Depuis votre compte, rendez-vous dans le menu **entreprise** – **Classeurs comptables**.
+2. Editez un classeur comptable.
+3. Saisissez un nom pour le classeur.
+4. Sélectionnez un type de classeur correspondant à votre usage.
+
+
 
 ***
 

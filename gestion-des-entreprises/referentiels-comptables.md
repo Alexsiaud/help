@@ -32,7 +32,9 @@ Les référentiels comptables constituent la base de données de votre entrepris
 
 ### <sup>**Préparer l'environnement**</sup>
 
+{% hint style="danger" %}
 **Impact critique** : Des référentiels mal configurés peuvent compromettre la qualité des automatisations et nécessiter des corrections manuelles importantes sur vos saisies.
+{% endhint %}
 
 ***
 
@@ -51,12 +53,20 @@ Les référentiels comptables constituent la base de données de votre entrepris
    * **Codes de TVA** : Configurez vos taux et règles de TVA (action possible aussi depuis la bannette)
    * **Modes de règlement** : Paramétrez vos moyens de paiement
 
+{% hint style="warning" %}
+Affichez et automatisez les éléments comptables dans les paramétrages des [classeurs comptables](classeurs-comptables.md)
+{% endhint %}
+
 ***
 
 ### <sup>**Paramétrer l'analytique**</sup>
 
 * **Axes analytiques**
 * **Sections analytiques** (10 niveaux de sections maximum par axe)
+
+{% hint style="warning" %}
+Affichez et automatisez l'analytique dans les paramétrages des [classeurs comptables](classeurs-comptables.md)
+{% endhint %}
 
 ***
 
