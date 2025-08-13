@@ -5,7 +5,7 @@
   * [Créer une entreprise](gestion-des-entreprises/creer-une-entreprise.md)
   * [Paramétrages généraux](gestion-des-entreprises/parametrages-generaux.md)
   * [Paramétrage comptabilité](gestion-des-entreprises/parametrage-comptabilite.md)
-  * [Classeurs comptables](gestion-des-entreprises/classeurs-comptables.md)
+  * [Classeurs & éléments comptables](gestion-des-entreprises/classeurs-comptables.md)
   * [Référentiels comptables](gestion-des-entreprises/referentiels-comptables.md)
 * [GESTION DES DOCUMENTS](gestion-des-documents/README.md)
   * [Dépôt manuel de document](gestion-des-documents/depot-manuel-de-document.md)
