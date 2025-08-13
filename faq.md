@@ -93,7 +93,7 @@ Une limite d'espace disque pour le stockage de données peut aussi être présen
 
 ***
 
-### <sup>Gestion des Entreprises & Utilisateur</sup>s
+### <sup>Gestion des Entreprises & Utilisateurs</sup>
 
 **Peut-on modifier plusieurs entreprises d'un coup ?**&#x20;
 
