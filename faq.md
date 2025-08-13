@@ -40,7 +40,7 @@ La liste est disponible sur INGENEO une fois que l'on crée un canal de collecte
 
 **Je peux connecter un drive à INGENEO ?**&#x20;
 
-Oui, cela se trouve dans le menu COLLECTE de la gestion de l'entreprise.
+Oui, cela se trouve dans l'onglet COLLECTE de la gestion de l'entreprise.
 
 **Comment paramétrer un connecteur Outlook ?**&#x20;
 
