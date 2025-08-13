@@ -24,7 +24,7 @@ Non, l'apprentissage de la plateforme vous proposera la contrepartie au bout de 
 
 **Comment ajouter un compte tiers ?**&#x20;
 
-Dans le menu saisie, placez vous dans la colonne "Compte" du tableau de saisie sur la première ligne et tapez sur la touche "Entrée" de votre clavier. Vous pourrez créer un compte de tiers, il sera créé dans le logiciel comptable à l'intégration de l'écriture.
+Dans la fenêtre de saisie, placez vous dans la colonne "Compte" du tableau de saisie sur la première ligne et tapez sur la touche "Entrée" de votre clavier. Vous pourrez créer un compte de tiers, il sera créé dans le logiciel comptable à l'intégration de l'écriture.
 
 **Comment récupérer ou ajouter la date d'échéance ?**&#x20;
 
@@ -181,4 +181,4 @@ Il est possible de personnaliser l'URL de connexion à votre plateforme INGENEO,
 
 ### <sup>Contact Support</sup>
 
-Pour toute question non couverte dans cette FAQ, n'hésitez pas à contacter notre équipe support ou consulter la documentation complète dans le menu RESSOURCE d'INGENEO.
+Pour toute question non couverte dans cette FAQ, n'hésitez pas à contacter notre équipe support depuis le menu RESSOURCE d'INGENEO.
