@@ -14,7 +14,22 @@ Il sera nécessaire, un fois le classeur créé d'attribuer le droit sur ce dern
 
 Les classeurs comptables permettent d'organiser et structurer vos données comptables selon vos besoins spécifiques.
 
-Créer plusieurs classeurs comptable permet également d’automatiser des éléments comptable pour certains besoins (ex : devises, analytique…etc.).
+Vous pourrez choisir les éléments comptables à rendre disponible dans vos saisie, il sera également possible de les rendre obligatoire à la saisie.
+
+Ci-dessous la liste des éléments comptables disponibles sur INGENEO :&#x20;
+
+| Libellé d'écriture | Numéro de facture          |
+| ------------------ | -------------------------- |
+| Date de facture    | Date d'échéance            |
+| Numéro de pièce    | Mode de règlement          |
+| Collectif          | Devise                     |
+| Périodicité        | Codes de TVA               |
+| Analytique         | Libellé de pièce           |
+| Quantité #1 et #2  | Information complémentaire |
+
+{% hint style="info" %}
+Créer plusieurs classeurs comptable permet également d’automatiser des éléments comptable pour certains besoins.
+{% endhint %}
 
 ***
 
