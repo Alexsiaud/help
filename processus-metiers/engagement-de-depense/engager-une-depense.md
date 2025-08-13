@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Engager une dépense
 
 ### <sup>**Prérequis & Permissions**</sup>

@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Créer un tampon
 
 ### <sup>**Prérequis & Permissions**</sup>

@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # API tierces
 
 ### <sup>**Prérequis & Permissions**</sup>

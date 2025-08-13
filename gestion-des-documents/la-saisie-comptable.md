@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # La saisie comptable
 
 ### <sup>**Prérequis & Permissions**</sup>

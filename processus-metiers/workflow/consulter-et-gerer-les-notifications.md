@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Consulter et gérer les notifications
 
 ### <sup>**Prérequis et Permissions**</sup>

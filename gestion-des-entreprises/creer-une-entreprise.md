@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Créer une entreprise
 
 ### <sup>**Prérequis & Permissions**</sup>

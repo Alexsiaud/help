@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Modèles d'entreprises
 
 ### <sup>**Prérequis & Permissions**</sup>

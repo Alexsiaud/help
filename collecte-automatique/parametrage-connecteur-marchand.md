@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrage connecteur marchand
 
 ### <sup>**Prérequis & Permissions**</sup>

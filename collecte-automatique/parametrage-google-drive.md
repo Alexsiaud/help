@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrage Google Drive
 
 ### <sup>**Prérequis et Permissions**</sup>

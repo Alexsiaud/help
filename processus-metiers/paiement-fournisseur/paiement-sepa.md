@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paiement SEPA
 
 ### <sup>**Prérequis & Permissions**</sup>

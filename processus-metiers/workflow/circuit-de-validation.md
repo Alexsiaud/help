@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Circuit de validation
 
 ### <sup>**Prérequis et Permissions**</sup>

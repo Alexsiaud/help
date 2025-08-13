@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Saisie de banque
 
 ### <sup>**Prérequis & Permissions**</sup>

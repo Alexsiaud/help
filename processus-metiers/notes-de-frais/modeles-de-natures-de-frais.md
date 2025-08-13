@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Modèles de natures de frais
 
 ### <sup>**Prérequis & Permissions**</sup>

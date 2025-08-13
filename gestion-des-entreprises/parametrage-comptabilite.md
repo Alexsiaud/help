@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrage comptabilité
 
 ### <sup>**Prérequis & Permissions**</sup>

@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrage Dropbox
 
 ### <sub>**Prérequis & Permissions**</sub>

@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Référentiels comptables
 
 ### <sup>**Prérequis & Permissions**</sup>

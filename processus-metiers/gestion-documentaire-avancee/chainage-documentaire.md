@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Chaînage documentaire
 
 ### <sup>**Prérequis & Permissions**</sup>

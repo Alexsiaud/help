@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Initiation de paiement
 
 ### <sup>**Prérequis & Permissions**</sup>

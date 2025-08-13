@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrage mail dédié
 
 ### <sup>**Prérequis & Permissions**</sup>

@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrage EBICS
 
 ### <sup>**Prérequis & Permissions**</sup>

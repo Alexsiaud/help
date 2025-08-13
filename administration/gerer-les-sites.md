@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Gérer les sites
 
 ### <sup>**Prérequis & Permissions**</sup>

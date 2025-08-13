@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrage JeDéclare
 
 ### <sup>**Prérequis & Permissions**</sup>

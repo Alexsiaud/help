@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Effectuer un import en masse
 
 ### <sup>**Prérequis & Permissions**</sup>

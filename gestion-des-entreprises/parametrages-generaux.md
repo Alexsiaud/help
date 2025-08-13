@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrages généraux
 
 ### <sup>**Prérequis & Permissions**</sup>

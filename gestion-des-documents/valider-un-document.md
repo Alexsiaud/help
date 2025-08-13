@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Valider un document
 
 ### <sup>**Prérequis & Permissions**</sup>

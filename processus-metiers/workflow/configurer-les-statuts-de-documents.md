@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Configurer les statuts de documents
 
 ### <sup>**Prérequis et Permissions**</sup>

@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Détail des droits
 
 La [gestion des profils](gerer-les-profils-de-droits.md) de droits est essentielle pour contrôler les droits d'accès des utilisateurs sur la plateforme INGENEO.

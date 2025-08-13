@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Dépôt EBICS
 
 ### <sup>**Prérequis & Permissions**</sup>

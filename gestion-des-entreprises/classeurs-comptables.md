@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Classeurs & éléments comptables
 
 ### <sup>**Prérequis & Permissions**</sup>

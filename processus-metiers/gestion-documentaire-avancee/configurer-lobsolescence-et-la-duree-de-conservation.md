@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Configurer l'Obsolescence et la Durée de conservation
 
 ### <sup>**Prérequis & Permissions**</sup>

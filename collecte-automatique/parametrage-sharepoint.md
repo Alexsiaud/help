@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrage SharePoint
 
 ### <sup>**Prérequis & Permissions**</sup>

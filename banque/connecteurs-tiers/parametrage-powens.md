@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrage POWENS
 
 ### <sup>**Prérequis & Permissions**</sup>

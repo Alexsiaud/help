@@ -1,3 +1,9 @@
+---
+description: 
+priority: 
+chatbot_keywords: 
+---
+
 # Paramétrage note de frais
 
 ### <sup>**Prérequis et Permissions**</sup>
