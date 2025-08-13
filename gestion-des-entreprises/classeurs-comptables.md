@@ -14,7 +14,9 @@ Il sera nécessaire, un fois le classeur créé d'attribuer le droit sur ce dern
 
 Les classeurs comptables permettent d'activer les éléments comptables dans la fenêtre de saisie, il sera également possible de les rendre obligatoire.
 
-Ci-dessous la liste des éléments comptables disponibles sur INGENEO :&#x20;
+***
+
+### <sup>Les éléments comptables</sup>
 
 | Libellé d'écriture | Numéro de facture          |
 | ------------------ | -------------------------- |
@@ -61,6 +63,13 @@ Le type de classeur ne pourra pas être modifié après création.
 2. Cliquez sur **Ajouter**.
 3. Saisissez un nom pour le classeur.
 4. Sélectionnez un type de classeur correspondant à votre usage.
+5. Cliquez sur **Enregistrer**
+6. Dans l'onglet **Configuration** vous pourrez :
+   1. Choisir l'ordre d'affichage
+   2. Éditer le nom
+   3. Choisir un journal par défaut
+7. Dans  l'onglet [**Éléments comptables**](classeurs-comptables.md#les-elements-comptables) vous pourrez activer ou non les éléments souhaités
+8. Cliquez sur **Enregistrer** pour valider vos paramétrages
 
 ***
 
@@ -72,16 +81,18 @@ Le type de classeur ne pourra pas être modifié après création.
 
 1. Depuis votre compte, rendez-vous dans le menu **entreprise** – **Classeurs comptables**.
 2. Editez un classeur comptable.
-3. Saisissez un nom pour le classeur.
-4. Sélectionnez un type de classeur correspondant à votre usage.
-
-
+3. Assurez vous d'avoir un **journal** par défaut
+4. Dans l'onglet **Configuration** vous pourrez :
+   1. Choisir l'ordre d'affichage
+   2. Éditer le nom
+   3. Choisir un journal par défaut
+5. Dans  l'onglet [**Éléments comptables**](classeurs-comptables.md#les-elements-comptables) vous pourrez activer ou non les éléments souhaités
+6. Cliquez sur **Enregistrer** pour valider vos paramétrages
 
 ***
 
-### <sup>**Options de configuration**</sup>
+### <sup>**Paramétrage avancé**</sup>
 
-* Activer/désactiver la comptabilisation par ligne d'article
 * Activer/désactiver la fonction « Ne pas exporter »
 * Alerter si la date de facture supérieure à la date d’échéance
 * Afficher la validité de l’entreprise
