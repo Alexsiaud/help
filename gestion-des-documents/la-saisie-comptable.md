@@ -3,7 +3,7 @@
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-Seul un utilisateur ayant les [droits de saisie ](../administration/detail-des-droits.md)peut effectuer la saisie comptable des documents.
+Seul un utilisateur ayant le droit [Enregistrer les documents](../administration/detail-des-droits.md) peut effectuer la saisie comptable des documents.
 {% endhint %}
 
 ***
