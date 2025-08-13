@@ -1,12 +1,11 @@
 ---
 description: >-
-  Bienvenue dans le centre d'aide INGENEO. Cette base de connaissances contient
-  toute la documentation nécessaire pour utiliser efficacement votre solution de
-  digitalisation comptable.
+  Cette base de connaissances contient toute la documentation nécessaire pour
+  utiliser efficacement votre solution de digitalisation comptable.
 icon: book-open
 ---
 
-# Documentation
+# Bienvenue
 
 Cette documentation est organisée par sections thématiques pour vous permettre de trouver rapidement l'information recherchée.&#x20;
 
