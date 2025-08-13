@@ -12,7 +12,7 @@ Il sera nécessaire, un fois le classeur créé d'attribuer le droit sur ce dern
 
 ### <sup>**Contexte & Recommandations**</sup>
 
-Les classeurs comptables permettent de paramétrer les éléments comptables à rendre disponible dans vos saisie, il sera également possible de les rendre obligatoire.
+Les classeurs comptables permettent d'activer les éléments comptables dans la fenêtre de saisie, il sera également possible de les rendre obligatoire.
 
 Ci-dessous la liste des éléments comptables disponibles sur INGENEO :&#x20;
 
