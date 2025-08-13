@@ -6,9 +6,9 @@ description: >-
 icon: book-open
 ---
 
-# Centre d'aide ingeneo
+# Documentation
 
-Cette base de connaissances est organisée par sections thématiques pour vous permettre de trouver rapidement l'information recherchée.&#x20;
+Cette documentation est organisée par sections thématiques pour vous permettre de trouver rapidement l'information recherchée.&#x20;
 
 Utilisez la barre de recherche ou naviguez dans les différentes catégories.
 
