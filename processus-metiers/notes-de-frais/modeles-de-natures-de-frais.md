@@ -1,7 +1,9 @@
 ---
-description: 
-priority: 
+description: Modèles de natures de frais
+priority: 8
 chatbot_keywords: 
+  - modèle
+  - nature de frais
 ---
 
 # Modèles de natures de frais
@@ -9,79 +11,81 @@ chatbot_keywords:
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-Seul un utilisateur ayant le droit [**Autoriser l’accès au déploiement en masse**](../../administration/detail-des-droits.md) pourra accéder aux modèles de natures de frais.
+Seul un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) peut créer et gérer les tampons personnalisés.
 {% endhint %}
 
 ***
 
 ### <sup>**Contexte & Recommandations**</sup>
 
-Les modèles de nature de frais permettent de standardiser la configuration comptable et organisationnelle lors de la création de notes de frais.
+Les tampons personnalisés permettent d'apposer rapidement des mentions sur vos documents. Ils sont particulièrement utiles pour :
+
+* Ajouter des mentions récurrentes (comptabilisé, numéro de pièce, initiales…etc.)
+* Standardiser des informations
+* Gagner du temps lors du traitement documentaire
+
+{% hint style="info" %}
+Une fois créé, le tampon sera disponible pour tous les utilisateurs ayant accès aux classeurs sélectionnés.
+{% endhint %}
 
 ***
 
-**Quand l'utiliser :**
+### <sup>**Préparer la création du tampon**</sup>
 
-* Création récurrente de note de frais
-* Gain de temps lors de création de note de frais
-
-***
-
-### <sup>**Préparer l'environnement**</sup>
-
-{% hint style="warning" %}
-Une mauvaise configuration initiale entraînera des erreurs de saisie et des dysfonctionnements dans les circuits de validation de note de frais.
+{% hint style="info" %}
+Assurez-vous d'avoir défini le contenu et le libellé de votre tampon avant de commencer la création.
 {% endhint %}
 
 **Critères obligatoires :**
 
-* Avoir dans les référentiels comptables les comptes HT et TVA pour chaque nature de frais
-* Paramétrez le journal comptable par défaut pour le classeur
+* Libellé clair et explicite pour identifier le tampon
+* Contenu du tampon défini (texte qui sera apposé)
+* Classeurs de destination identifiés
 
 ***
 
-### <sup>Vidéo interactive 💡</sup>
+### <sup>**Créer le tampon**</sup>
 
-{% @arcade/embed url="https://app.arcade.software/share/SADnjkLjs1kfjxyI4cLS" flowId="SADnjkLjs1kfjxyI4cLS" %}
-
-***
-
-### <sup>**Créer et paramétrer les modèles de natures de frais**</sup>
-
-1. Depuis le menu **Entreprise**
-2. Cliquez sur le bouton **Actions multiples** (trois traits verticaux à droite de l’écran)
-3. Sélectionnez **Modèles**, puis **Gestion des modèles génériques**
-4. Cliquez sur **Modèles de Natures de Frais**
-5. Cliquez sur **Ajouter**
-6. Saisissez un **Nom** pour le modèle
-7. Cliquez sur le **+** pour ajouter un élément dans la liste de natures de frais
-8. Entrez les renseignements liés à ce modèle de note de frais : le libellé, le compte HT et le compte TVA
-9. (Facultatif) Ajoutez une configuration de TVA en cliquant sur le **+**
-
-***
-
-### <sup>**Configuration du barème kilométrique**</sup>
-
-1. Cliquez sur **Ajouter** et renseignez l'année souhaitée
-2. Créez votre barème kilométrique selon les taux officiels ou par taux personnalisé
-3. **Enregistrez** les modifications
+1. Depuis votre compte, rendez-vous dans **Entreprise** > **Plan de classement** > **Processus métier** > **Tampon**.
+2. Cliquez sur **Ajouter**, puis **Nouveau tampon**.
+3. Saisissez un **libellé** pour identifier votre tampon.
+4. Saisissez le contenu du tampon.
+5. Cliquez sur **Enregistrer**.
+6. Cliquez sur **Ajouter un classeur**.
+7. Sélectionnez le classeur souhaité, puis **Enregistrer**.
 
 {% hint style="info" %}
-Utilisez les barèmes kilométriques officiels pour respecter la réglementation fiscale.
+Le tampon est désormais créé et associé aux classeurs sélectionnés.
 {% endhint %}
+
+***
+
+### <sup>**Utiliser le tampon**</sup>
+
+* Depuis le menu **Bannette**, il est possible d'apposer le tampon créé dans le visuel du document.
+* Il est possible d’appliquer automatiquement un tampon en sélectionnant **Appliquer par défaut** au moment du choix du classeur.
+* Il est possible d’utiliser le tampon dans un circuit de validation en sélectionnant **Utiliser ce tampon dans les circuits de validation**.
 
 ***
 
 ### <sup>**Questions fréquentes**</sup>
 
-**Vous souhaitez modifier une nature de frais après création ?**
+**Vous souhaitez modifier un tampon existant ?**
 
-Retournez dans le menu entreprise, cliquez sur le bouton **Actions multiples** (trois traits verticaux à droite de l’écran), puis sélectionnez le **Modèle de natures de frais** à éditer
+Retournez dans **Entreprise** > **Plan de classement** > **Processus métier** > **Tampon**, sélectionnez le tampon à modifier et apportez vos modifications.
 
-**Vous souhaitez créer des modèles de frais kilométriques ?**
+**Vous ne trouvez pas votre tampon dans la bannette ?**
 
-Utilisez l'option d'ajout de natures de frais en sélectionnant les frais kilométriques avec le barème des impôts.
+Vérifiez que le tampon est bien associé au classeur du document que vous consultez.
 
-**Vous voulez standardiser vos frais de restauration ?**
+**Vous voulez supprimer un tampon ?**
 
-Créez un modèle dédié en ajoutant des natures de frais de type restauration dans la section déplacements.
+Accédez à la liste des tampons et utilisez l'option de suppression. Attention, cette action est irréversible.
+
+***
+
+### <sup>**Avertissement**</sup>
+
+{% hint style="warning" %}
+Les tampons créés sont visibles par tous les utilisateurs ayant accès aux classeurs associés. Assurez-vous que le contenu est approprié pour un usage partagé.
+{% endhint %}
