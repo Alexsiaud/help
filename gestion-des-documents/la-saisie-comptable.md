@@ -10,7 +10,9 @@ Seul un utilisateur ayant les [droits de saisie ](../administration/detail-des-d
 
 ### <sup>**Contexte & Recommandations**</sup>
 
-La saisie comptable permet de traiter les documents présents dans les bannettes en leur attribuant les comptes comptables appropriés. Une fois la saisie faite, le document est exporté vers le logiciel comptable de façon automatique (à l’exception des exports « ON DEMAND »).
+La saisie comptable permet de traiter les documents présents dans les bannettes en leur attribuant les comptes et [éléments comptables](../gestion-des-entreprises/classeurs-comptables.md) appropriés.&#x20;
+
+Une fois la saisie faite, le document est exporté vers le logiciel comptable de façon automatique (à l’exception des exports « ON DEMAND »).
 
 ***
 
