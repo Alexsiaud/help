@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Créer des utilisateurs
 
 ### <sup>**Prérequis & Permissions**</sup>

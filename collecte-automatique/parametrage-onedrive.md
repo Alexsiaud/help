@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage OneDrive
 
 ### <sup>**Prérequis & Permissions**</sup>

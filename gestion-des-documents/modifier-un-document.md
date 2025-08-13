@@ -1,5 +1,4 @@
 ---
-hidden: true
 layout:
   width: default
   title:
@@ -55,7 +54,7 @@ Les modifications effectuées ne seront sauvegardées qu'après avoir cliqué su
 
 ***
 
-### <sup>**Vidéos interactives**💡</sup>
+### <sup>**Vidéos interactives**</sup><sup>💡</sup>
 
 Fusion de document :
 

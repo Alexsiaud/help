@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # API tierces
 
 ### <sup>**Prérequis & Permissions**</sup>

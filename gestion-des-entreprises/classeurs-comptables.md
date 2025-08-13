@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Classeurs comptables
 
 ### <sup>**Prérequis & Permissions**</sup>

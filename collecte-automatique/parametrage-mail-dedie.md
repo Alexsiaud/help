@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage mail dédié
 
 ### <sup>**Prérequis & Permissions**</sup>

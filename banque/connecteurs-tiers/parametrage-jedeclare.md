@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage JeDéclare
 
 ### <sup>**Prérequis & Permissions**</sup>

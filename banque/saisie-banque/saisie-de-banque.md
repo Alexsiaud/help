@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Saisie de banque
 
 ### <sup>**Prérequis & Permissions**</sup>

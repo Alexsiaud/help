@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage EBICS
 
 ### <sup>**Prérequis & Permissions**</sup>

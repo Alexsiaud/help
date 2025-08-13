@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage Dropbox
 
 ### <sub>**Prérequis & Permissions**</sub>

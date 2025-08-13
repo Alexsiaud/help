@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Effectuer un import en masse
 
 ### <sup>**Prérequis & Permissions**</sup>

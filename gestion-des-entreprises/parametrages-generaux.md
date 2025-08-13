@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrages généraux
 
 ### <sup>**Prérequis & Permissions**</sup>

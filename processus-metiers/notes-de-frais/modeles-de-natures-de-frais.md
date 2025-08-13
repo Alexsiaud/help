@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Modèles de natures de frais
 
 ### <sup>**Prérequis & Permissions**</sup>

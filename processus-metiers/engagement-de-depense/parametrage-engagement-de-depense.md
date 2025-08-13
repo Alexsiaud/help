@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage engagement de dépense
 
 ### <sup>**Prérequis & Permissions**</sup>

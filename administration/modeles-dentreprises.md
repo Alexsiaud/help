@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Modèles d'entreprises
 
 ### <sup>**Prérequis & Permissions**</sup>

@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage note de frais
 
 ### <sup>**Prérequis et Permissions**</sup>

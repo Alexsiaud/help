@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Saisir une note de frais
 
 ### <sup>**Prérequis et Permissions**</sup>

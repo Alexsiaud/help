@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paiement SEPA
 
 ### <sup>**Prérequis & Permissions**</sup>

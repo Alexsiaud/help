@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Créer un tampon
 
 ### <sup>**Prérequis & Permissions**</sup>

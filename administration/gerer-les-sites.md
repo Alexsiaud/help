@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Gérer les sites
 
 ### <sup>**Prérequis & Permissions**</sup>

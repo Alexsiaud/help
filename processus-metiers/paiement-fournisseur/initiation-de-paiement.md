@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Initiation de paiement
 
 ### <sup>**Prérequis & Permissions**</sup>

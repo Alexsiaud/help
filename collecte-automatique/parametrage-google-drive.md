@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage Google Drive
 
 ### <sup>**Prérequis et Permissions**</sup>

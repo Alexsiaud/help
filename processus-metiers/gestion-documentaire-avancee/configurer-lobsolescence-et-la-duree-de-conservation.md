@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Configurer l'Obsolescence et la Durée de conservation
 
 ### <sup>**Prérequis & Permissions**</sup>

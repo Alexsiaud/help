@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage comptabilité
 
 ### <sup>**Prérequis & Permissions**</sup>

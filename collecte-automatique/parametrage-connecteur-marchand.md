@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage connecteur marchand
 
 ### <sup>**Prérequis & Permissions**</sup>

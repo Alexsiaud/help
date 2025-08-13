@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Engager une dépense
 
 ### <sup>**Prérequis & Permissions**</sup>

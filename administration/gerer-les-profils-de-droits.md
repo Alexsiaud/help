@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Gérer les profils de droits
 
 ### <sup>**Prérequis & Permissions**</sup>

@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Dépôt manuel de document
 
 ### <sup>**Prérequis & Permissions**</sup>
@@ -25,7 +21,7 @@ Vous disposerez :
 
 ***
 
-### <sup>**Vidéo interactive** 💡</sup>
+### <sup>**Vidéo interactive**</sup> <sup></sup><sup>💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/Hk9LMNuZEjWz9lcwRaJF" flowId="Hk9LMNuZEjWz9lcwRaJF" %}
 

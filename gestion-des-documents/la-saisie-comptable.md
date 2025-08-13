@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # La saisie comptable
 
 ### <sup>**Prérequis & Permissions**</sup>
@@ -55,7 +51,7 @@ Si le compte tiers est présent dans le FEC, celui-ci peut être renseigné auto
 * **Option 1 - Recherche par nom :** Saisissez les premières lettres du nom du compte tiers, puis sélectionnez le compte souhaité dans la liste qui s'affiche.
 * **Option 2 - Recherche par libellé :** Saisissez les premières lettres du libellé du compte tiers, puis sélectionnez le compte souhaité dans la liste qui s'affiche.
 * **Option 3 - Fenêtre de recherche :** tapez sur la touche **Entrée** de votre clavier pour ouvrir la fenêtre de recherche des comptes tiers, puis sélectionnez le compte souhaité et validez avec **Sélectionner**.
-* **Option 4 - Création de compte tiers :**&#x20;
+* **Option 4 - Création de compte tiers :**
   1. Saisissez le code du compte tiers, puis tapez sur la touche **Entrée** de votre clavier pour ouvrir la fenêtre de création de compte tiers
   2. Renseignez les différents champs pour la création du compte tiers
   3. Cliquez sur **Entreprise** pour compléter les informations du compte tiers
@@ -63,7 +59,7 @@ Si le compte tiers est présent dans le FEC, celui-ci peut être renseigné auto
   5. Cliquez sur **Masque de saisie** pour compléter les informations du compte tiers
   6. Cliquez sur **Enregistrer** en bas de la page. Seuls les **code** et **intitulé** du tiers sont obligatoires à la création, le tiers sera créé en comptabilité à l’intégration de l’écriture
 
-### <sup>**Vidéo interactive** 💡</sup>
+### <sup>**Vidéo interactive**</sup> <sup></sup><sup>💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/QKoNFPdDXr9oqr8YKxXU" flowId="QKoNFPdDXr9oqr8YKxXU" %}
 

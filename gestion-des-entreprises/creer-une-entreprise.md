@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Créer une entreprise
 
 ### <sup>**Prérequis & Permissions**</sup>

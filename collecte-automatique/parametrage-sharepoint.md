@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage SharePoint
 
 ### <sup>**Prérequis & Permissions**</sup>

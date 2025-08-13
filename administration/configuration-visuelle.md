@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Configuration visuelle
 
 ### <sup>**Prérequis & Permissions**</sup>

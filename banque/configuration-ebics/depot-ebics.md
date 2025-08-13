@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Dépôt EBICS
 
 ### <sup>**Prérequis & Permissions**</sup>

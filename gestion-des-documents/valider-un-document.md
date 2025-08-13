@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Valider un document
 
 ### <sup>**Prérequis & Permissions**</sup>

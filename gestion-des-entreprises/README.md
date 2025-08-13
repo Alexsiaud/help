@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: building
 layout:
   width: default

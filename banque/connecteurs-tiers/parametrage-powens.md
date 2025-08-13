@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Paramétrage POWENS
 
 ### <sup>**Prérequis & Permissions**</sup>

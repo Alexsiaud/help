@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Chaînage documentaire
 
 ### <sup>**Prérequis & Permissions**</sup>
