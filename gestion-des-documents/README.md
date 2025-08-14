@@ -4,7 +4,7 @@ icon: file-lines
 
 # GESTION DES DOCUMENTS
 
-#### Ce menu vous guide pas à pas dans le traitement de vos documents. Le dépôt, la saisie bien sûr, la recherche, la modification (facturettes, fusion, rotation...etc.) et la validation. Tout le workflow quotidien y est détaillé.&#x20;
+Ce menu vous guide pas à pas dans le traitement de vos documents. Le dépôt, la saisie bien sûr, la recherche, la modification (facturettes, fusion, rotation...etc.) et la validation. Tout le workflow quotidien y est détaillé.&#x20;
 
 ***
 
