@@ -7,7 +7,7 @@
   * [Paramétrage comptabilité](gestion-des-entreprises/parametrage-comptabilite.md)
   * [Classeurs & éléments comptables](gestion-des-entreprises/classeurs-comptables.md)
   * [Référentiels comptables](gestion-des-entreprises/referentiels-comptables.md)
-  * [Anatytique](gestion-des-entreprises/anatytique.md)
+  * [Analytique](gestion-des-entreprises/analytique.md)
   * [Application mobile](gestion-des-entreprises/application-mobile.md)
 * [GESTION DES DOCUMENTS](gestion-des-documents/README.md)
   * [Dépôt manuel de document](gestion-des-documents/depot-manuel-de-document.md)

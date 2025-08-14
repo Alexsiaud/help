@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# Anatytique
+# Analytique
 
 ### <sup>**Prérequis & Permissions**</sup>
 
@@ -15,6 +15,14 @@ hidden: true
 ### <sup>**Contexte & Recommandations**</sup>
 
 L’analytique permet de ventiler des écritures comptables selon des axes analytiques définis. Cette configuration est utile pour suivre des budgets, projets ou centres de coûts.
+
+***
+
+### Vidéo interactive :bulb:
+
+{% @arcade/embed flowId="y88T2WqDzHlwcEPmJzP3" url="https://app.arcade.software/share/y88T2WqDzHlwcEPmJzP3" %}
+
+{% @arcade/embed flowId="oWmgW7kNYFL36UCFhx7v" url="https://app.arcade.software/share/oWmgW7kNYFL36UCFhx7v" %}
 
 ***
 
