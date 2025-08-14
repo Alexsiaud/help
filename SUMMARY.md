@@ -1,8 +1,3 @@
----
-priority: 
-chatbot_keywords: 
----
-
 # Table of contents
 
 * [Bienvenue](README.md)
@@ -12,6 +7,8 @@ chatbot_keywords:
   * [Paramétrage comptabilité](gestion-des-entreprises/parametrage-comptabilite.md)
   * [Classeurs & éléments comptables](gestion-des-entreprises/classeurs-comptables.md)
   * [Référentiels comptables](gestion-des-entreprises/referentiels-comptables.md)
+  * [Anatytique](gestion-des-entreprises/anatytique.md)
+  * [Application mobile](gestion-des-entreprises/application-mobile.md)
 * [GESTION DES DOCUMENTS](gestion-des-documents/README.md)
   * [Dépôt manuel de document](gestion-des-documents/depot-manuel-de-document.md)
   * [La saisie comptable](gestion-des-documents/la-saisie-comptable.md)
