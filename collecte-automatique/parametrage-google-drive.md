@@ -52,7 +52,7 @@ Vous devrez disposer des identifiants du compte Google du client ou faire une de
 
 **Critères obligatoires :**
 
-* Disposer des identifiants de connexion Google du client
+* Disposer de l'url du Google Drive&#x20;
 * Le client doit être créé comme utilisateur dans la plateforme (utilisateur EXTERNE si nécessaire)
 * Définir le classeur de destination pour le dépôt des documents
 
