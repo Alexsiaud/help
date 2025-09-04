@@ -1,6 +1,6 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - paramétrage
   - google drive
   - récupération
@@ -40,7 +40,7 @@ Important : Un document collecté ne sera pas récupéré une seconde fois, mêm
 
 ### <sup>Vidéo interactive 💡</sup>
 
-{% @arcade/embed url="https://app.arcade.software/share/7zXHcTuYxlw1H4A2fhum" flowId="7zXHcTuYxlw1H4A2fhum" %}
+{% @arcade/embed flowId="AK5jUVSrS2g2Zd1ntROA" url="https://app.arcade.software/share/AK5jUVSrS2g2Zd1ntROA" %}
 
 ***
 
