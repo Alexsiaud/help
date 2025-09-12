@@ -60,7 +60,9 @@ Il est possible d’appliquer automatiquement des [statuts](configurer-les-statu
 ***
 
 {% hint style="warning" %}
-### <sup>**Rôles disponibles**</sup>
+Rôles disponibles\
+\
+
 
 * **Initiateur** : Toujours au niveau 1, il initie le circuit de validation mais n’est pas obligé de faire de la saisie comptable pour initier le circuit de validation. Possibilité de définir plusieurs initiateurs au niveau 1.
 * **Valideur** : Il valide avec ou sans condition. Si plusieurs valideurs sont au même niveau, le premier qui valide permettra au document de passer à l’étape suivante. Dans le cas de plusieurs valideurs dont un ou plusieurs sont obligés de valider, le document ne passera à l’étape suivante que lorsque tous les valideurs avec obligation auront effectué leur action.
