@@ -9,6 +9,7 @@
   * [Référentiels comptables](gestion-des-entreprises/referentiels-comptables.md)
   * [Analytique](gestion-des-entreprises/analytique.md)
   * [Application mobile](gestion-des-entreprises/application-mobile.md)
+  * [Masque de saisie](gestion-des-entreprises/masque-de-saisie.md)
 * [GESTION DES DOCUMENTS](gestion-des-documents/README.md)
   * [Dépôt manuel de document](gestion-des-documents/depot-manuel-de-document.md)
   * [La saisie comptable](gestion-des-documents/la-saisie-comptable.md)
