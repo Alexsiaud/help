@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Analytique
 
 ### <sup>**Prérequis & Permissions**</sup>

@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Application mobile
 
 ### <sup>**Prérequis & Permissions**</sup>
