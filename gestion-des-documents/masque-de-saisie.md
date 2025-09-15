@@ -4,7 +4,7 @@ hidden: true
 
 # Masque de saisie
 
-### **Prérequis & Permissions**
+### <sup>**Prérequis & Permissions**</sup>
 
 ✍️ Tout utilisateur ayant accès à la saisie dans **Bannettes** peut créer et utiliser des masques de saisie.
 
@@ -14,7 +14,7 @@ Assurez vous d'avoir les droits d'accès appropriés avant de commencer.
 
 ***
 
-### **Contexte & Recommandations**
+### <sup>**Contexte & Recommandations**</sup>
 
 Les masques de saisie permettent de mémoriser des schémas d'écritures répétitifs et de les rappeler par raccourci clavier. Ils peuvent également être définis par défaut.
 
@@ -33,7 +33,7 @@ Les masques de saisie permettent de mémoriser des schémas d'écritures répét
 
 ***
 
-### **Créer le masque de saisie**
+### <sup>**Créer le masque de saisie**</sup>
 
 {% hint style="warning" %}
 Votre saisie actuelle sera automatiquement reportée dans le masque\
@@ -59,7 +59,7 @@ Bonne pratique : mettez par défaut la saisie la plus souvent représentée, cr�
 
 ***
 
-### **Questions fréquentes**
+### <sup>**Questions fréquentes**</sup>
 
 **Vous souhaitez modifier un masque existant ?**&#x20;
 
