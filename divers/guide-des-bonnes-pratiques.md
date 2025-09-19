@@ -53,7 +53,7 @@ Adoptez-les dès vos premiers pas sur la plateforme et découvrez une nouvelle f
 ### Retrouvez n'importe quoi en un clin d'œil !
 
 * Maîtrisez le [**menu Rechercher**](../gestion-des-documents/rechercher-un-document.md) et ses filtres avancés. Plus besoin de fouiller pendant des heures : trouvez la bonne pièce du premier coup !
-* Apprenez les **raccourcis clavier**. Ces petites combinaisons magiques vous feront gagner des minutes précieuses chaque jour.
+* Apprenez les [**raccourcis clavier**](raccourcis-clavier.md). Ces petites combinaisons magiques vous feront gagner des minutes précieuses chaque jour.
 
 ***
 

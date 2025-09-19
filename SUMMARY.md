@@ -66,4 +66,5 @@
   * [API tierces](administration/api-tierces.md)
 * [DIVERS](divers/README.md)
   * [Guide des bonnes pratiques](divers/guide-des-bonnes-pratiques.md)
+  * [Raccourcis clavier](divers/raccourcis-clavier.md)
 * [FAQ](faq.md)
