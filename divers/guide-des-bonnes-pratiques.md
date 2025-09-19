@@ -16,16 +16,16 @@ Adoptez-les dès vos premiers pas sur la plateforme et découvrez une nouvelle f
 
 ***
 
-## 1. Import et automatisation des écritures
+### 1. Import et automatisation des écritures
 
-### Votre nouveau super-pouvoir : la saisie automatisée !
+Votre nouveau super-pouvoir : la saisie automatisée !
 
 * **Importez vos FEC sans hésitation**, même s'ils sont provisoires. Cette simple action permet à INGENEO de mémoriser vos habitudes et de vous proposer une **saisie automatisée ultra-précise**.
 * Si votre logiciel comptable le permet, lancez la **synchronisation** pour récupérer automatiquement vos **codes de TVA, modes de règlement et plans analytiques**. Fini les ressaisies manuelles et les incohérences qui vous font perdre du temps !
 
 ***
 
-## &#x20;2. Collecte et centralisation des documents
+### &#x20;2. Collecte et centralisation des documents
 
 
 
@@ -37,9 +37,9 @@ Adoptez-les dès vos premiers pas sur la plateforme et découvrez une nouvelle f
 
 ***
 
-## 3. Saisie et gestion des documents
+### 3. Saisie et gestion des documents
 
-### Utilisez les outils à votre diposition !
+Utilisez les outils à votre diposition !
 
 * **Créez vos** [**masques de saisie**](../gestion-des-documents/masque-de-saisie.md) **personnalisés** pour immortaliser vos saisies complexes. Un clic suffit pour retrouver votre trame favorite et gagner un temps précieux.
 * Exploitez intelligemment les [**statuts des documents**](../processus-metiers/workflow/configurer-les-statuts-de-documents.md) (en attente, validé, traité...) pour suivre l'avancement de vos documents.
@@ -48,18 +48,16 @@ Adoptez-les dès vos premiers pas sur la plateforme et découvrez une nouvelle f
 
 ***
 
-## 4. Recherche et navigation
-
-### Retrouvez n'importe quoi en un clin d'œil !
+### 4. Recherche et navigation
 
 * Maîtrisez le [**menu Rechercher**](../gestion-des-documents/rechercher-un-document.md) et ses filtres avancés. Plus besoin de fouiller pendant des heures : trouvez la bonne pièce du premier coup !
 * Apprenez les [**raccourcis clavier**](raccourcis-clavier.md). Ces petites combinaisons magiques vous feront gagner des minutes précieuses chaque jour.
 
 ***
 
-## 5. Paramétrages et optimisations
+### 5. Paramétrages et optimisations
 
-### Peaufinez votre environnement de travail !
+Peaufinez votre environnement de travail !
 
 * Configurez soigneusement la **gestion des doublons**. En cas d'alerte, prenez le temps de vérifier l'information avant d'agir.&#x20;
 * **Videz régulièrement le cache** de votre navigateur. Cette habitude simple garantit une fluidité optimale de la plateforme.
