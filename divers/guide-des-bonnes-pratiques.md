@@ -21,7 +21,12 @@ Adoptez-les dès vos premiers pas sur la plateforme et découvrez une nouvelle f
 Votre nouveau super-pouvoir : la saisie automatisée !
 
 * **Importez vos FEC sans hésitation**, même s'ils sont provisoires. Cette simple action permet à INGENEO de mémoriser vos habitudes et de vous proposer une **saisie automatisée ultra-précise**.
+
+{% @arcade/embed flowId="AuOTbA61wax31Ey4Y0r9" url="https://app.arcade.software/share/AuOTbA61wax31Ey4Y0r9" %}
+
 * Si votre logiciel comptable le permet, lancez la **synchronisation** pour récupérer automatiquement vos **codes de TVA, modes de règlement et plans analytiques**. Fini les ressaisies manuelles et les incohérences qui vous font perdre du temps !
+
+{% @arcade/embed flowId="oDMS1sZpPjnSFvnF01Ha" url="https://app.arcade.software/share/oDMS1sZpPjnSFvnF01Ha" %}
 
 ***
 
@@ -39,7 +44,7 @@ Votre nouveau super-pouvoir : la saisie automatisée !
 
 ### 3. Saisie et gestion des documents
 
-Utilisez les outils à votre diposition !
+Utilisez les outils à votre disposition !
 
 * **Créez vos** [**masques de saisie**](../gestion-des-documents/masque-de-saisie.md) **personnalisés** pour immortaliser vos saisies complexes. Un clic suffit pour retrouver votre trame favorite et gagner un temps précieux.
 * Exploitez intelligemment les [**statuts des documents**](../processus-metiers/workflow/configurer-les-statuts-de-documents.md) (en attente, validé, traité...) pour suivre l'avancement de vos documents.
@@ -61,4 +66,7 @@ Peaufinez votre environnement de travail !
 
 * Configurez soigneusement la **gestion des doublons**. En cas d'alerte, prenez le temps de vérifier l'information avant d'agir.&#x20;
 * **Videz régulièrement le cache** de votre navigateur. Cette habitude simple garantit une fluidité optimale de la plateforme.
+
+{% @arcade/embed flowId="kYgrRRHDZjbbBoE93nwp" url="https://app.arcade.software/share/kYgrRRHDZjbbBoE93nwp" %}
+
 * Ne passez pas à côté des boutons **actions multiples** ! Ils regroupent plusieurs fonctionnalités pour vous faire gagner encore plus de temps.
