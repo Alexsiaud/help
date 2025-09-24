@@ -2,6 +2,7 @@
 description: >-
   Ce guide a été spécialement conçu pour transformer votre expérience
   quotidienne en véritable success story.
+hidden: true
 ---
 
 # Guide des bonnes pratiques

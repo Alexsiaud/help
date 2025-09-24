@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Raccourcis clavier
 
 ## Prérequis/Permissions
