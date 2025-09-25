@@ -1,6 +1,6 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - saisir
   - note de frais
   - application mobile
@@ -61,7 +61,7 @@ Seules les informations sur le classeur et la nature sont obligatoires pour vali
 
 ***
 
-### <sup>**Ajouter une indemnité kilométriqu**</sup>**e**
+### <sup>**Ajouter une indemnité kilométrique**</sup>
 
 1. Si vos paramètres le permettent, vous pouvez ajouter une indemnité kilométrique via le bouton **IK**.
 2. Appuyez sur le bouton **IK**
