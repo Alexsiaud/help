@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Masque de saisie
 
 ### <sup>**Prérequis & Permissions**</sup>
@@ -9,6 +5,12 @@ hidden: true
 {% hint style="warning" %}
 Tout utilisateur ayant accès à la saisie dans **Bannettes** peut créer et utiliser des masques de saisie.
 {% endhint %}
+
+***
+
+### <sup>Vidéo interactive 💡</sup>
+
+{% @arcade/embed flowId="jpM6a9nsm2lPZZaWd2RD" url="https://app.arcade.software/share/jpM6a9nsm2lPZZaWd2RD" %}
 
 ***
 
