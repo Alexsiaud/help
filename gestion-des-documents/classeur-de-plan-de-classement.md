@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Classeur de plan de classement
 
 ## Prérequis
