@@ -86,5 +86,3 @@ Si l'option de [chaînage documentaire](../processus-metiers/gestion-documentair
 **Vous souhaitez créer une organisation hiérarchique dans votre classeur ?** Lors de la création du classeur, utilisez la fonction d'arborescence pour structurer vos documents par niveaux (ex : Dossier principal > Sous-dossiers > Documents).
 
 **Votre classeur n'apparaît pas dans le menu Bannettes ?** Vérifiez que les droits d'accès ont bien été accordés sur ce classeur dans le menu **Administration** > profil d'entreprise concerné.
-
-**Vous voulez ajouter des informations complémentaires aux documents ?** Activez l'option de chaînage document sur votre classeur pour demander des renseignements supplémentaires lors du dépôt de documents.
