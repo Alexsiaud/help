@@ -18,6 +18,7 @@
   * [Masque de saisie](gestion-des-documents/masque-de-saisie.md)
   * [Validation automatique et semi automatique](gestion-des-documents/validation-automatique-et-semi-automatique.md)
   * [Gestion des mots-clés](gestion-des-documents/gestion-des-mots-cles.md)
+  * [Classeur de plan de classement](gestion-des-documents/classeur-de-plan-de-classement.md)
 * [COLLECTE AUTOMATIQUE](collecte-automatique/README.md)
   * [Paramétrage Google Drive](collecte-automatique/parametrage-google-drive.md)
   * [Paramétrage SharePoint](collecte-automatique/parametrage-sharepoint.md)
