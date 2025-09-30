@@ -81,17 +81,9 @@ Depuis le menu principal de votre plateforme :
 
 #### Consulter et rechercher vos documents
 
-Les documents ajoutés dans les annexes comptables sont automatiquement consultables :
+Les documents ajoutés dans les annexes comptables sont automatiquement consultables depuis le menu **Rechercher :**&#x20;
 
-1. Depuis le menu **Rechercher**, utilisez la barre de recherche
-2. Filtrez par :
-   * Nom d'entreprise
-   * Type de document
-   * Période comptable
-   * Modèle d'annexe
-3. Cliquez sur le document souhaité pour le consulter ou le télécharger
-
-✍️ **Astuce** : Les annexes restent accessibles à tout moment via la fonction de recherche.
+{% @arcade/embed flowId="hDIzYroXoLYKjtoYFOGs" url="https://app.arcade.software/share/hDIzYroXoLYKjtoYFOGs" %}
 
 ***
 
