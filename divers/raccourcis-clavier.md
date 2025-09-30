@@ -2,9 +2,11 @@
 
 ## Prérequis/Permissions
 
-✍️ Ces raccourcis clavier sont disponibles pour tous les utilisateurs ayant accès à la plateforme. Certaines fonctions peuvent être limitées selon vos droits d'accès.
-
 {% @arcade/embed flowId="5xPjfMl9H4C8skcCuMU9" url="https://app.arcade.software/share/5xPjfMl9H4C8skcCuMU9" %}
+
+{% hint style="warning" %}
+Ces raccourcis clavier sont disponibles pour tous les utilisateurs ayant accès à la plateforme. Certaines fonctions peuvent être limitées selon vos droits d'accès.
+{% endhint %}
 
 ## Contexte/Recommandations
 
@@ -18,12 +20,14 @@ Les raccourcis clavier permettent d'accélérer considérablement votre utilisat
 
 **Conseils d'utilisation :**
 
-* Mémorisez d'abord les raccourcis les plus fréquents (Ctrl+S, Ctrl+D, Tab)
+* Mémorisez d'abord les raccourcis les plus fréquents (<kbd>Ctrl+S</kbd>, <kbd>Ctrl+D</kbd>, <kbd>Tab</kbd>)
 * Utilisez les raccourcis analytiques pour une saisie comptable plus fluide
 
 ## Maîtriser les raccourcis
 
-⚠️ Certains raccourcis peuvent varier selon votre navigateur. En cas de conflit, privilégiez les raccourcis natifs du navigateur.
+{% hint style="warning" %}
+Certains raccourcis peuvent varier selon votre navigateur. En cas de conflit, privilégiez les raccourcis natifs du navigateur.
+{% endhint %}
 
 **Familiarisez vous progressivement avec :**
 
@@ -33,54 +37,58 @@ Les raccourcis clavier permettent d'accélérer considérablement votre utilisat
 
 ## Raccourcis clavier sur les fichiers
 
-⚠️ Assurez-vous que le fichier est sélectionné avant d'utiliser les raccourcis.
+{% hint style="success" %}
+Assurez-vous que le fichier est sélectionné avant d'utiliser les raccourcis.
+{% endhint %}
 
-| Raccourci        | Action                             |
-| ---------------- | ---------------------------------- |
-| **Ctrl + D**     | Télécharger le fichier             |
-| **Ctrl + P**     | Imprimer le fichier                |
-| **Ctrl + Suppr** | Supprimer le fichier               |
-| **Ctrl + O**     | Renvoyer le fichier en OCR         |
-| **Ctrl + M**     | Envoyer le fichier par mail        |
-| **Ctrl + I**     | Afficher les propriétés du fichier |
-| **Ctrl + E**     | Modifier le document               |
-| **Ctrl + F**     | Fusionner le document              |
-| **Ctrl + R**     | Renommer le document               |
+| Raccourci                   | Action                             |
+| --------------------------- | ---------------------------------- |
+| <kbd>**Ctrl + D**</kbd>     | Télécharger le fichier             |
+| <kbd>**Ctrl + P**</kbd>     | Imprimer le fichier                |
+| <kbd>**Ctrl + Suppr**</kbd> | Supprimer le fichier               |
+| <kbd>**Ctrl + O**</kbd>     | Renvoyer le fichier en OCR         |
+| <kbd>**Ctrl + M**</kbd>     | Envoyer le fichier par mail        |
+| <kbd>**Ctrl + I**</kbd>     | Afficher les propriétés du fichier |
+| <kbd>**Ctrl + E**</kbd>     | Modifier le document               |
+| <kbd>**Ctrl + F**</kbd>     | Fusionner le document              |
+| <kbd>**Ctrl + R**</kbd>     | Renommer le document               |
 
 ## Raccourcis clavier sur le formulaire de saisie
 
-⚠️ Le focus doit être sur le formulaire de saisie pour que ces raccourcis fonctionnent.
+{% hint style="success" %}
+Le focus doit être sur le formulaire de saisie pour que ces raccourcis fonctionnent.
+{% endhint %}
 
 ### Gestion des lignes
 
-| Raccourci    | Action                         |
-| ------------ | ------------------------------ |
-| **Ctrl + +** | Ajouter une ligne d'écriture   |
-| **Ctrl + -** | Supprimer une ligne d'écriture |
-| **Ctrl + A** | Ajouter une ligne analytique   |
+| Raccourci               | Action                         |
+| ----------------------- | ------------------------------ |
+| <kbd>**Ctrl + +**</kbd> | Ajouter une ligne d'écriture   |
+| <kbd>**Ctrl + -**</kbd> | Supprimer une ligne d'écriture |
+| <kbd>**Ctrl + A**</kbd> | Ajouter une ligne analytique   |
 
 ### Navigation dans le formulaire
 
-| Raccourci      | Action                     |
-| -------------- | -------------------------- |
-| **Tab**        | Passer au champ suivant    |
-| **Ctrl + Tab** | Revenir au champ précédent |
-| **Ctrl + ←**   | Cellule précédente         |
-| **Ctrl + →**   | Cellule suivante           |
-| **Ctrl + ↑**   | Ligne précédente           |
-| **Ctrl + ↓**   | Ligne suivante             |
+| Raccourci                 | Action                     |
+| ------------------------- | -------------------------- |
+| <kbd>**Tab**</kbd>        | Passer au champ suivant    |
+| <kbd>**Ctrl + Tab**</kbd> | Revenir au champ précédent |
+| <kbd>**Ctrl + ←**</kbd>   | Cellule précédente         |
+| <kbd>**Ctrl + →**</kbd>   | Cellule suivante           |
+| <kbd>**Ctrl + ↑**</kbd>   | Ligne précédente           |
+| <kbd>**Ctrl + ↓**</kbd>   | Ligne suivante             |
 
 ### Fonctions avancées
 
-| Raccourci          | Action                                         |
-| ------------------ | ---------------------------------------------- |
-| \*\*Ctrl + \*\*\*  | Équilibrage automatique de la ligne en cours   |
-| **Ctrl + B**       | Fusionner les lignes de TVA avec mêmes comptes |
-| **Ctrl + S**       | Enregistrer le document                        |
-| **Ctrl + W**       | Enregistrer le document comme brouillon        |
-| **Ctrl + Q**       | Éditer le compte tiers ou de charge            |
-| **Entrée**         | Ouvrir le plan comptable (focus sur "Compte")  |
-| **Ctrl + L**       | Réinitialiser le libellé d'écriture            |
-| **Ctrl + X**       | Cocher/décocher "Sans numéro de facture"       |
-| **Ctrl + Espace**  | Afficher les masques de saisie                 |
-| **Ctrl + (0 à 9)** | Utiliser le masque de saisie correspondant     |
+| Raccourci                     | Action                                         |
+| ----------------------------- | ---------------------------------------------- |
+| <kbd>Ctrl + \*</kbd>          | Équilibrage automatique de la ligne en cours   |
+| <kbd>**Ctrl + B**</kbd>       | Fusionner les lignes de TVA avec mêmes comptes |
+| <kbd>**Ctrl + S**</kbd>       | Enregistrer le document                        |
+| <kbd>**Ctrl + W**</kbd>       | Enregistrer le document comme brouillon        |
+| <kbd>**Ctrl + Q**</kbd>       | Éditer le compte tiers ou de charge            |
+| <kbd>**Entrée**</kbd>         | Ouvrir le plan comptable (focus sur "Compte")  |
+| <kbd>**Ctrl + L**</kbd>       | Réinitialiser le libellé d'écriture            |
+| <kbd>**Ctrl + X**</kbd>       | Cocher/décocher "Sans numéro de facture"       |
+| <kbd>**Ctrl + Espace**</kbd>  | Afficher les masques de saisie                 |
+| <kbd>**Ctrl + (0 à 9)**</kbd> | Utiliser le masque de saisie correspondant     |
