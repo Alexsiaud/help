@@ -91,11 +91,34 @@ Les documents ajoutés dans les annexes comptables sont automatiquement consulta
 
 ### Questions fréquentes
 
-**Vous souhaitez modifier un modèle d'annexe existant ?**\
+<details>
+
+<summary><strong>Vous souhaitez modifier un modèle d'annexe existant ?</strong></summary>
+
 Retournez dans **Entreprises** > **Bouton à actions multiples** > **Gestion des modèles génériques**, sélectionnez le modèle concerné et effectuez vos modifications. N'oubliez pas de vérifier que les droits d'accès sont toujours appropriés après modification.
 
-**Vous ne voyez pas certaines annexes créées par vos collègues ?**\
+</details>
+
+<details>
+
+<summary><strong>Si je change une entreprise de site, que se passe-t-il ?</strong></summary>
+
+Les documents restent dans l'annexe comptable du premier site, mais seront masqués. L'annexe comptable du nouveau site sera appliquée et donc vide.&#x20;
+
+</details>
+
+<details>
+
+<summary><strong>Vous ne voyez pas certaines annexes créées par vos collègues ?</strong></summary>
+
 Vérifiez que les droits d'accès vous ont bien été accordés sur ces annexes. Contactez l'administrateur ou la personne ayant créé le modèle pour qu'elle vous donne les permissions nécessaires.
 
-**Vous souhaitez supprimer un document d'une annexe ?**\
+</details>
+
+<details>
+
+<summary><strong>Vous souhaitez supprimer un document d'une annexe ?</strong></summary>
+
 La suppression d'un document comptable doit être réalisée avec précaution. Assurez-vous d'avoir les droits appropriés et vérifiez que le document n'est plus nécessaire pour la traçabilité comptable avant de procéder à sa suppression.
+
+</details>
