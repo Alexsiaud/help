@@ -30,7 +30,7 @@ Avec Ingeneo, vous avez la possibilité de gérer de manière centralisée les d
 #### Préparer vos modèles
 
 ⚠️ **Importance de la structure**\
-Une bonne organisation de vos modèles d'annexes dès le départ vous permettra de gagner du temps lors de l'archivage quotidien de vos documents. Réfléchissez à la structure qui correspond à vos besoins métier avant de créer vos modèles.
+Une bonne organisation de vos modèles d'annexes dès le départ vous permettra de gagner du temps lors du classement de vos documents. Réfléchissez à la structure qui correspond à vos besoins avant de créer vos modèles.
 
 **Recommandations pour vos modèles :**
 
