@@ -6,10 +6,8 @@ hidden: true
 
 ### <sup>**Prérequis & Permissions**</sup>
 
-✍️ Tout utilisateur ayant accès à la saisie dans **Bannettes** peut créer et utiliser des masques de saisie.
-
 {% hint style="warning" %}
-Assurez vous d'avoir les droits d'accès appropriés avant de commencer.
+Tout utilisateur ayant accès à la saisie dans **Bannettes** peut créer et utiliser des masques de saisie.
 {% endhint %}
 
 ***

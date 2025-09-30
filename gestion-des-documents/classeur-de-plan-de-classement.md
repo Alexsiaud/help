@@ -12,7 +12,7 @@ Seul un utilisateur ayant le droit **Autoriser l’accès au paramétrage du pla
 
 ## Contexte
 
-Le classeur de plan de classement permet la gestion électronique de vos documents de manière structurée.
+Le classeur de plan de classement permet la gestion électronique des documents (non comptables) d'une entreprise de manière structurée.
 
 **Quand l'utiliser :**
 

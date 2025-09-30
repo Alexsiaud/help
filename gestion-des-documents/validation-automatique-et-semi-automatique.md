@@ -72,7 +72,7 @@ Cette méthode permet de configurer un ou plusieurs comptes simultanément
 
 1. Cliquez sur **Tout sélectionner**
 2. Effectuez un clic droit sur n'importe quelle ligne de compte
-3. Sélectionnez **Validation auto/semi-auto**
+3. Sélectionnez **Validation automatique/semi-automatique**
 4. Cochez la méthode de validation souhaitée
 5. Enregistrez votre choix
 
@@ -91,7 +91,7 @@ Méthode rapide pour configurer un compte directement depuis la saisie
 1. Depuis le menu **Bannettes**, sélectionnez l'entreprise concernée.
 2. Cliquez sur la loupe au niveau du document concerné
 3. Sur le formulaire de saisie, cliquez sur la première ligne
-4. Tapez le raccourci clavier **CTRL+Q** pour ouvrir **éditer votre compte tiers**
+4. Tapez le raccourci clavier <kbd>**CTRL+Q**</kbd> pour ouvrir **éditer votre compte tiers**
 5. Cliquez sur **Options avancées**
 6. Sélectionnez la méthode de validation souhaitée
 7. Cliquez sur **Enregistrer**

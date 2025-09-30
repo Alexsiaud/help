@@ -29,8 +29,10 @@ Avec Ingeneo, vous avez la possibilité de gérer de manière centralisée les d
 
 #### Préparer vos modèles
 
-⚠️ **Importance de la structure**\
+{% hint style="warning" %}
+**Importance de la structure**\
 Une bonne organisation de vos modèles d'annexes dès le départ vous permettra de gagner du temps lors du classement de vos documents. Réfléchissez à la structure qui correspond à vos besoins avant de créer vos modèles.
+{% endhint %}
 
 **Recommandations pour vos modèles :**
 
@@ -96,4 +98,4 @@ Retournez dans **Entreprises** > **Bouton à actions multiples** > **Gestion des
 Vérifiez que les droits d'accès vous ont bien été accordés sur ces annexes. Contactez l'administrateur ou la personne ayant créé le modèle pour qu'elle vous donne les permissions nécessaires.
 
 **Vous souhaitez supprimer un document d'une annexe ?**\
-⚠️ La suppression d'un document comptable doit être réalisée avec précaution. Assurez-vous d'avoir les droits appropriés et vérifiez que le document n'est plus nécessaire pour la traçabilité comptable avant de procéder à sa suppression.
+La suppression d'un document comptable doit être réalisée avec précaution. Assurez-vous d'avoir les droits appropriés et vérifiez que le document n'est plus nécessaire pour la traçabilité comptable avant de procéder à sa suppression.
