@@ -8,6 +8,8 @@ hidden: true
 
 ✍️ Ces raccourcis clavier sont disponibles pour tous les utilisateurs ayant accès à la plateforme. Certaines fonctions peuvent être limitées selon vos droits d'accès.
 
+{% @arcade/embed flowId="5xPjfMl9H4C8skcCuMU9" url="https://app.arcade.software/share/5xPjfMl9H4C8skcCuMU9" %}
+
 ## Contexte/Recommandations
 
 Les raccourcis clavier permettent d'accélérer considérablement votre utilisation de la plateforme en évitant les clics multiples.
