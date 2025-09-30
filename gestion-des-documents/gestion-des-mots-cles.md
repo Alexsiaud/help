@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Gestion des mots-clés
 
 #### <sup>**Prérequis & Permissions**</sup>
@@ -20,6 +16,14 @@ La gestion des mots-clés permet à INGENEO de reconnaître automatiquement un t
 
 * Profil de site configuré avec autorisation de gestion des mots-clés
 * Minimum de 3 saisies effectuées sur le fournisseur concerné
+
+***
+
+### <sup>Vidéo interactive 💡</sup>
+
+{% @arcade/embed flowId="c2Y4jRzqCUnZ93bhcbz4" url="https://app.arcade.software/share/c2Y4jRzqCUnZ93bhcbz4" %}
+
+{% @arcade/embed flowId="Sp4yH8dk7z9lBJBaGVBx" url="https://app.arcade.software/share/Sp4yH8dk7z9lBJBaGVBx" %}
 
 ***
 
