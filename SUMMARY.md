@@ -28,6 +28,7 @@
   * [Paramétrage Dropbox](collecte-automatique/parametrage-dropbox.md)
   * [Paramétrage connecteur marchand](collecte-automatique/parametrage-connecteur-marchand.md)
   * [Installation connecteur MAC](collecte-automatique/installation-connecteur-mac.md)
+  * [Installation connecteur HotFolder](collecte-automatique/installation-connecteur-hotfolder.md)
 * [BANQUE](banque/README.md)
   * [Configuration Ebics](banque/configuration-ebics/README.md)
     * [Dépôt EBICS](banque/configuration-ebics/depot-ebics.md)
