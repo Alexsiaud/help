@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Annexes comptables
 
 ### Prérequis et permissions
