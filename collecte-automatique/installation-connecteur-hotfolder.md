@@ -1,9 +1,9 @@
 # Installation connecteur HotFolder
 
-Le connecteur HotFolder permet la connexion entre un répertoire de dépôt choisi d’un ordinateur ou serveur dans lequel seront déposé des documents, et le classeur de réception d’une entreprise choisie dans la plateforme.
+Le connecteur HotFolder permet la connexion entre un répertoire de dépôt choisi d’un ordinateur ou serveur dans lequel seront déposés des documents, et le classeur de réception d’une entreprise choisie dans la plateforme.
 
 {% hint style="warning" %}
-&#x20;Après le dépôt de document, ceux-ci seront transférés instantanément. Ils ne seront plus présents dans le répertoire de dépôt.
+&#x20;Après le dépôt de documents, ceux-ci seront transférés instantanément. Ils ne seront plus présents dans le répertoire de dépôt.
 {% endhint %}
 
 Depuis le menu « Ressources », de la plateforme, cliquer sur l'icône de téléchargement, pour télécharger le connecteur Hotfolder.
@@ -32,7 +32,7 @@ Cliquer sur « Tester », puis « Suivant ».
 
 Saisir une description, puis indiquer le chemin du répertoire de dépôt des documents.&#x20;
 
-Possibilité d’ajouter d’autre répertoires pour d’autre type de documents. (ex : facture achat, facture de vente, …).&#x20;
+Possibilité d’ajouter d’autres répertoires pour d’autres types de documents. (ex : facture achat, facture de vente, …).&#x20;
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
