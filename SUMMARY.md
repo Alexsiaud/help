@@ -27,6 +27,7 @@
   * [Paramétrage OneDrive](collecte-automatique/parametrage-onedrive.md)
   * [Paramétrage Dropbox](collecte-automatique/parametrage-dropbox.md)
   * [Paramétrage connecteur marchand](collecte-automatique/parametrage-connecteur-marchand.md)
+  * [Installation connecteurs MAC](collecte-automatique/installation-connecteurs-mac.md)
 * [BANQUE](banque/README.md)
   * [Configuration Ebics](banque/configuration-ebics/README.md)
     * [Dépôt EBICS](banque/configuration-ebics/depot-ebics.md)
