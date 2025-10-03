@@ -1,4 +1,4 @@
-# Installation connecteurs MAC
+# Installation connecteur MAC
 
 Le connecteur MAC  permet à un utilisateur d’envoyer un ou plusieurs fichiers dans la plateforme à partir de son ordinateur MAC. Les documents envoyés se retrouveront dans la Bannette d’une entreprise sélectionnée et passeront à l’OCR automatiquement.
 
@@ -12,9 +12,9 @@ Sélectionner et installer l’application « INGENEO PushDoc » depuis l’Appl
 
 <div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
-Saisir l’URL de la plateforme dans le champ « URL base de connexions au service Web ». L’information se trouve en haut dans la barre de navigation internet lorsque la plateforme est ouverte.
+Saisir l’URL de la plateforme dans le champ « URL base de connexions au service Web ». L’information se trouve en haut dans la barre de navigation internet lorsque la plateforme est ouverte.&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+Exemple: **https://votre plateforme.ingeneo.eu**
 
 Copier/Coller dans le champ « identifiant de connexion au Webservice », la clé d’API – Connecteurs INGENEO qui se trouve dans le menu « Ressources » dans l’encart « CONNECTEURS & PROCEDURES D’INSTALLATION »&#x20;
 
