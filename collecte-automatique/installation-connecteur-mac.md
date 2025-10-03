@@ -42,6 +42,6 @@ Cliquer sur « Transférer ».
 
 <div align="left"><figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
 
-Le fichier se transfert vers l’entreprise et le classeur sélectionné.
+Le fichier se transfère vers l’entreprise et le classeur sélectionné.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
