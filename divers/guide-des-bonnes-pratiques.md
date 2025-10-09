@@ -41,7 +41,7 @@ Votre nouveau super-pouvoir : la saisie automatisée !
 
 > 🔗 [**Découvrez** comment paramétrer rapidement tous ces canaux dans notre article dédié](../collecte-automatique/)&#x20;
 
-* Organisez vos **documents (social, banque, divers...)** grâce au plan de classement. Un document bien classé aujourd'hui, c'est un gain de temps garanti demain !
+* Organisez vos **documents (social, banque, divers...)** grâce au [plan de classement](../gestion-des-documents/classeur-de-plan-de-classement.md). Un document bien classé aujourd'hui, c'est un gain de temps garanti demain !
 
 ***
 
