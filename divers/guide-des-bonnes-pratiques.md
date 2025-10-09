@@ -1,15 +1,17 @@
 ---
 description: >-
-  Ce guide a été spécialement conçu pour transformer votre expérience
-  quotidienne en véritable success story.
+  Ce guide a été conçu pour vous aider à mieux utiliser la plateforme au
+  quotidien.
 hidden: true
 ---
 
 # Guide des bonnes pratiques
 
-Imaginez pouvoir diviser par deux vos temps de saisie, éliminer les tâches répétitives fastidieuses et dire adieu aux blocages qui vous font perdre patience. C'est exactement ce que vous réservent ces 5 réflexes magiques !
+\
+Vous y trouverez 5 réflexes simples à adopter pour gagner du temps, éviter les tâches répétitives et travailler plus sereinement.
 
-Adoptez-les dès vos premiers pas sur la plateforme et découvrez une nouvelle façon de travailler : plus fluide, plus rapide, et surtout...plus plaisante !
+\
+Mettez-les en pratique dès vos premières utilisations pour un travail plus fluide et plus agréable.
 
 {% hint style="info" %}
 **Astuce** : Consultez nos articles détaillés pour maîtriser parfaitement chacun de ces réflexes essentiels.
