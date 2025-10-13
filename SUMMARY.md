@@ -68,6 +68,7 @@
   * [Modèles d'entreprises](administration/modeles-dentreprises.md)
   * [Effectuer un import en masse](administration/effectuer-un-import-en-masse.md)
   * [API tierces](administration/api-tierces.md)
+  * [Activer IngeneoFact](administration/activer-ingeneofact.md)
 * [DIVERS](divers/README.md)
   * [Guide des bonnes pratiques](divers/guide-des-bonnes-pratiques.md)
   * [Raccourcis clavier](divers/raccourcis-clavier.md)
