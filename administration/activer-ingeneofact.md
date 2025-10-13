@@ -4,6 +4,8 @@ hidden: true
 
 # Activer IngeneoFact
 
+### <sup>**Prérequis & Permissions**</sup>
+
 {% hint style="success" %}
 ✍️ Cette action nécessite de détenir le droit[ "autoriser l'accès au déploiement en masse"](detail-des-droits.md)
 {% endhint %}
