@@ -6,6 +6,10 @@
 ✍️ Cette action nécessite de détenir le droit[ "autoriser l'accès au déploiement en masse"](detail-des-droits.md)
 {% endhint %}
 
+{% hint style="warning" %}
+Si vous n'avez pas encore souscrit à l'option IngeneoFact et que l'outil vous intéresse, nous vous invitons à contacter votre commercial pour en savoir plus.
+{% endhint %}
+
 ***
 
 ### <sup>Vidéo interactive 💡</sup>
