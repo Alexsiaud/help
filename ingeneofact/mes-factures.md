@@ -15,32 +15,19 @@ Visualisez le tableau des factures et filtrez selon vos besoins.
 
 ***
 
-**Créer un devis**
+**Créer une facture**
 
-✍️ Vous pouvez importer des articles et contacts via fichier Excel ou les créer à la demande.
+{% hint style="success" %}
+Vous pouvez importer des articles via fichier Excel ou les créer à la demande.
+{% endhint %}
 
-1. Cliquez sur « Créer » un devis
-2. Recherchez ou créez un contact
+1. Cliquez sur « Créer » une facture
+2. Sélectionnez ou créez un contact
 3. Saisissez le titre de la prestation (facultatif)
-4. Indiquez la date du devis ou conservez celle du jour
+4. Indiquez la date de la facture ou conservez celle du jour
 5. Sélectionnez ou créez un article + quantité + prix + remise
 6. Ajoutez d'autres articles si nécessaire
 7. Renseignez les conditions de paiement
 8. Indiquez le mode de paiement
-9. Précisez la validité du devis
-10. Renseignez la date de début de prestation
-11. Sauvegardez le devis ou Validez avec aperçu
-
-<details>
-
-<summary>Options supplémentaires :</summary>
-
-* Ajouter un échéancier ou des acomptes
-
-- Joindre des documents
-- Saisir des remarques non visibles par le client
-
-</details>
-
-***
-
+9. Précisez la date de début de prestation
+10. Sauvegardez ou Validez avec aperçu (statut : provisoire)
