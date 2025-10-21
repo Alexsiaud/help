@@ -1,0 +1,18 @@
+# Mes bons de livraison
+
+**Gérer les bons de livraison**
+
+Consultez et filtrez la liste des bons de livraison.
+
+| Statuts des bons de livraison | Étiquettes manuelles disponibles |
+| ----------------------------- | -------------------------------- |
+| PROVISOIRE                    | IMPORTANT                        |
+| FINALISÉ                      | PRIORITAIRE                      |
+|                               | URGENT                           |
+|                               | A TRAITER                        |
+|                               | ENVOYÉ                           |
+|                               | CLASSÉ                           |
+
+{% hint style="success" %}
+Créez des bons de livraison à partir de devis ou de factures, quel que soit leur état (provisoire, accepté, facturé…).
+{% endhint %}
