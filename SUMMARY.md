@@ -63,6 +63,7 @@
   * [Tableau de bord](ingeneofact/tableau-de-bord.md)
   * [Mes devis](ingeneofact/mes-devis.md)
   * [Mes factures](ingeneofact/mes-factures.md)
+  * [Mes avoirs](ingeneofact/mes-avoirs.md)
 * [ADMINISTRATION](administration/README.md)
   * [Gérer les profils de droits](administration/gerer-les-profils-de-droits.md)
   * [Détail des droits](administration/detail-des-droits.md)
