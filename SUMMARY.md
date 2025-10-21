@@ -59,7 +59,7 @@
     * [Chaînage documentaire](processus-metiers/gestion-documentaire-avancee/chainage-documentaire.md)
     * [Configurer l'Obsolescence et la Durée de conservation](processus-metiers/gestion-documentaire-avancee/configurer-lobsolescence-et-la-duree-de-conservation.md)
 * [PORTAIL DE SERVICES](portail-de-services.md)
-* [IngeneoFact](ingeneofact/README.md)
+* [INGENEOFACT](ingeneofact/README.md)
   * [Tableau de bord](ingeneofact/tableau-de-bord.md)
   * [Mes devis](ingeneofact/mes-devis.md)
   * [Mes factures](ingeneofact/mes-factures.md)
