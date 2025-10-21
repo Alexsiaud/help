@@ -29,3 +29,18 @@ Visualisez le tableau des factures et filtrez selon vos besoins.
 8. Indiquez le mode de paiement
 9. Précisez la validité du devis
 10. Renseignez la date de début de prestation
+11. Sauvegardez le devis ou Validez avec aperçu
+
+<details>
+
+<summary>Options supplémentaires :</summary>
+
+* Ajouter un échéancier ou des acomptes
+
+- Joindre des documents
+- Saisir des remarques non visibles par le client
+
+</details>
+
+***
+
