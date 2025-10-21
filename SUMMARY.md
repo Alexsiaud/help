@@ -66,6 +66,7 @@
   * [Mes avoirs](ingeneofact/mes-avoirs.md)
   * [Mes bons de livraison](ingeneofact/mes-bons-de-livraison.md)
   * [Paiement et relances](ingeneofact/paiement-et-relances.md)
+  * [Produits et contacts](ingeneofact/produits-et-contacts.md)
 * [ADMINISTRATION](administration/README.md)
   * [Gérer les profils de droits](administration/gerer-les-profils-de-droits.md)
   * [Détail des droits](administration/detail-des-droits.md)
