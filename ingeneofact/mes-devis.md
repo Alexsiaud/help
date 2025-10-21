@@ -1,10 +1,8 @@
 # Mes devis
 
-MES DEVIS
+**Consulter et filtrer les devis**
 
-Consulter et filtrer les devis
-
-Depuis le menu Facturation, accédez au tableau des devis pour visualiser et filtrer la liste complète.
+Depuis le menu **Facturation**, accédez au tableau des devis pour visualiser et filtrer la liste complète.
 
 | Statuts automatiques des devis  | Étiquettes manuelles disponibles |
 | ------------------------------- | -------------------------------- |
@@ -19,7 +17,9 @@ Depuis le menu Facturation, accédez au tableau des devis pour visualiser et fil
 Il est possible de créer et personnaliser les étiquettes manuelles
 {% endhint %}
 
-Créer un devis
+***
+
+**Créer un devis**
 
 ✍️ Vous pouvez importer des articles et contacts via fichier Excel ou les créer à la demande.
 
@@ -34,6 +34,8 @@ Créer un devis
 9. Précisez la validité du devis
 10. Renseignez la date de début de prestation
 
+
+
 Options supplémentaires :
 
 * Ajouter un échéancier ou des acomptes
@@ -42,7 +44,9 @@ Options supplémentaires :
 
 11. Sauvegardez le devis ou Validez avec aperçu
 
-Gérer les devis existants
+***
+
+**Gérer les devis existants**
 
 Depuis la liste des devis, vous pouvez :
 
@@ -56,9 +60,13 @@ Depuis la liste des devis, vous pouvez :
 * APPOSER une étiquette d'état
 * SUPPRIMER le devis
 
-✍️ Lors de l'envoi par mail, le client peut télécharger le devis. Un accusé de réception vous informera du téléchargement.
+{% hint style="success" %}
+Lors de l'envoi par mail, le client peut télécharger le devis. Un accusé de réception vous informera du téléchargement.
+{% endhint %}
 
-Valider et modifier un devis
+***
+
+**Valider et modifier un devis**
 
 Lors de la validation/aperçu, visualisez le document créé. À ce stade, vous pouvez encore :
 
@@ -67,6 +75,8 @@ Lors de la validation/aperçu, visualisez le document créé. À ce stade, vous 
 * Accepter le devis
 * Facturer le devis
 
-⚠️ Après un refus, le devis peut être modifié et remis en validation.
+{% hint style="warning" %}
+Après un refus, le devis peut être modifié et remis en validation.
+{% endhint %}
 
-Créer un bon de livraison : Depuis la liste des devis, utilisez le bouton Plus pour générer un bon de livraison.
+**Créer un bon de livraison** : Depuis la liste des devis, utilisez le bouton Plus pour générer un bon de livraison.
