@@ -38,12 +38,10 @@ Il est possible de créer et personnaliser les étiquettes manuelles
 
 
 > Options supplémentaires :
-
-* Ajouter un échéancier ou des acomptes
-* Joindre des documents
-* Saisir des remarques non visibles par le client
-
-
+>
+> * Ajouter un échéancier ou des acomptes
+> * Joindre des documents
+> * Saisir des remarques non visibles par le client
 
 ***
 

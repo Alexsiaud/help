@@ -31,3 +31,51 @@ Vous pouvez importer des articles via fichier Excel ou les créer à la demande.
 8. Indiquez le mode de paiement
 9. Précisez la date de début de prestation
 10. Sauvegardez ou Validez avec aperçu (statut : provisoire)
+
+
+
+> Options supplémentaires :
+>
+> * Ajouter un échéancier ou des acomptes
+> * Joindre des documents
+> * Saisir des remarques non visibles par le client
+
+***
+
+**Gérer les factures existantes**
+
+Depuis la liste des factures, vous pouvez :
+
+* FINALISER la facture
+* MODIFIER le contenu
+* Voir l'APERÇU
+* ENVOYER PAR MAIL au client
+* DUPLIQUER en devis ou en facture
+* IMPRIMER le document
+* TÉLÉCHARGER le fichier
+* APPOSER une étiquette d'état
+* SUPPRIMER la facture uniquement si provisoire
+
+{% hint style="success" %}
+Lors de l'envoi par mail, le client peut télécharger la facture. Un accusé de réception vous informera du téléchargement.
+{% endhint %}
+
+***
+
+**Finaliser une facture**
+
+{% hint style="warning" %}
+La finalisation rend la facture définitive.
+{% endhint %}
+
+Depuis la liste des factures finalisées, vous pouvez également :
+
+* Ajouter un paiement
+* Envoyer une relance
+* Créer un avoir
+
+**Ajouter un paiement** :
+
+* Paiement total ou partiel
+* Différents modes de règlement disponibles
+* En cas de paiement partiel, un visuel indique les paiements effectués par rapport au total
