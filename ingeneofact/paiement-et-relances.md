@@ -2,7 +2,7 @@
 
 **Consulter les paiements**
 
-Visualisez et filtrez les paiements en attente ou effectués.7
+Visualisez et filtrez les paiements en attente ou effectués.
 
 Statuts des paiements :
 
