@@ -1,5 +1,11 @@
 # Tableau de bord
 
+
+
+{% hint style="warning" %}
+Pour accéder à IngeneoFact, une activation préalable est nécessaire : [voir la documentation dédiée](../administration/activer-ingeneofact.md)
+{% endhint %}
+
 **Vue d'ensemble**
 
 {% @arcade/embed flowId="EetjKjsQRWhlxxpkrdmJ" url="https://app.arcade.software/share/EetjKjsQRWhlxxpkrdmJ" %}
