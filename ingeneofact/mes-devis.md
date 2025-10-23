@@ -21,6 +21,8 @@ Il est possible de créer et personnaliser les étiquettes manuelles
 
 ### **Créer un devis**
 
+{% @arcade/embed flowId="CuYDy388aIcF7a2bKlOM" url="https://app.arcade.software/share/CuYDy388aIcF7a2bKlOM" %}
+
 ✍️ Vous pouvez importer des articles et contacts via fichier Excel ou les créer à la demande.
 
 1. Cliquez sur « Créer » un devis
