@@ -2,12 +2,16 @@
 
 ### <sup>**Prérequis & Permissions**</sup>
 
+{% hint style="warning" %}
+Si vous n'avez pas encore souscrit à l'option IngeneoFact et que l'outil vous intéresse, nous vous invitons à contacter votre commercial pour en savoir plus.
+{% endhint %}
+
 {% hint style="success" %}
 ✍️ Cette action nécessite de détenir le droit[ "autoriser l'accès au déploiement en masse"](detail-des-droits.md)
 {% endhint %}
 
-{% hint style="warning" %}
-Si vous n'avez pas encore souscrit à l'option IngeneoFact et que l'outil vous intéresse, nous vous invitons à contacter votre commercial pour en savoir plus.
+{% hint style="success" %}
+[Cliquez ici pour voir la documentation dédiée à IngeneoFact](../ingeneofact/)
 {% endhint %}
 
 ***
