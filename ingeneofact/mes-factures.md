@@ -4,14 +4,14 @@
 
 Visualisez le tableau des factures et filtrez selon vos besoins.
 
-| Statuts des factures   | Étiquettes manuelles disponibles  |
-| ---------------------- | --------------------------------- |
-| PROVISOIRE             | IMPORTANT                         |
-| EN ATTENTE DE PAIEMENT | PRIORITAIRE                       |
-| ACOMPTE ENVOYÉ         | URGENT                            |
-| EN ATTENTE DE SOLDE    | A TRAITER                         |
-| PAYÉE                  | ENVOYÉ                            |
-|                        | CLASSÉ                            |
+| Étiquettes manuelles disponibles  | Statuts des factures   |
+| --------------------------------- | ---------------------- |
+| IMPORTANT                         | PROVISOIRE             |
+| PRIORITAIRE                       | EN ATTENTE DE PAIEMENT |
+| URGENT                            | ACOMPTE ENVOYÉ         |
+| A TRAITER                         | EN ATTENTE DE SOLDE    |
+| ENVOYÉ                            | PAYÉE                  |
+| CLASSÉ                            |                        |
 
 {% hint style="success" %}
 Il est possible de créer et personnaliser les étiquettes manuelles

@@ -1,6 +1,6 @@
 # Paiement et relances
 
-**Consulter les paiements**
+### **Consulter les paiements**
 
 Visualisez et filtrez les paiements en attente ou effectués.
 
@@ -13,9 +13,11 @@ Statuts des paiements :
 Vous pouvez saisir une observation dans chaque paiement.
 {% endhint %}
 
+{% @arcade/embed flowId="7ta62aDnUk7KeYZQXOfr" url="https://app.arcade.software/share/7ta62aDnUk7KeYZQXOfr" %}
+
 ***
 
-Gérer les acomptes
+### Gérer les acomptes
 
 Depuis une facture :
 
@@ -24,7 +26,7 @@ Depuis une facture :
 
 ***
 
-Modalités de paiement :
+### Modalités de paiement :
 
 * Paiement total ou partiel
 * Différents modes de règlement
@@ -32,7 +34,7 @@ Modalités de paiement :
 
 ***
 
-Envoyez des lettres de relance :
+### Envoyez des lettres de relance :
 
 * Première relance : indique le montant total de la facture
 * Relances suivantes : sans indication de montant

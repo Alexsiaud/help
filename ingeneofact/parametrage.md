@@ -1,14 +1,12 @@
-# PARAMÉTRAGE
+# Paramétrage
 
-FACTURATION
+### FACTURATION
 
-Choisir un modèle
+**Sélectionnez un modèle de facture** parmi les modèles proposés.
 
-Sélectionnez un modèle de facture parmi les modèles proposés.
+**Paramètres de facturation**, définissez vos options de facturation :
 
-Paramètres de facturation
-
-Personnalisation des préfixes : Modifiez le préfixe des documents :
+Personnalisation des préfixes, modifiez le préfixe des documents :
 
 * Devis
 * Factures
@@ -21,11 +19,15 @@ Conditions de paiement :
 * Pénalités
 * IBAN
 
-PAIEMENT
+***
+
+### PAIEMENT
 
 Ajoutez un mode de paiement en ligne.
 
-COMPTABILITÉ
+***
+
+### COMPTABILITÉ
 
 Configuration comptable
 

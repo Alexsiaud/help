@@ -4,14 +4,14 @@
 
 Depuis le menu **Facturation**, accédez au tableau des devis pour visualiser et filtrer la liste complète.
 
-| Statuts automatiques des devis  | Étiquettes manuelles disponibles |
-| ------------------------------- | -------------------------------- |
-| PROVISOIRE                      | IMPORTANT                        |
-| ACCEPTÉ                         | PRIORITAIRE                      |
-| ACOMPTE ENVOYÉ                  | URGENT                           |
-| FACTURÉ                         | A TRAITER                        |
-| FINALISÉ                        | ENVOYÉ                           |
-| REFUSÉ                          | CLASSÉ                           |
+| Étiquettes manuelles disponibles | Statuts automatiques des devis  |
+| -------------------------------- | ------------------------------- |
+| IMPORTANT                        | PROVISOIRE                      |
+| PRIORITAIRE                      | ACCEPTÉ                         |
+| URGENT                           | ACOMPTE ENVOYÉ                  |
+| A TRAITER                        | FACTURÉ                         |
+| ENVOYÉ                           | FINALISÉ                        |
+| CLASSÉ                           | REFUSÉ                          |
 
 {% hint style="success" %}
 Il est possible de créer et personnaliser les étiquettes manuelles

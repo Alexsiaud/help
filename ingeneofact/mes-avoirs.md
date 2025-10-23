@@ -1,26 +1,25 @@
 # Mes avoirs
 
-**Gérer les avoirs**
+### **Gérer les avoirs**
 
 Consultez et filtrez la liste des avoirs.
 
-| Statuts des avoir  | Étiquettes manuelles disponibles  |
-| ------------------ | --------------------------------- |
-| PROVISOIRE         | IMPORTANT                         |
-| FINALISÉ           | PRIORITAIRE                       |
-|                    | URGENT                            |
-|                    | A TRAITER                         |
-|                    | ENVOYÉ                            |
-|                    | CLASSÉ                            |
+| Étiquettes manuelles disponibles  | Statuts des avoir  |
+| --------------------------------- | ------------------ |
+| IMPORTANT                         | PROVISOIRE         |
+| PRIORITAIRE                       | FINALISÉ           |
+| URGENT                            |                    |
+| A TRAITER                         |                    |
+| ENVOYÉ                            |                    |
+| CLASSÉ                            |                    |
 
-Actions disponibles :
-
-* Créer des avoirs
-* Supprimer un avoir PROVISOIRE
+{% hint style="success" %}
+Il est possible de créer et personnaliser les étiquettes manuelles
+{% endhint %}
 
 ***
 
-**Créer un avoir**
+### **Créer un avoir**
 
 {% hint style="success" %}
 Vous pouvez importer des articles via fichier Excel ou les créer à la demande.
@@ -45,7 +44,7 @@ Vous pouvez importer des articles via fichier Excel ou les créer à la demande.
 
 ***
 
-**Gérer les avoirs existants**
+### **Gérer les avoirs existants**
 
 Depuis la liste des avoirs, vous pouvez :
 
