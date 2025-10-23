@@ -78,4 +78,10 @@ Lors de la validation/aperçu, visualisez le document créé. À ce stade, vous 
 Après un refus, le devis peut être modifié et remis en validation.
 {% endhint %}
 
-**Créer un bon de livraison** : Depuis la liste des devis, utilisez le bouton Plus pour générer un bon de livraison.
+***
+
+**Créer un bon de livraison** &#x20;
+
+Depuis la liste des devis, utilisez le bouton Plus pour générer un bon de livraison.
+
+{% @arcade/embed flowId="54F89FUWc8pxUQPNfVa3" url="https://app.arcade.software/share/54F89FUWc8pxUQPNfVa3" %}
