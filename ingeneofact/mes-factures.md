@@ -1,6 +1,6 @@
 # Mes factures
 
-**Consulter et filtrer les factures**
+### **Consulter et filtrer les factures**
 
 Visualisez le tableau des factures et filtrez selon vos besoins.
 
@@ -13,13 +13,19 @@ Visualisez le tableau des factures et filtrez selon vos besoins.
 | PAYÉE                  | ENVOYÉ                            |
 |                        | CLASSÉ                            |
 
+{% hint style="success" %}
+Il est possible de créer et personnaliser les étiquettes manuelles
+{% endhint %}
+
 ***
 
-**Créer une facture**
+### **Créer une facture**
 
 {% hint style="success" %}
 Vous pouvez importer des articles via fichier Excel ou les créer à la demande.
 {% endhint %}
+
+{% @arcade/embed flowId="EgKl5LOnuJUh0EfljR9q" url="https://app.arcade.software/share/EgKl5LOnuJUh0EfljR9q" %}
 
 1. Cliquez sur « Créer » une facture
 2. Sélectionnez ou créez un contact
@@ -42,7 +48,7 @@ Vous pouvez importer des articles via fichier Excel ou les créer à la demande.
 
 ***
 
-**Gérer les factures existantes**
+### **Gérer les factures existantes**
 
 Depuis la liste des factures, vous pouvez :
 
@@ -62,7 +68,7 @@ Lors de l'envoi par mail, le client peut télécharger la facture. Un accusé de
 
 ***
 
-**Finaliser une facture**
+### **Finaliser une facture**
 
 {% hint style="warning" %}
 La finalisation rend la facture définitive.

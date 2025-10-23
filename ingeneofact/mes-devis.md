@@ -1,6 +1,6 @@
 # Mes devis
 
-**Consulter et filtrer les devis**
+### **Consulter et filtrer les devis**
 
 Depuis le menu **Facturation**, accédez au tableau des devis pour visualiser et filtrer la liste complète.
 
@@ -19,7 +19,7 @@ Il est possible de créer et personnaliser les étiquettes manuelles
 
 ***
 
-**Créer un devis**
+### **Créer un devis**
 
 ✍️ Vous pouvez importer des articles et contacts via fichier Excel ou les créer à la demande.
 
@@ -45,7 +45,7 @@ Il est possible de créer et personnaliser les étiquettes manuelles
 
 ***
 
-**Gérer les devis existants**
+### **Gérer les devis existants**
 
 Depuis la liste des devis, vous pouvez :
 
@@ -65,7 +65,7 @@ Lors de l'envoi par mail, le client peut télécharger le devis. Un accusé de r
 
 ***
 
-**Valider et modifier un devis**
+### **Valider et modifier un devis**
 
 Lors de la validation/aperçu, visualisez le document créé. À ce stade, vous pouvez encore :
 
@@ -80,7 +80,7 @@ Après un refus, le devis peut être modifié et remis en validation.
 
 ***
 
-**Créer un bon de livraison** &#x20;
+### **Créer un bon de livraison** &#x20;
 
 Depuis la liste des devis, utilisez le bouton Plus pour générer un bon de livraison.
 
