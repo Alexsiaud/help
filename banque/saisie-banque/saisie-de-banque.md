@@ -1,6 +1,6 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - saisie
   - banque
   - mouvements
@@ -11,6 +11,8 @@ chatbot_keywords:
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
+[Un classeur de type banque](../../gestion-des-entreprises/classeurs-comptables.md#creer-un-classeur-comptable) doit être créé pour accéder à la saisie.
+
 Seul un utilisateur ayant le droit [**Enregistrer les documents**](../../administration/detail-des-droits.md) sur le classeur de type banque peut traiter les mouvements bancaires.
 {% endhint %}
 
