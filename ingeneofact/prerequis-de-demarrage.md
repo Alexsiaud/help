@@ -20,7 +20,7 @@ Les éléments suivants sont obligatoires pour retrouver les factures éditées 
 
 ### <sub>Deuxième étape : les produits</sub>
 
-Les éléments suivant sont obligatoires pour retrouver les factures éditées dans Ingeneo :
+Les éléments suivants sont obligatoires pour retrouver les factures éditées dans Ingeneo :
 
 * Créer des articles avec un montant (modifiable à l'édition d'un devis et/ou d'une facture), il est possible de créer des articles en masse via le bouton "Importer", un modèle vous est donné
 * Rattacher les articles à un compte comptable (préalablement synchronisés depuis Ingeneo) : modifier l'article en cliquant sur le bouton d'édition vous aurez la possibilité d'accéder à un menu déroulant "Comptes comptable"
