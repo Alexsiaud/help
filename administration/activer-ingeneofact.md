@@ -2,12 +2,17 @@
 
 ### <sup>**Prérequis & Permissions**</sup>
 
+{% hint style="success" %}
+* Un utilisateur doit être [créé et rattaché à l'entreprise concernée](creer-des-utilisateurs.md)
+* Les informations légales doivent être renseigné dans les informations générales de l'entreprise :
+{% endhint %}
+
 {% hint style="warning" %}
 Si vous n'avez pas encore souscrit à l'option IngeneoFact et que l'outil vous intéresse, nous vous invitons à contacter votre commercial pour en savoir plus.
 {% endhint %}
 
-{% hint style="success" %}
-✍️ Cette action nécessite de détenir le droit[ "autoriser l'accès au déploiement en masse"](detail-des-droits.md)
+{% hint style="warning" %}
+Cette action nécessite de détenir le droit[ "autoriser l'accès au déploiement en masse"](detail-des-droits.md)
 {% endhint %}
 
 {% hint style="success" %}
@@ -19,6 +24,8 @@ Si vous n'avez pas encore souscrit à l'option IngeneoFact et que l'outil vous i
 ### <sup>Vidéo interactive 💡</sup>
 
 {% @arcade/embed flowId="SveSJTM8vvTCsJjk5cGM" url="https://app.arcade.software/share/SveSJTM8vvTCsJjk5cGM" %}
+
+{% @arcade/embed flowId="wWrGnGP7hGRepoBx5f1i" url="https://app.arcade.software/share/wWrGnGP7hGRepoBx5f1i" %}
 
 ***
 
@@ -51,5 +58,5 @@ Vérifiez que vous disposez des permissions nécessaires pour administrer le por
 </details>
 
 {% hint style="warning" %}
-⚠️ L'activation de la facturation impacte directement les profils sélectionnés. Assurez-vous de bien définir les utilisateurs concernés avant de valider.
+⚠️ L'activation de la facturation impacte directement les profils sélectionnés. Assurez vous de bien définir les utilisateurs concernés avant de valider.
 {% endhint %}
