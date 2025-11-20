@@ -4,7 +4,7 @@
 Il est absolument nécessaire de suivre toutes les étapes suivantes afin de pouvoir démarrer un travail efficace et interconnecté avec Ingeneo.
 {% endhint %}
 
-### <sub>Première étape : les paramétrages comptable</sub>
+### <sub>Première étape : les paramétrages comptables</sub>
 
 Les éléments suivants sont obligatoires pour retrouver les factures éditées dans Ingeneo :&#x20;
 
