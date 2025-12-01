@@ -19,8 +19,3 @@ Pour consulter un document cliquez dessus, plusieurs actions sont disponibles de
 * **Impression**
 * **Édition**
 * **Téléchargement**
-
-{% hint style="info" %}
-✍️ Sélectionnez l'action correspondant à votre besoin directement depuis la visualisation du document.
-{% endhint %}
-
