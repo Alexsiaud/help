@@ -1,10 +1,14 @@
 # Déposer un document
 
-{% hint style="info" %}
+{% hint style="warning" %}
 ✍️ **Prérequis** : L'utilisateur doit avoir activé son compte pour accéder au portail de service.
 {% endhint %}
 
-## Déposer un document
+***
+
+### <sup>Vidéo interactive 💡</sup>
+
+{% @arcade/embed flowId="kmubykeqFMQGlM2Ri2Xk" url="https://app.arcade.software/share/kmubykeqFMQGlM2Ri2Xk?ref=share-link" %}
 
 Deux méthodes sont disponibles pour déposer un document :
 
@@ -29,15 +33,11 @@ Deux méthodes sont disponibles pour déposer un document :
 ⚠️ Un classeur doit obligatoirement être sélectionné pour finaliser le dépôt.
 {% endhint %}
 
-{% stepper %}
-{% step %}
-### Finaliser le dépôt
+#### Finaliser le dépôt :
 
 * Rédigez une note si nécessaire (cette note sera visible sur la plateforme Ingeneo avec le document)
 * Sélectionnez un **classeur**
 * Cliquez sur **Enregistrer**
-{% endstep %}
-{% endstepper %}
 
 {% hint style="success" %}
 ✅ Le document est déposé.

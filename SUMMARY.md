@@ -60,7 +60,6 @@
     * [Configurer l'Obsolescence et la Durée de conservation](processus-metiers/gestion-documentaire-avancee/configurer-lobsolescence-et-la-duree-de-conservation.md)
 * [PORTAIL DE SERVICES](portail-de-services/README.md)
   * [Donner l'accès au portail de service](portail-de-services/donner-lacces-au-portail-de-service.md)
-  * [Accueil](portail-de-services/accueil.md)
   * [Déposer un document](portail-de-services/deposer-un-document.md)
   * [Rechercher un document](portail-de-services/rechercher-un-document.md)
 * [INGENEOFACT](ingeneofact/README.md)
