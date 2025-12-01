@@ -44,11 +44,11 @@ Une fois le portail activé, vous pouvez donner l'accès aux utilisateurs.
 
 #### Pour un nouvel utilisateur
 
-* Renseignez une adresse mail valide.
+* Renseignez une adresse e-mail valide.
 
 #### Pour un utilisateur existant
 
-* Sélectionnez son adresse mail dans la liste déroulante.
+* Sélectionnez son adresse e-mail dans la liste déroulante.
 
 {% hint style="warning" %}
 ⚠️ L'utilisateur doit être créé et activé dans l'entreprise pour apparaître dans la liste déroulante.
@@ -58,4 +58,4 @@ Une fois le portail activé, vous pouvez donner l'accès aux utilisateurs.
 
 ### Finalisation
 
-Lors de l'invitation, l'utilisateur recevra un mail l'invitant à créer son compte.
+Lors de l'invitation, l'utilisateur recevra un e-mail l'invitant à créer son compte.
