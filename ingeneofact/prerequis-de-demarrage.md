@@ -4,28 +4,129 @@
 Il est absolument nécessaire de suivre toutes les étapes suivantes afin de pouvoir démarrer un travail efficace et interconnecté avec Ingeneo.
 {% endhint %}
 
-### <sub>Première étape : les paramétrages comptables</sub>
+## Première étape : les paramétrages comptables
 
-Les éléments suivants sont obligatoires pour retrouver les factures éditées dans Ingeneo :&#x20;
+Les éléments suivants sont **obligatoires** pour retrouver les factures éditées dans Ingeneo :&#x20;
 
-* Le journal de vente
-* Transférer les factures / avoirs en comptabilité dès finalisation coché (par défaut)
-* Le classeur de vente (classeur de dépôt dans Ingeneo)
-* Synchronisation des comptes clients via le bouton "Récupérer comptes tiers INGENEO". Cela créera automatiquement les contacts avec leur compte tiers associés (et les comptes collectifs si utilisés)
-* Synchronisation des comptes produits via le bouton "Récupérer comptes produit INGENEO"
-* Création des modes de règlement **identiques** à ceux présents sur Ingeneo : cliquer sur le bouton "+ Créer nouveau" puis renseigner le code et l'intitulé
-* &#x20;Rattachement des comptes de TVA aux taux de TVA : cliquer sur le bouton d'édition du taux et renseigner le compte (et code si utilisé)
+{% stepper %}
+{% step %}
+### Aller dans le menu des paramétrages comptables
 
-{% embed url="https://septeo-experts-comptables.share.arcade.software/share/hq16nX3phhFM4Cn3nxUC" %}
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-### <sub>Deuxième étape : les produits</sub>
+{% step %}
+### Renseigner le **même journal de vente** que sur Ingeneo
 
-Les éléments suivants sont obligatoires pour retrouver les factures éditées dans Ingeneo :
+Il faudra taper le journal de vente dans le champs dédié :
 
-* Créer des articles avec un montant (modifiable à l'édition d'un devis et/ou d'une facture), il est possible de créer des articles en masse via le bouton "Importer", un modèle vous est donné
-* Rattacher les articles à un compte comptable (préalablement synchronisés depuis Ingeneo) : modifier l'article en cliquant sur le bouton d'édition vous aurez la possibilité d'accéder à un menu déroulant "Comptes comptable"
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-{% embed url="https://septeo-experts-comptables.share.arcade.software/share/n5AO3t8oc4BUErDbTrAw" %}
+{% step %}
+### Option de transfert de factures / avoir
+
+Par défaut l'option **Transférer les factures / avoirs en comptabilité dès finalisation est coché**, veillez à ce que ce soit bien le cas
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+### Choisir le classeur de vente
+
+Choisissez dans le **menu déroulant** le classeur dans lequel sur Ingeneo les factures/avoirs seront déposés
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Synchronisation des comptes clients
+
+Via le bouton **Récupérer comptes tiers INGENEO** vous pourrez créer automatiquement les contacts avec leur compte tiers associés (et les comptes collectifs si utilisés)
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Synchronisation des comptes produits
+
+Via le bouton **Récupérer comptes tiers INGENEO** vous pourrez créer les comptes produits présents sur Ingeneo
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Créer les modes de règlements
+
+Cliquez sur le bouton **+ Créer nouveau** puis renseigner le code et l'intitulé
+
+{% embed url="https://app.arcade.software/BNscPSCl8ZzNj561QQ8a" %}
+{% endstep %}
+
+{% step %}
+### Taux et comptes de TVA
+
+Cliquez sur le bouton d'édition du taux de TVA et renseigner le compte (et code si utilisé)
+
+{% embed url="https://app.arcade.software/kAGMGn0vma65FakP7WwL" %}
+{% endstep %}
+{% endstepper %}
+
+## Deuxième étape : les produits & contacts
+
+Les éléments suivants sont **obligatoires** pour retrouver les factures éditées dans Ingeneo :
+
+{% stepper %}
+{% step %}
+### Aller dans le menu Mes produits
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Créer des articles
+
+Créez des articles avec un montant (modifiable à l'édition d'un devis et/ou d'une facture), il est possible de créer des articles en masse via le bouton **Importer**, un modèle vous est donné
+
+{% embed url="https://app.arcade.software/iNpiAjNfwMiUgsvVJsNa" %}
+
+{% hint style="warning" %}
+Il est impératif d'attribuer un compte produit sur vos articles
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### Aller dans le menu Mes contacts
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Créer un contact
+
+Créez des contacts, il est possible de créer des contacts en masse via le bouton **Importer**, un modèle vous est donné
+
+{% embed url="https://app.arcade.software/NMzWgN4FAccUstH1lWkJ" %}
+
+{% hint style="danger" %}
+Il est impératif d'associer un compte tiers au contact
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### Éditer un contact existant
+
+Éditez un contact existant pour lui affecter un compte tiers
+
+{% embed url="https://app.arcade.software/OPoTDy33nmbBjAqVUwul" %}
+
+{% hint style="danger" %}
+Il est impératif d'attribuer un compte tiers à vos contacts
+{% endhint %}
+{% endstep %}
+{% endstepper %}
 
 
 
