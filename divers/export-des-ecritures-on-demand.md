@@ -1,4 +1,8 @@
-# Export des ecritures On Demand
+---
+hidden: true
+---
+
+# Export des écritures On Demand
 
 #### Contexte d'utilisation
 

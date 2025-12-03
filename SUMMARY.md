@@ -85,5 +85,5 @@
 * [DIVERS](divers/README.md)
   * [Guide des bonnes pratiques](divers/guide-des-bonnes-pratiques.md)
   * [Raccourcis clavier](divers/raccourcis-clavier.md)
-  * [Export des ecritures On Demand](divers/export-des-ecritures-on-demand.md)
+  * [Export des écritures On Demand](divers/export-des-ecritures-on-demand.md)
 * [FAQ](faq.md)
