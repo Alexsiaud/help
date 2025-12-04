@@ -3,7 +3,7 @@
 Le connecteur HotFolder permet la connexion entre un répertoire de dépôt choisi d’un ordinateur ou serveur dans lequel seront déposés des documents, et le classeur de réception d’une entreprise choisie dans la plateforme.
 
 {% hint style="warning" %}
-&#x20;Après le dépôt de documents, ceux-ci seront transférés instantanément. Ils ne seront plus présents dans le répertoire de dépôt.
+&#x20;Après le dépôt de documents, ceux-ci seront transférés instantanément. Ils ne seront plus présents dans le répertoire de dépôt, si aucun répertoire d'archivage n'a été saisis.
 {% endhint %}
 
 Depuis le menu « Ressources », de la plateforme, cliquer sur l'icône de téléchargement, pour télécharger le connecteur Hotfolder.
@@ -34,7 +34,9 @@ Saisir une description, puis indiquer le chemin du répertoire de dépôt des do
 
 Possibilité d’ajouter d’autres répertoires pour d’autres types de documents. (ex : facture achat, facture de vente, …).&#x20;
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+Saisir le chemin du répertoire d'archivage (optionnel)
+
+<figure><img src="../.gitbook/assets/INGENEOHotFolder_d2XF2gGGtN.png" alt=""><figcaption></figcaption></figure>
 
 Cliquer sur « ... », puis sélectionner l’entreprise et le classeur de destination des documents du dossier Hotfolder (dossier de dépôt).
 
