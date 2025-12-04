@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Export des écritures On Demand
 
 #### Contexte d'utilisation
