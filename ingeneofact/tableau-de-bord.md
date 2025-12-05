@@ -1,9 +1,7 @@
 # Tableau de bord
 
-
-
 {% hint style="warning" %}
-Pour accéder à IngeneoFact, une activation préalable est nécessaire : [voir la documentation dédiée](../administration/activer-ingeneofact.md)
+Pour accéder à IngeneoFact, une activation préalable est nécessaire : [voir la documentation dédiée](activer-ingeneofact.md)
 {% endhint %}
 
 **Vue d'ensemble**

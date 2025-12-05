@@ -3,7 +3,7 @@
 ### <sup>**Prérequis & Permissions**</sup>
 
 {% hint style="success" %}
-* Un utilisateur doit être [créé et rattaché à l'entreprise concernée](creer-des-utilisateurs.md)
+* Un utilisateur doit être [créé et rattaché à l'entreprise concernée](../administration/creer-des-utilisateurs.md)
 * Les informations légales doivent être renseigné dans les informations générales de l'entreprise :
 {% endhint %}
 
@@ -12,11 +12,11 @@ Si vous n'avez pas encore souscrit à l'option IngeneoFact et que l'outil vous i
 {% endhint %}
 
 {% hint style="warning" %}
-Cette action nécessite de détenir le droit[ "autoriser l'accès au déploiement en masse"](detail-des-droits.md)
+Cette action nécessite de détenir le droit[ "autoriser l'accès au déploiement en masse"](../administration/detail-des-droits.md)
 {% endhint %}
 
 {% hint style="success" %}
-[Cliquez ici pour voir la documentation dédiée à IngeneoFact](../ingeneofact/)
+[Cliquez ici pour voir la documentation dédiée à IngeneoFact](./)
 {% endhint %}
 
 ***
