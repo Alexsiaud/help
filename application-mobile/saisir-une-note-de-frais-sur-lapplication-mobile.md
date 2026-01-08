@@ -82,8 +82,3 @@ Une fois soumise, la note de frais est transmise au circuit de validation config
 
 ***
 
-### <sup>**Avertissement**</sup>
-
-{% hint style="warning" %}
-Comme sur la plateforme web, la note de frais sera automatiquement adressée au valideur défini dans votre circuit de validation paramétré.
-{% endhint %}
