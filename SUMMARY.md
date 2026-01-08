@@ -39,6 +39,7 @@
     * [Saisie de banque](banque/saisie-banque/saisie-de-banque.md)
 * [APPLICATION MOBILE](application-mobile/README.md)
   * [Application mobile](application-mobile/application-mobile.md)
+  * [Saisir une note de frais sur l'application mobile](application-mobile/saisir-une-note-de-frais-sur-lapplication-mobile.md)
 * [PROCESSUS METIERS](processus-metiers/README.md)
   * [Workflow](processus-metiers/workflow/README.md)
     * [Configurer les statuts de documents](processus-metiers/workflow/configurer-les-statuts-de-documents.md)
