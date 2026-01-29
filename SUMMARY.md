@@ -64,6 +64,8 @@
   * [Donner l'accès au portail de service](portail-de-services/donner-lacces-au-portail-de-service.md)
   * [Déposer un document](portail-de-services/deposer-un-document.md)
   * [Rechercher un document](portail-de-services/rechercher-un-document.md)
+* [MODULE DE VENTES](module-de-ventes/README.md)
+  * [Untitled](module-de-ventes/untitled.md)
 * [INGENEOFACT](ingeneofact/README.md)
   * [Activer IngeneoFact](ingeneofact/activer-ingeneofact.md)
   * [Prérequis de démarrage](ingeneofact/prerequis-de-demarrage.md)
