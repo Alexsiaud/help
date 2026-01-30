@@ -26,3 +26,20 @@ Depuis le menu Produits du module de ventes vous avez la possibilité d'ajouter 
 
 #### Création d'un devis&#x20;
 
+Nous allons débuter par la création d'un devis. Pour ce faire rendez vous dans la rubrique **Devis** puis cliquez sur + Ajouter un devis.&#x20;
+
+Les informations suivantes vous seront demandées :&#x20;
+
+* Informations générales : client, contact, mode de paiement, date et objet.
+* Liste de articles : Plusieurs produits peuvent être ajoutés, vous retrouverez dans la liste les produits précédemment créés. Vous pouvez appliquer des remises par ligne ou sur le global directement.&#x20;
+* Détail du paiement
+
+Cliquez sur enregistrer et prévisualiser pour générer le devis. Vous retrouverez les couleurs et l'annexe pré paramétrés en amont.&#x20;
+
+Vous pouvez décider d'impacter une rubrique précise de votre trésorerie en cliquant sur Opérations engagées.&#x20;
+
+Aussi, votre devis pour être ou non pris en compte directement dans votre prévisionnel de trésorerie.
+
+A ce stade, le devis est en brouillon, il peut toujours être modifié en cliquant sur le bouton Editer.&#x20;
+
+Pour valider le devis cliquez sur Envoyer le devis.&#x20;
