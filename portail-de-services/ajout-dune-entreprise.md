@@ -10,7 +10,7 @@ Depuis le portail de services, rendez-vous dans le menu **Mon cabinet**.
 
 {% stepper %}
 {% step %}
-### Ajouter une entreprise au portail de services
+### Ajouter une entreprise
 
 * Cliquez sur le bouton **Ajouter**
 * Dans le champ **Nom de l’entreprise**, saisir le nom de l’entreprise, puis cliquez sur **Rechercher**.
