@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Déposer un document
 
 {% hint style="warning" %}

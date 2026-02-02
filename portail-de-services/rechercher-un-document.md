@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Rechercher un document
 
 Depuis l'**Accueil** ou le menu **Documents**, accédez à la barre de recherche.

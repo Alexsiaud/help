@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Donner l'accès au portail de service
 
 {% hint style="warning" %}
