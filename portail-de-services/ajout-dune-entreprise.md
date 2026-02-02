@@ -1,4 +1,4 @@
-# Ajout d'une entreprise au portail de services
+# Ajout d'une entreprise
 
 {% hint style="warning" %}
 ✍️ **Prérequis** : Pour ajouter une entreprise au portail de services, il faut au préalable que l'entreprise soit créée sur la plateforme INGENEO.
