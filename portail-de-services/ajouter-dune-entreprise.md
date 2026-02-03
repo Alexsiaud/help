@@ -1,4 +1,4 @@
-# Ajout d'une entreprise
+# Ajouter d'une entreprise
 
 {% hint style="warning" %}
 ✍️ **Prérequis** : Pour ajouter une entreprise au portail de services, il faut au préalable que l'entreprise soit créée sur la plateforme INGENEO.
@@ -43,6 +43,8 @@ Depuis le portail de services, rendez-vous dans le menu **Mon cabinet**.
 ***
 
 ### <sup>Vidéo interactive 💡</sup>
+
+{% @arcade/embed flowId="uUi5KVODvtazufZ8J4I6" url="https://app.arcade.software/share/uUi5KVODvtazufZ8J4I6" %}
 
 ***
 
