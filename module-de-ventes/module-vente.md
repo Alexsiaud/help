@@ -47,4 +47,7 @@ Cliquez sur enregistrer et prévisualiser pour générer le devis. Vous retrouve
 
 A ce stade, le devis est en brouillon, il peut toujours être modifié en cliquant sur le bouton Editer.&#x20;
 
-Pour valider le devis cliquez sur Envoyer le devis.&#x20;
+Une fois Enregistré votre devis passe au statut **Envoyé**&#x20;
+
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
