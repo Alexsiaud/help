@@ -1,8 +1,14 @@
+---
+hidden: true
+---
+
 # Module vente
 
 ### 1. Vérifier les informations de votre établissement&#x20;
 
 Avant toute chose il est important de vérifier que les informations de votre établissement sont à jour. Pour se faire, cliquez sur le nom de votre établissement puis vérifiez les informations de votre société. &#x20;
+
+***
 
 ### 2. Paramétrage
 
@@ -28,7 +34,7 @@ Depuis la rubrique "Liste des produits" appuyez sur le bouton **+Ajouter un prod
 
 ***
 
-### Création d'un devis&#x20;
+### 4. Création d'un devis&#x20;
 
 Nous allons débuter par la création d'un devis. Pour ce faire rendez vous dans la rubrique **Devis** puis cliquez sur + Ajouter un devis.&#x20;
 
@@ -51,3 +57,21 @@ Une fois Enregistré votre devis passe au statut **Envoyé**&#x20;
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
+En cliquant sur votre devis plusieurs actions peuvent être réalisées :&#x20;
+
+* Marquer comme accepté ;&#x20;
+* Marquer comme refusé&#x20;
+* Marquer comme refusé et dupliquer le devis&#x20;
+* Marquer comme brouillon
+* Envoyer par mail&#x20;
+* Dupliquer le devis
+* Transformer en facture&#x20;
+* Transformer en abonnement&#x20;
+
+{% hint style="info" %}
+Pour accéder à l'ensemble de ces action cliquez sur le bouton plus d'action "...'
+{% endhint %}
+
+{% hint style="warning" %}
+Les devis tranformés en facture se retrouvent automatiquement dans l'espace Factures Brouillon
+{% endhint %}
