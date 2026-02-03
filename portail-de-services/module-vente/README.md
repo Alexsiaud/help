@@ -4,7 +4,7 @@ hidden: true
 
 # Module vente
 
-### 1. Vérifier les informations de votre établissement&#x20;
+Vérifier les informations de votre établissement&#x20;
 
 Avant toute chose il est important de vérifier que les informations de votre établissement sont à jour. Pour se faire, cliquez sur le nom de votre établissement puis vérifiez les informations de votre société. &#x20;
 
@@ -30,7 +30,7 @@ Depuis le menu Produits du module de ventes vous avez la possibilité d'ajouter 
 
 Depuis la rubrique "Liste des produits" appuyez sur le bouton **+Ajouter un produit.** Remplir la fiche de personnalisation de votre produit (nom, unité, description, etc.).&#x20;
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -55,7 +55,7 @@ A ce stade, le devis est en brouillon, il peut toujours être modifié en cliqua
 
 Une fois Enregistré votre devis passe au statut **Envoyé**&#x20;
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 En cliquant sur votre devis plusieurs actions peuvent être réalisées :&#x20;
 
@@ -73,5 +73,14 @@ Pour accéder à l'ensemble de ces action cliquez sur le bouton plus d'action ".
 {% endhint %}
 
 {% hint style="warning" %}
-Les devis tranformés en facture se retrouvent automatiquement dans l'espace Factures Brouillon
+Les devis transformés en facture se retrouvent automatiquement dans l'espace Factures Brouillon
 {% endhint %}
+
+***
+
+### 5. Création d'un abonnement&#x20;
+
+Vous avez la possibilité de créer un modèle d'abonnement en cliquant, depuis le menu Abonnements, sur le bouton **+ Créer un abonnement**, puis sélectionner **Modèle d'abonnement**, **+ Créer.**
+
+
+
