@@ -4,7 +4,7 @@
 
 A tout moment depuis l'édition d'un devis vous avez la possibilité de créer un abonnement pour le document en utilisant un modèle existant ou de créer un modèle directement depuis le document.&#x20;
 
-
+{% @arcade/embed flowId="V9SApK69cbwUmwZqwCrL" url="https://app.arcade.software/share/V9SApK69cbwUmwZqwCrL" %}
 
 
 
