@@ -1,4 +1,4 @@
-# Ajouter d'une entreprise
+# Ajout d'une entreprise
 
 {% hint style="warning" %}
 ✍️ **Prérequis** : Pour ajouter une entreprise au portail de services, il faut au préalable que l'entreprise soit créée sur la plateforme INGENEO.
@@ -16,7 +16,7 @@ Depuis le portail de services, rendez-vous dans le menu **Mon cabinet**.
 * Dans le champ **Nom de l’entreprise**, saisir le nom de l’entreprise, puis cliquez sur **Rechercher**.
 * Sélectionnez dans la liste, l’entreprise à intégrer.
 * Les champs se remplissent automatiquement, à l’exception du champ **Secteur d’activité** (obligatoire).&#x20;
-* Sélectionnez dans la liste le **secteur d’acticité** de l’entreprise à ajouter.
+* Sélectionnez dans la liste le **secteur d’activité** de l’entreprise à ajouter.
 * Renseignez si besoin les informations manquantes (facultatives).
 * Sélectionnez dans le menu déroulant **Sélection des administrateurs**  un administrateur pour cette entreprise.
 * Cliquez sur **Suivant**.
