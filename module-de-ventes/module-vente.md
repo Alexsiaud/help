@@ -4,8 +4,6 @@
 
 Avant toute chose il est important de vérifier que les informations de votre établissement sont à jour. Pour se faire, cliquez sur le nom de votre établissement puis vérifiez les informations de votre société. &#x20;
 
-
-
 ### 2. Paramétrage
 
 Depuis le menu Paramètres du module de ventes vous avez la possibilité de modifier les masques de vos **devis**, **factures** et **avoirs** (numérotation des documents, informations sur le document, design, informations légales, etc.).
@@ -21,8 +19,6 @@ Dans la rubrique Logo et apparence vous avez la possibilité d'ajouter un logo e
 ### 3. Ajout des produits&#x20;
 
 Depuis le menu Produits du module de ventes vous avez la possibilité d'ajouter un nouveau produit ou de créer des champs et références personnalisés de vos produits depuis le menu "champs produit".&#x20;
-
-
 
 **Création d'un nouveau produit**
 
@@ -41,12 +37,13 @@ Les informations suivantes vous seront demandées :&#x20;
 * Informations générales : client, contact, mode de paiement, date et objet.
 * Liste des articles : Plusieurs produits peuvent être ajoutés, vous retrouverez dans la liste les produits précédemment créés. Vous pouvez appliquer des remises par ligne ou sur le global directement.&#x20;
 * Détail du paiement
+* Pied de page : mention spéciales, cgv, note de pied de page, annexes.&#x20;
 
-Cliquez sur enregistrer et prévisualiser pour générer le devis. Vous retrouverez les couleurs et l'annexe pré paramétrés en amont.&#x20;
+{% @arcade/embed flowId="dwl6lmZK3Jszo7ZL8WCk" url="https://app.arcade.software/share/dwl6lmZK3Jszo7ZL8WCk" %}
 
-Vous pouvez décider d'impacter une rubrique précise de votre trésorerie en cliquant sur Opérations engagées.&#x20;
 
-Aussi, votre devis pour être ou non pris en compte directement dans votre prévisionnel de trésorerie.
+
+Cliquez sur enregistrer et prévisualiser pour générer le devis. Vous retrouverez les couleurs et l'annexe ajoutée en amont.&#x20;
 
 A ce stade, le devis est en brouillon, il peut toujours être modifié en cliquant sur le bouton Editer.&#x20;
 
