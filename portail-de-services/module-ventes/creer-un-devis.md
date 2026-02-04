@@ -1,6 +1,6 @@
 # Créer un devis
 
-Nous allons débuter par la création d'un devis. Pour ce faire, rendez-vous dans la rubrique **Devis,** puis cliquez sur **+ Ajouter un devis**.&#x20;
+Pour créer un devis rendez-vous dans la rubrique **Devis,** puis cliquez sur **+ Ajouter un devis**.&#x20;
 
 Les informations suivantes vous seront demandées :&#x20;
 
