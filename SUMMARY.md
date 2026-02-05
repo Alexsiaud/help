@@ -91,7 +91,7 @@
   * [API tierces](administration/api-tierces.md)
 * [DIVERS](divers/README.md)
   * [Guide des bonnes pratiques](divers/guide-des-bonnes-pratiques.md)
+  * [Gestion de votre profil](divers/gestion-de-votre-profil.md)
   * [Raccourcis clavier](divers/raccourcis-clavier.md)
   * [Export des écritures On Demand](divers/export-des-ecritures-on-demand.md)
-  * [Gestion de votre profil](divers/gestion-de-votre-profil.md)
 * [FAQ](faq.md)
