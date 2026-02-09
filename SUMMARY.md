@@ -63,6 +63,7 @@
     * [Configurer l'Obsolescence et la Durée de conservation](processus-metiers/gestion-documentaire-avancee/configurer-lobsolescence-et-la-duree-de-conservation.md)
 * [PORTAIL DE SERVICES](portail-de-services/README.md)
   * [Ajout d'une entreprise](portail-de-services/ajout-dune-entreprise.md)
+  * [Ajout d'un utilisateur cabinet](portail-de-services/ajout-dun-utilisateur-cabinet.md)
   * [Module ventes](portail-de-services/module-ventes/README.md)
     * [Ajouter un produit](portail-de-services/module-ventes/ajouter-un-produit.md)
     * [Créer un abonnement](portail-de-services/module-ventes/creer-un-abonnement.md)
