@@ -70,6 +70,7 @@
     * [Créer un devis](portail-de-services/module-ventes/creer-un-devis.md)
     * [Créer une facture](portail-de-services/module-ventes/creer-une-facture.md)
     * [Paramétrage](portail-de-services/module-ventes/parametrage.md)
+  * [Ajout d'un utilisateur client](portail-de-services/ajout-dun-utilisateur-client.md)
 * [INGENEOFACT](ingeneofact/README.md)
   * [Activer IngeneoFact](ingeneofact/activer-ingeneofact.md)
   * [Prérequis de démarrage](ingeneofact/prerequis-de-demarrage.md)
