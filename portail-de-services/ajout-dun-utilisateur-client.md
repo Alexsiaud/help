@@ -17,8 +17,14 @@ Remplissez toutes les informations demandées, nom, prénom, email et ajouter un
 Vous devez également cocher les groupes / établissements auxquels l'utilisateur aura accès. Si vous cochez un groupe qui comprend trois établissements, ceux-ci sont automatiquement cochés. Ensuite, cliquez sur "Valider".
 
 {% hint style="info" %}
-Votre client reçoit instantanément un email comprenant un login ainsi qu'un mot de passe afin qu'il puisse accéder à son espace.&#x20;Attention, il est possible que cet email arrive dans ses spams, il faut donc autoriser l'email.
+Votre client reçoit instantanément un email comprenant un login afin qu'il puisse accéder à son espace.&#x20;Attention, il est possible que cet email arrive dans ses spams, il faut donc autoriser l'email.
 {% endhint %}
+
+### Vidéo interactive :bulb:
+
+{% @arcade/embed flowId="kgfDFYdSGO3X8IbpXldS" url="https://app.arcade.software/share/kgfDFYdSGO3X8IbpXldS" %}
+
+***
 
 ### Créer ou modifier un profil/rôle&#x20;
 
