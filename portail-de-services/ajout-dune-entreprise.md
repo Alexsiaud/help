@@ -52,8 +52,4 @@ Depuis le portail de services, rendez-vous dans le menu **Mon cabinet**.
 ⚠️ L'utilisateur doit être créé et activé dans l'entreprise pour apparaître dans la liste déroulante.
 {% endhint %}
 
-✍️ En cas de pluralité d'utilisateurs, vous avez la possibilité d'ajouter des utilisateurs.
-
-### Finalisation
-
-Lors de la finalisation, l'utilisateur recevra un e-mail l'invitant à créer son compte.
+✍️ En cas de pluralité d'utilisateurs, vous avez la possibilité d'ajouter des utilisateurs client.
