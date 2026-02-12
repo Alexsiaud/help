@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Ajout d'un utilisateur client
 
 Suite à [l'ajout d'une entreprise](ajout-dune-entreprise.md) vous avez la possibilité d'inviter de nouveaux utilisateurs clients et modifier leurs profils.&#x20;
