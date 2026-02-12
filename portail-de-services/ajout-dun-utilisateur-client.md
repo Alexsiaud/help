@@ -4,11 +4,11 @@ hidden: true
 
 # Ajout d'un utilisateur client
 
-Suite à l'ajout d'une entreprise vous avez la possibilité d'inviter de nouveaux utilisateurs clients et modifier leur profils.&#x20;
+Suite à l'ajout d'une entreprise vous avez la possibilité d'inviter de nouveaux utilisateurs clients et modifier leurs profils.&#x20;
 
 ### Ajouter un utilisateur client&#x20;
 
-Depuis l'entreprise concernée cliquez sur le menu paramètre (symbole de l'engrenage), puis sur "Collaborateurs".
+Depuis l'entreprise concernée cliquez sur le menu Paramètres (symbole de l'engrenage), puis sur "Collaborateurs".
 
 Ici, vous voyez la liste de tous les collaborateurs. Pour en ajouter un nouveau, cliquez sur "Ajouter un collaborateur".
 
@@ -17,7 +17,9 @@ Remplissez toutes les informations demandées, nom, prénom, email et ajouter un
 Vous devez également cocher les groupes / établissements auxquels l'utilisateur aura accès. Si vous cochez un groupe qui comprend trois établissements, ceux-ci sont automatiquement cochés. Ensuite, cliquez sur "Valider".
 
 {% hint style="info" %}
-Votre client reçoit instantanément un email comprenant un login afin qu'il puisse accéder à son espace.&#x20;Attention, il est possible que cet email arrive dans ses spams, il faut donc autoriser l'email.
+Votre client reçoit instantanément un email comprenant un identifiant et mot de passe afin qu'il puisse accéder à son espace.&#x20;
+
+Attention : il est possible que cet email arrive dans ses spams, il faut donc autoriser l'email.
 {% endhint %}
 
 ### Vidéo interactive :bulb:
