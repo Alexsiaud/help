@@ -20,8 +20,12 @@ Depuis le portail de services, rendez-vous dans le menu **Mon cabinet**.
 * Renseignez si besoin les informations manquantes (facultatives).
 * Sélectionnez dans le menu déroulant **Sélection des administrateurs**  un administrateur pour cette entreprise.
 * Cliquez sur **Suivant**.
+{% endstep %}
 
+{% step %}
+### Sélection du modèle de GED
 
+* Sélectionner un **modèle de GED standard** ( modèle par défaut) dans la liste de modèle présent dans la liste. il est possible de créer des modèles de GED depuis les paramètres du cabinet.
 {% endstep %}
 
 {% step %}
