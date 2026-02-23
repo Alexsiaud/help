@@ -8,6 +8,7 @@
   * [Classeurs & éléments comptables](gestion-des-entreprises/classeurs-comptables.md)
   * [Référentiels comptables](gestion-des-entreprises/referentiels-comptables.md)
   * [Analytique](gestion-des-entreprises/analytique.md)
+  * [Générer une archive d'entreprise](gestion-des-entreprises/generer-une-archive-dentreprise.md)
 * [GESTION DES DOCUMENTS](gestion-des-documents/README.md)
   * [Dépôt manuel de document](gestion-des-documents/depot-manuel-de-document.md)
   * [La saisie comptable](gestion-des-documents/la-saisie-comptable.md)
