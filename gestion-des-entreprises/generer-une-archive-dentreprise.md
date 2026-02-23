@@ -13,7 +13,9 @@ Cette fonctionnalité permet de générer une archive depuis la fiche d'une entr
 * Quand NE PAS l'utiliser\
   Si vous n'avez pas accès au menu d'édition de l'entreprise.
 
-## Préparation
+### <sup>Vidéo interactive 💡</sup>
+
+{% @arcade/embed flowId="fCLLxYD1QKWTJpBu5tpN" url="https://app.arcade.software/share/fCLLxYD1QKWTJpBu5tpN" %}
 
 ### Préparer l'accès à l'entreprise
 
