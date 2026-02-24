@@ -31,6 +31,7 @@
   * [Installation connecteur HotFolder](collecte-automatique/installation-connecteur-hotfolder.md)
   * [Paramétrage DematBox](collecte-automatique/parametrage-dematbox.md)
 * [BANQUE](banque/README.md)
+  * [Gestion des BNC - Comptabilité de trésorerie](banque/gestion-des-bnc-comptabilite-de-tresorerie.md)
   * [Configuration Ebics](banque/configuration-ebics/README.md)
     * [Dépôt EBICS](banque/configuration-ebics/depot-ebics.md)
     * [Paramétrage EBICS](banque/configuration-ebics/parametrage-ebics.md)
