@@ -28,13 +28,13 @@ Une documentation dédiée à chaque canal est disponible dans le centre d'aide.
 
 ## 2 – Rapprochement documentaire
 
-Pour une comptabilité de trésorerie, l'enregistrement de la saisie passera par le classeur de banque, il faut donc un rapprochement documentaire en amont de la comptabilisation.
+Pour une comptabilité de trésorerie, l'enregistrement de la saisie passera par le classeur de banque, il faut donc un rapprochement documentaire en amont de la comptabilisation
 
 {% hint style="warning" %}
 **Attention** : une fois le document rapproché au mouvement, ce dernier, même si pas encore exporté, est retiré du classeur d'achat.
 {% endhint %}
 
-### 1.1 Suggestion automatique
+### 2.1 Suggestion automatique
 
 La suggestion automatique peut s'effectuer jusqu'à la somme de 3 montants de mouvements correspondant à un montant total d'une facture, et inversement.
 
