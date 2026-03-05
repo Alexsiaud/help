@@ -1,5 +1,6 @@
 ---
 description: Prérequis & Permissions
+hidden: true
 icon: euro-sign
 ---
 

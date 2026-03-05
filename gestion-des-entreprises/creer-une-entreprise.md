@@ -1,11 +1,30 @@
 ---
 priority: 7
-chatbot_keywords: 
+chatbot_keywords:
   - dossier
   - entreprise
   - code dossier
   - site par defaut
   - nouveau dossier
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: false
+tags:
+  - ingeneo
+  - portail-de-service
 ---
 
 # Créer une entreprise
