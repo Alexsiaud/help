@@ -14,6 +14,10 @@ layout:
     visible: true
   metadata:
     visible: true
+  tags:
+    visible: false
+tags:
+  - ingeneo
 ---
 
 # GESTION DES ENTREPRISES
