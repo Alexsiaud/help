@@ -24,7 +24,6 @@ layout:
     visible: false
 tags:
   - ingeneo
-  - portail-de-service
 ---
 
 # Créer une entreprise
