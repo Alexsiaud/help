@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Gestion des BNC - Comptabilité de trésorerie
 
 ## 1 – Paramétrage du type de comptabilité
