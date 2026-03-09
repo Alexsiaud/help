@@ -36,7 +36,7 @@ Pour une comptabilité de trésorerie, l'enregistrement de la saisie passera par
 
 ### 2.1 Suggestion automatique
 
-La suggestion automatique peut s'effectuer jusqu'à la somme de 3 montants de mouvements correspondant à un montant total d'une facture, et inversement.
+La suggestion automatique peut s'effectuer jusqu'à la somme de 3 mouvements correspondant à un montant total d'une facture, et inversement.
 
 Dans votre classeur de banque, appuyez sur le bouton de rapprochement de facture.
 
@@ -46,11 +46,13 @@ Le bouton de rapprochement vous propose le code couleur et repère visuel suivan
 * **Orange** : indique le nombre de factures rapprochées mais le montant total n'est pas égal à celui du mouvement.
 * **Vert** : indique le nombre de factures rapprochées, le montant total est égal à celui du mouvement.
 
-Pour ce mouvement, la plateforme vous propose une suggestion de facture à rapprocher **11**, vous avez la possibilité de la visualiser **12** et de la rapprocher au mouvement **13**.
+Le compteur va se mettre à jour en fonction du montant de la ou des factures rapprochées.
 
-Le compteur va se mettre à jour en fonction du montant de la ou des factures rapprochées **14**.
 
-### 1.2 Rapprochement manuel
+
+
+
+### 2.2 Rapprochement manuel
 
 Vous avez la possibilité de visualiser toutes les factures **15**.
 
