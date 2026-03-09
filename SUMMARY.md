@@ -40,6 +40,7 @@
     * [Paramétrage JeDéclare](banque/connecteurs-tiers/parametrage-jedeclare.md)
   * [Saisie banque](banque/saisie-banque/README.md)
     * [Saisie de banque](banque/saisie-banque/saisie-de-banque.md)
+  * [Gestion des BNC](banque/gestion-des-bnc.md)
 * [APPLICATION MOBILE](application-mobile/README.md)
   * [Application mobile](application-mobile/application-mobile.md)
   * [Saisir une note de frais sur l'application mobile](application-mobile/saisir-une-note-de-frais-sur-lapplication-mobile.md)
