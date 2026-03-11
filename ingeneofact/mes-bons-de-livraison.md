@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Mes bons de livraison
 
 **Gérer les bons de livraison**

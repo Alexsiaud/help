@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Mes factures
 
 ### **Consulter et filtrer les factures**

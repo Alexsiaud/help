@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Produits et contacts
 
 ### Produits

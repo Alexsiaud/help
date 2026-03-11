@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Activer IngeneoFact
 
 ### <sup>**Prérequis & Permissions**</sup>

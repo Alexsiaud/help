@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Paiement et relances
 
 ### **Consulter les paiements**

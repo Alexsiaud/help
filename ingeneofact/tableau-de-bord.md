@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Tableau de bord
 
 {% hint style="warning" %}

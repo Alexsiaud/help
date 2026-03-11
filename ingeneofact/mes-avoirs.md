@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Mes avoirs
 
 ### **Gérer les avoirs**

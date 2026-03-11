@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Prérequis de démarrage
 
 {% hint style="success" %}

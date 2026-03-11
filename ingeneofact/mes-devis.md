@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Mes devis
 
 ### **Consulter et filtrer les devis**
