@@ -93,6 +93,7 @@
   * [Modèles d'entreprises](administration/modeles-dentreprises.md)
   * [Effectuer un import en masse](administration/effectuer-un-import-en-masse.md)
   * [API tierces](administration/api-tierces.md)
+  * [Enrôlement client](administration/enrolement-client.md)
 * [DIVERS](divers/README.md)
   * [Tableau de bord](divers/tableau-de-bord.md)
   * [Gestion de votre profil](divers/gestion-de-votre-profil.md)
