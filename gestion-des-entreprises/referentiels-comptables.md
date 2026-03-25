@@ -1,11 +1,13 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - code journaux
   - comptes tiers
   - comptes charge
   - analytique
   - synchronisation
+tags:
+  - ingeneo
 ---
 
 # Référentiels comptables
@@ -101,6 +103,6 @@ Ces éléments peuvent être créés directement depuis votre saisie sans passer
 
 **Limitation de synchronisation** : La synchronisation avec les logiciels comptables n'est disponible que si l'interconnexion est techniquement supportée pour votre logiciel spécifique.
 
-### <sup>**Vidéo interactive**</sup> <sup></sup><sup>💡</sup>
+### <sup>**Vidéo interactive**</sup> <sup>💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/oDMS1sZpPjnSFvnF01Ha" flowId="oDMS1sZpPjnSFvnF01Ha" %}

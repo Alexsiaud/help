@@ -1,3 +1,8 @@
+---
+tags:
+  - portail-de-service
+---
+
 # Tableau de bord
 
 {% @arcade/embed flowId="NIuaomYkZ6AUyahnkD4R" url="https://app.arcade.software/share/NIuaomYkZ6AUyahnkD4R" %}

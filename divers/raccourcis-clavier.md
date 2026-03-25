@@ -1,3 +1,8 @@
+---
+tags:
+  - portail-de-service
+---
+
 # Raccourcis clavier
 
 ## Prérequis/Permissions

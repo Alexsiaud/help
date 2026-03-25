@@ -1,3 +1,8 @@
+---
+tags:
+  - portail-de-service
+---
+
 # Ajouter un produit
 
 Depuis le menu Produits du module de ventes, vous avez la possibilité d'ajouter un nouveau produit ou de créer des champs et références personnalisés de vos produits depuis le menu **Champs produit**.&#x20;

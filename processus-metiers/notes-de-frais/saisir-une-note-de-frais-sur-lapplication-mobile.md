@@ -4,6 +4,8 @@ chatbot_keywords:
   - saisir
   - note de frais
   - application mobile
+tags:
+  - ingeneo
 ---
 
 # Saisir une note de frais sur l'application mobile

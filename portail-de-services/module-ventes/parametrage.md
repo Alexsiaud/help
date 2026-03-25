@@ -1,3 +1,8 @@
+---
+tags:
+  - portail-de-service
+---
+
 # Paramétrage
 
 Depuis le menu Paramètres du module de ventes, vous avez la possibilité de modifier les masques de vos **devis**, **factures** et **avoirs** (numérotation des documents, informations du document, design,  mentions légales, etc.).

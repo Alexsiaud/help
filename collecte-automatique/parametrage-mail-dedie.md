@@ -1,11 +1,13 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - paramétrage
   - mail
   - dédié
   - récupération
   - documents
+tags:
+  - ingeneo
 ---
 
 # Paramétrage mail dédié

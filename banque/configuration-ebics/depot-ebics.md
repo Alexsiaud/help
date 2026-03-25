@@ -1,10 +1,12 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - ebics
   - dépôt
   - manuel
   - mouvements bancaires
+tags:
+  - ingeneo
 ---
 
 # Dépôt EBICS

@@ -1,12 +1,14 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - paramétrage
   - powens
   - récupération
   - mouvements
   - banque
   - scrapping
+tags:
+  - ingeneo
 ---
 
 # Paramétrage POWENS

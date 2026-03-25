@@ -1,3 +1,8 @@
+---
+tags:
+  - portail-de-service
+---
+
 # Gestion de votre profil
 
 ## Prérequis / Permissions

@@ -1,7 +1,9 @@
 ---
 priority: 4
-chatbot_keywords: 
+chatbot_keywords:
   - site
+tags:
+  - portail-de-service
 ---
 
 # Gérer les sites

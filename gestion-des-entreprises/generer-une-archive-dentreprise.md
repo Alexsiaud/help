@@ -1,3 +1,8 @@
+---
+tags:
+  - ingeneo
+---
+
 # Générer une archive d'entreprise
 
 {% hint style="info" %}

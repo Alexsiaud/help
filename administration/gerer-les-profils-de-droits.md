@@ -1,11 +1,13 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - profil de site
   - profil
   - administration
   - droits
   - accès
+tags:
+  - portail-de-service
 ---
 
 # Gérer les profils de droits

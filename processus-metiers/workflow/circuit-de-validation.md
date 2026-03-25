@@ -4,6 +4,8 @@ chatbot_keywords:
   - circuit
   - validation
   - workflow
+tags:
+  - ingeneo
 ---
 
 # Circuit de validation

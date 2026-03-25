@@ -1,3 +1,8 @@
+---
+tags:
+  - ingeneo
+---
+
 # Classeur de plan de classement
 
 ## Prérequis

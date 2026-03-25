@@ -1,3 +1,8 @@
+---
+tags:
+  - portail-de-service
+---
+
 # Créer un abonnement
 
 Pour créer un abonnement, rendez-vous dans le menu **Abonnements**, puis appuyez sur le bouton **+ Créer un abonnement.**&#x20;

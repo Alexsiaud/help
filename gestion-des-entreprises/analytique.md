@@ -1,3 +1,8 @@
+---
+tags:
+  - ingeneo
+---
+
 # Analytique
 
 ### <sup>**Prérequis & Permissions**</sup>

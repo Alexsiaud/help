@@ -1,8 +1,10 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - saisir
   - note de frais
+tags:
+  - ingeneo
 ---
 
 # Saisir une note de frais

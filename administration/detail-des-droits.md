@@ -1,8 +1,10 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - droits
   - accès
+tags:
+  - portail-de-service
 ---
 
 # Détail des droits

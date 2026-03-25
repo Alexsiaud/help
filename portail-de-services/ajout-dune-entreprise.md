@@ -1,3 +1,8 @@
+---
+tags:
+  - portail-de-service
+---
+
 # Ajout d'une entreprise
 
 {% hint style="warning" %}

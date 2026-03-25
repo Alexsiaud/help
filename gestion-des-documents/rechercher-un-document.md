@@ -1,9 +1,11 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - rechercher
   - document
   - facture
+tags:
+  - ingeneo
 ---
 
 # Rechercher un document

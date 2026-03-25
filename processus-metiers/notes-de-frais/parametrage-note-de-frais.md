@@ -1,9 +1,11 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - paramétrage
   - note de frais
   - natures
+tags:
+  - ingeneo
 ---
 
 # Paramétrage note de frais

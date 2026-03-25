@@ -1,3 +1,8 @@
+---
+tags:
+  - ingeneo
+---
+
 # Installation connecteur HotFolder
 
 Le connecteur HotFolder permet la connexion entre un répertoire de dépôt choisi d’un ordinateur ou serveur dans lequel seront déposés des documents, et le classeur de réception d’une entreprise choisie dans la plateforme.

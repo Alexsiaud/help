@@ -1,8 +1,10 @@
 ---
 priority: 3
-chatbot_keywords: 
+chatbot_keywords:
   - créer
   - tampon
+tags:
+  - ingeneo
 ---
 
 # Créer un tampon

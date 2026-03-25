@@ -1,11 +1,13 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - paramétrage
   - dropbox
   - récupération
   - documents
   - cloud
+tags:
+  - ingeneo
 ---
 
 # Paramétrage Dropbox

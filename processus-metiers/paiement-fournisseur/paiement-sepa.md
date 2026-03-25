@@ -1,9 +1,11 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - paiement
   - sepa
   - virement
+tags:
+  - ingeneo
 ---
 
 # Paiement SEPA

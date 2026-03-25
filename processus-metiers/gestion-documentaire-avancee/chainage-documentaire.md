@@ -1,9 +1,11 @@
 ---
 priority: 4
-chatbot_keywords: 
+chatbot_keywords:
   - chaînage
   - documentaire
   - bon de livraison
+tags:
+  - ingeneo
 ---
 
 # Chaînage documentaire
@@ -44,13 +46,13 @@ Assurez-vous d'avoir correctement configuré vos classeurs avant de procéder au
 
 ### Vidéo interactive :bulb:
 
-Paramétrage :&#x20;
+Paramétrage :
 
-{% @arcade/embed flowId="auFxRu9jM50djA93UQ25" url="https://app.arcade.software/share/auFxRu9jM50djA93UQ25" %}
+{% @arcade/embed url="https://app.arcade.software/share/auFxRu9jM50djA93UQ25" flowId="auFxRu9jM50djA93UQ25" %}
 
 Rapprochement :
 
-{% @arcade/embed flowId="dYhtZeHon6LGY9xlNwPj" url="https://app.arcade.software/share/dYhtZeHon6LGY9xlNwPj" %}
+{% @arcade/embed url="https://app.arcade.software/share/dYhtZeHon6LGY9xlNwPj" flowId="dYhtZeHon6LGY9xlNwPj" %}
 
 ***
 

@@ -1,9 +1,11 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - dépôt
   - manuel
   - document
+tags:
+  - ingeneo
 ---
 
 # Dépôt manuel de document
@@ -29,7 +31,7 @@ Vous disposerez :
 
 ***
 
-### <sup>**Vidéo interactive**</sup> <sup></sup><sup>💡</sup>
+### <sup>**Vidéo interactive**</sup> <sup>💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/Hk9LMNuZEjWz9lcwRaJF" flowId="Hk9LMNuZEjWz9lcwRaJF" %}
 

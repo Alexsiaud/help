@@ -1,3 +1,8 @@
+---
+tags:
+  - ingeneo
+---
+
 # Paramétrage DematBox
 
 ## Prérequis / Permissions

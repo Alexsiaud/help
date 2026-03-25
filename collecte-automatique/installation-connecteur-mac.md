@@ -1,3 +1,8 @@
+---
+tags:
+  - ingeneo
+---
+
 # Installation connecteur MAC
 
 Le connecteur MAC  permet à un utilisateur d’envoyer un ou plusieurs fichiers dans la plateforme à partir de son ordinateur MAC. Les documents envoyés se retrouveront dans la Bannette d’une entreprise sélectionnée et passeront à l’OCR automatiquement.

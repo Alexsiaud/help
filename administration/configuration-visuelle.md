@@ -1,8 +1,10 @@
 ---
 priority: 3
-chatbot_keywords: 
+chatbot_keywords:
   - logo
   - couleurs
+tags:
+  - portail-de-service
 ---
 
 # Configuration visuelle

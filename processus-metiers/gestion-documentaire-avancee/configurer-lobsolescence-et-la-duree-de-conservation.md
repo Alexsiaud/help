@@ -1,8 +1,10 @@
 ---
 priority: 3
-chatbot_keywords: 
+chatbot_keywords:
   - obsolescence
   - durée de conservation
+tags:
+  - ingeneo
 ---
 
 # Configurer l'Obsolescence et la Durée de conservation

@@ -1,9 +1,11 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - utilisateur
   - collaborateur
   - client
+tags:
+  - portail-de-service
 ---
 
 # Créer des utilisateurs
@@ -39,13 +41,13 @@ Les droits octroyés à chaque utilisateur sont paramétrables par [profils de s
 
 ### Vidéo interactive :bulb:
 
-Création utilisateur client  :
+Création utilisateur client :
 
-{% @arcade/embed flowId="nFE5LGPWOKIUPOcl3O5s" url="https://app.arcade.software/share/nFE5LGPWOKIUPOcl3O5s" %}
+{% @arcade/embed url="https://app.arcade.software/share/nFE5LGPWOKIUPOcl3O5s" flowId="nFE5LGPWOKIUPOcl3O5s" %}
 
-Création utilisateur collaborateur :&#x20;
+Création utilisateur collaborateur :
 
-{% @arcade/embed flowId="HRoqyR4NZW2v9htRUrDM" url="https://app.arcade.software/share/HRoqyR4NZW2v9htRUrDM" %}
+{% @arcade/embed url="https://app.arcade.software/share/HRoqyR4NZW2v9htRUrDM" flowId="HRoqyR4NZW2v9htRUrDM" %}
 
 ***
 

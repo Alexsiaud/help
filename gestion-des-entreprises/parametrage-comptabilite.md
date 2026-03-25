@@ -1,12 +1,14 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - saisie à 0€
   - logiciel comptable
   - code dossier
   - périodes d'exercice
   - clôture
   - paramétrages avancés
+tags:
+  - ingeneo
 ---
 
 # Paramétrage comptabilité

@@ -1,12 +1,14 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - modifier
   - document
   - facturette
   - fusionner
   - découper
   - éclater
+tags:
+  - ingeneo
 ---
 
 # Modifier un document

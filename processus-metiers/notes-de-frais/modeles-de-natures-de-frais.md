@@ -1,8 +1,10 @@
 ---
 priority: 8
-chatbot_keywords: 
+chatbot_keywords:
   - modèle
   - nature de frais
+tags:
+  - ingeneo
 ---
 
 # Modèles de natures de frais

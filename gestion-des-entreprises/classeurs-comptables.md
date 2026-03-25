@@ -1,11 +1,13 @@
 ---
 priority: 3
-chatbot_keywords: 
+chatbot_keywords:
   - classeur
   - éléments comptables
   - Activer les éléments comptables
   - Saisir les éléments comptables
   - éléments comptables obligatoires
+tags:
+  - ingeneo
 ---
 
 # Classeurs & éléments comptables
@@ -78,12 +80,12 @@ Le type de classeur ne pourra pas être modifié après création.
    1. Choisir l'ordre d'affichage
    2. Éditer le nom
    3. Choisir un journal par défaut
-7. Dans  l'onglet [**Éléments comptables**](classeurs-comptables.md#les-elements-comptables) vous pourrez activer ou non les éléments souhaités
+7. Dans l'onglet [**Éléments comptables**](classeurs-comptables.md#les-elements-comptables) vous pourrez activer ou non les éléments souhaités
 8. Cliquez sur **Enregistrer** pour valider vos paramétrages
 
 ***
 
-### &#x20;<sup>**Éditer un classeur comptable**</sup>
+### <sup>**Éditer un classeur comptable**</sup>
 
 {% hint style="info" %}
 Éditez un classeur afin d'adapter vos éléments com
@@ -96,7 +98,7 @@ Le type de classeur ne pourra pas être modifié après création.
    1. Choisir l'ordre d'affichage
    2. Éditer le nom
    3. Choisir un journal par défaut
-5. Dans  l'onglet [**Éléments comptables**](classeurs-comptables.md#les-elements-comptables) vous pourrez activer ou non les éléments souhaités
+5. Dans l'onglet [**Éléments comptables**](classeurs-comptables.md#les-elements-comptables) vous pourrez activer ou non les éléments souhaités
 6. Cliquez sur **Enregistrer** pour valider vos paramétrages
 
 ***

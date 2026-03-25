@@ -1,10 +1,12 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - initiation
   - paiement
   - virement
   - powens
+tags:
+  - ingeneo
 ---
 
 # Initiation de paiement
@@ -33,21 +35,21 @@ Le paiement fournisseur permet d'automatiser le processus de validation et de r�
 
 ### <sup>**Vidéo interactive**</sup> :bulb:
 
-Le paramétrage :&#x20;
+Le paramétrage :
 
-{% @arcade/embed flowId="ehoDQ1g59CRi3bFRcrlr" url="https://app.arcade.software/share/ehoDQ1g59CRi3bFRcrlr" %}
+{% @arcade/embed url="https://app.arcade.software/share/ehoDQ1g59CRi3bFRcrlr" flowId="ehoDQ1g59CRi3bFRcrlr" %}
 
-Edition du mode de paiement :&#x20;
+Edition du mode de paiement :
 
-{% @arcade/embed flowId="9jHQs0sygZANQ7ZhVBI0" url="https://app.arcade.software/share/9jHQs0sygZANQ7ZhVBI0" %}
+{% @arcade/embed url="https://app.arcade.software/share/9jHQs0sygZANQ7ZhVBI0" flowId="9jHQs0sygZANQ7ZhVBI0" %}
 
-La mise au paiement :&#x20;
+La mise au paiement :
 
-{% @arcade/embed flowId="k9z0fwQF8aT9J3SrcFqS" url="https://app.arcade.software/share/k9z0fwQF8aT9J3SrcFqS" %}
+{% @arcade/embed url="https://app.arcade.software/share/k9z0fwQF8aT9J3SrcFqS" flowId="k9z0fwQF8aT9J3SrcFqS" %}
 
-Le paiement :&#x20;
+Le paiement :
 
-{% @arcade/embed flowId="Ed8W38ftSyveLJWKp2YI" url="https://app.arcade.software/share/Ed8W38ftSyveLJWKp2YI" %}
+{% @arcade/embed url="https://app.arcade.software/share/Ed8W38ftSyveLJWKp2YI" flowId="Ed8W38ftSyveLJWKp2YI" %}
 
 ### <sup>**Préparer l'environnement**</sup>
 

@@ -1,4 +1,9 @@
-# Gestion des BNC
+---
+tags:
+  - ingeneo
+---
+
+# Gestion des BNC - Rapprochement de facture
 
 ## 1 – Paramétrage du type de comptabilité
 

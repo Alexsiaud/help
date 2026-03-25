@@ -1,10 +1,12 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - paramétrage
   - jedeclare
   - récupération
   - flux
+tags:
+  - ingeneo
 ---
 
 # Paramétrage JeDéclare

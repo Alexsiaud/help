@@ -1,10 +1,12 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - dépôt
   - paramétrage
   - mouvements
   - banque
+tags:
+  - ingeneo
 ---
 
 # Paramétrage EBICS

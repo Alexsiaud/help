@@ -1,3 +1,8 @@
+---
+tags:
+  - ingeneo
+---
+
 # Masque de saisie
 
 ### <sup>**Prérequis & Permissions**</sup>

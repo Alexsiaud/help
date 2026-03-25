@@ -1,3 +1,8 @@
+---
+tags:
+  - ingeneo
+---
+
 # Annexes comptables
 
 ### Prérequis et permissions

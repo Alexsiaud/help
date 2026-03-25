@@ -1,8 +1,10 @@
 ---
 priority: 3
-chatbot_keywords: 
+chatbot_keywords:
   - statuts
   - documents
+tags:
+  - ingeneo
 ---
 
 # Configurer les statuts de documents

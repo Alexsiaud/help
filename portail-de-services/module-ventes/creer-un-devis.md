@@ -1,3 +1,8 @@
+---
+tags:
+  - portail-de-service
+---
+
 # Créer un devis
 
 Pour créer un devis rendez-vous dans la rubrique **Devis,** puis cliquez sur **+ Ajouter un devis**.&#x20;

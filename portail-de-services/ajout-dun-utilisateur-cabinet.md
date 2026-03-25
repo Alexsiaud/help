@@ -1,3 +1,8 @@
+---
+tags:
+  - portail-de-service
+---
+
 # Ajout d'un utilisateur cabinet
 
 {% hint style="warning" %}

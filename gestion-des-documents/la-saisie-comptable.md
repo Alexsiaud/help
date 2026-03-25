@@ -1,9 +1,11 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - saisie
   - comptable
   - document
+tags:
+  - ingeneo
 ---
 
 # La saisie comptable
@@ -18,7 +20,7 @@ Seul un utilisateur ayant le droit [Enregistrer les documents](../administration
 
 ### <sup>**Contexte & Recommandations**</sup>
 
-La saisie comptable permet de traiter les documents présents dans les bannettes en leur attribuant les comptes et [éléments comptables](../gestion-des-entreprises/classeurs-comptables.md) appropriés.&#x20;
+La saisie comptable permet de traiter les documents présents dans les bannettes en leur attribuant les comptes et [éléments comptables](../gestion-des-entreprises/classeurs-comptables.md) appropriés.
 
 Une fois la saisie faite, le document est exporté vers le logiciel comptable de façon automatique (à l’exception des exports « ON DEMAND »).
 
@@ -54,7 +56,7 @@ Vous pouvez sélectionner un autre document de la bannette directement depuis ce
 
 ### <sup>**Saisir les éléments comptables**</sup>
 
-La plupart des éléments comptables seront renseignés grâce à l'analyse OCR. Par défaut les dates de facture et d'échéance, ainsi que le numéro de facture seront affichés.&#x20;
+La plupart des éléments comptables seront renseignés grâce à l'analyse OCR. Par défaut les dates de facture et d'échéance, ainsi que le numéro de facture seront affichés.
 
 Les paramétrages de vos [classeurs & référentiels](../gestion-des-entreprises/referentiels-comptables.md) vous permettrons d'afficher et de renseigner d'autres éléments comptables.
 
@@ -77,7 +79,7 @@ Si le [compte tiers](../gestion-des-entreprises/referentiels-comptables.md) est 
   5. Cliquez sur **Masque de saisie** pour compléter les informations du compte tiers
   6. Cliquez sur **Enregistrer** en bas de la page. Seuls les **code** et **intitulé** du tiers sont obligatoires à la création, le tiers sera créé en comptabilité à l’intégration de l’écriture
 
-### <sup>**Vidéo interactive**</sup> <sup></sup><sup>💡</sup>
+### <sup>**Vidéo interactive**</sup> <sup>💡</sup>
 
 {% @arcade/embed url="https://app.arcade.software/share/QKoNFPdDXr9oqr8YKxXU" flowId="QKoNFPdDXr9oqr8YKxXU" %}
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - portail-de-service
+---
+
 # Créer une facture
 
 Depuis le menu **Factures** vous avez la possibilité de créer une facture ou un avoir. Visualisez à tout moment le statut de votre facture (Brouillon, à payer, en retard, payé, justifié, archivé, en attente et annulé)&#x20;

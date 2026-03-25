@@ -1,3 +1,8 @@
+---
+tags:
+  - ingeneo
+---
+
 # Application mobile
 
 ### <sup>**Prérequis & Permissions**</sup>

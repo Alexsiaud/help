@@ -3,6 +3,8 @@ priority: 3
 chatbot_keywords:
   - Welyb
   - MyCompanyFile
+tags:
+  - portail-de-service
 ---
 
 # API tierces

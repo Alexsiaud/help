@@ -4,6 +4,8 @@ chatbot_keywords:
   - saisie
   - banque
   - mouvements
+tags:
+  - ingeneo
 ---
 
 # Saisie de banque

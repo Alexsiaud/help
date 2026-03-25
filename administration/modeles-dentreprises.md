@@ -1,9 +1,11 @@
 ---
 priority: 5
-chatbot_keywords: 
+chatbot_keywords:
   - modèles
-  - entreprise  
+  - entreprise
   - gestion
+tags:
+  - portail-de-service
 ---
 
 # Modèles d'entreprises

@@ -6,6 +6,8 @@ chatbot_keywords:
   - récupération
   - documents
   - cloud
+tags:
+  - ingeneo
 ---
 
 # Paramétrage Google Drive

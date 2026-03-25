@@ -1,10 +1,12 @@
 ---
 priority: 6
-chatbot_keywords: 
+chatbot_keywords:
   - paramétrage
   - connecteur
   - marchand
   - scrapping
+tags:
+  - ingeneo
 ---
 
 # Paramétrage connecteur marchand

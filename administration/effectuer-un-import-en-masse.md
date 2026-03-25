@@ -4,6 +4,8 @@ chatbot_keywords:
   - import
   - masse
   - entreprise
+tags:
+  - portail-de-service
 ---
 
 # Effectuer un import en masse
