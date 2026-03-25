@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Enrôlement client
 
 {% hint style="info" %}
