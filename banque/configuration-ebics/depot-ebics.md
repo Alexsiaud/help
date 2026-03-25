@@ -5,6 +5,22 @@ chatbot_keywords:
   - dépôt
   - manuel
   - mouvements bancaires
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: false
 tags:
   - ingeneo
 ---

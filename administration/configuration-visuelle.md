@@ -3,6 +3,22 @@ priority: 3
 chatbot_keywords:
   - logo
   - couleurs
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: false
 tags:
   - portail-de-service
 ---
