@@ -8,7 +8,9 @@ hidden: true
 Seul un **Administrateur** a la possibilité d'accéder à l'enrôlement des clients sur Ingeneo.&#x20;
 {% endhint %}
 
-Depuis le Menu **Paramétres** accédez à **Mandats F.E.** Avant de pouvoir procéder à l'enrôlement un signataire doit obligatoirement être renseigné.&#x20;
+Depuis le Menu **Paramètres**, accédez à **Mandats F.E.**&#x20;
+
+Avant de pouvoir procéder à l'enrôlement un signataire doit obligatoirement être renseigné.&#x20;
 
 {% stepper %}
 {% step %}
@@ -36,7 +38,7 @@ Sélectionnez un dossier présent sur votre plateforme Ingeneo en passant simple
 
 Sélectionnez l'entreprise concernée, les coordonnés du signataire de l'entreprise et le signataire cabinet (si pluralité), puis envoyez en signature.&#x20;
 
-Votre mandat est automatiquement envoyé par mail au client. La procédure de signature électronique Yousign est très simple.&#x20;
+Votre mandat est automatiquement envoyé par mail au client. La procédure de signature électronique YouSign est très simple.&#x20;
 
 Vous avez la possibilité de visualiser le mandat généré.&#x20;
 
@@ -46,9 +48,9 @@ Vous avez la possibilité de visualiser le mandat généré.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
-Le bouton d'actions multiples ![](<../.gitbook/assets/image (3).png>) vous permets d'accéder à l'option "Envoi en masse signature mandat PA".&#x20;
+Le bouton d'actions multiples ![](<../.gitbook/assets/image (3).png>) vous permet d'accéder à l'option "Envoi en masse signature mandat PA".&#x20;
 
-Téléchargez ensuite le modèle au format excel à compléter selon les règles d'import mentionnés. Vous pouvez ensuite importer vos donnés à partir du modèle précédemment téléchargé.&#x20;
+Téléchargez ensuite le modèle au format Excel à compléter selon les règles d'import mentionnés. Vous pouvez ensuite importer vos données à partir du modèle précédemment téléchargé.&#x20;
 
 {% hint style="info" %}
 Une fois votre fichier importé, les demandes de signature seront envoyées progressivement par e-mail.
@@ -58,7 +60,7 @@ Une fois votre fichier importé, les demandes de signature seront envoyées prog
 
 3. **Dépôt d'un mandat signé**&#x20;
 
-Le bouton d'actions multiples vous permets également de déposer directement un mandat deja signé. Vous pourrez ainsi sélectionner depuis votre poste un fichier PDF à télécharger.&#x20;
+Le bouton d'actions multiples vous permet également de déposer directement un mandat déjà signé. Vous pourrez ainsi sélectionner depuis votre poste un fichier PDF à télécharger.&#x20;
 
 
 {% endstep %}
@@ -70,17 +72,14 @@ Accédez depuis le bouton d'actions multiples à l'ensemble des mandats restant 
 
 <div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
-Il sera ici nécessaire de suivre la procédure de signature élétronique YouSign.&#x20;
+Il sera ici nécessaire de suivre la procédure de signature électronique YouSign.&#x20;
 {% endstep %}
 
 {% step %}
 ### Confirmation d'enrôlement
 
-Lors de la signature des deux parties un tag apparait sur votre plateforme Ingeneo à droite du logo
+Lors de la signature des deux parties, un tag apparait sur votre plateforme Ingeneo à droite du logo
 
 ![](<../.gitbook/assets/image (6).png>)
-
-
 {% endstep %}
 {% endstepper %}
-
