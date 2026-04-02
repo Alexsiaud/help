@@ -29,7 +29,7 @@ tags:
 
 Depuis le portail de services, rendez-vous dans le menu **Mon cabinet**.
 
-{% @arcade/embed flowId="INYrQtWGbNSw7hUk3T2R" url="https://app.arcade.software/share/INYrQtWGbNSw7hUk3T2R" %}
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
