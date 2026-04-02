@@ -38,7 +38,7 @@ A ce stade, le devis est en brouillon. Il peut toujours être modifié en cliqua
 
 Une fois Enregistré, le devis passe au statut **Envoyé**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 En cliquant sur votre devis, plusieurs actions peuvent être réalisées :&#x20;
 

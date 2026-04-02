@@ -39,10 +39,6 @@ Votre client reçoit instantanément un email comprenant un identifiant et mot d
 Attention : il est possible que cet email arrive dans ses spams, il faut donc autoriser l'email.
 {% endhint %}
 
-### Vidéo interactive :bulb:
-
-{% @arcade/embed flowId="kgfDFYdSGO3X8IbpXldS" url="https://app.arcade.software/share/kgfDFYdSGO3X8IbpXldS" %}
-
 ***
 
 ### Créer ou modifier un profil/rôle&#x20;
@@ -64,8 +60,3 @@ Insérez en premier le nom que vous souhaitez donner au profil. Ensuite plusieur
 3. **Information de l'établissement** : si vous souhaitez laisser la possibilité à vos clients de lire ou éditer les informations de l'établissement (adresse, nom, etc.).
 
 Vous pouvez désormais déterminer les différents accès aux modules. Pour sauvegarder ce profil, cliquez sur "Valider" en bas à droite.
-
-### Vidéo interactive :bulb:
-
-{% @arcade/embed flowId="IEIQHpV4OOMyy5ll2aEI" url="https://app.arcade.software/share/IEIQHpV4OOMyy5ll2aEI" %}
-

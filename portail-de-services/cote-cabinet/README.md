@@ -1,0 +1,5 @@
+# Côté Cabinet
+
+
+
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Découvrez comment ajouter une entreprise sur le Portail de Services</td><td><a href="ajout-dune-entreprise.md">ajout-dune-entreprise.md</a></td><td data-object-fit="contain"><a href="../../.gitbook/assets/Capture d&#x27;écran 2026-04-02 145731.png">Capture d'écran 2026-04-02 145731.png</a></td></tr><tr><td>Découvrez comment ajouter un utilisateur interne à votre cabinet</td><td><a href="ajout-dun-utilisateur-cabinet.md">ajout-dun-utilisateur-cabinet.md</a></td><td data-object-fit="contain"><a href="../../.gitbook/assets/Capture d&#x27;écran 2026-04-02 145345.png">Capture d'écran 2026-04-02 145345.png</a></td></tr><tr><td>Découvrez comment ajouter et gérer les utilisateurs client</td><td><a href="ajout-dun-utilisateur-client.md">ajout-dun-utilisateur-client.md</a></td><td data-object-fit="contain"><a href="../../.gitbook/assets/Capture d&#x27;écran 2026-04-02 145608.png">Capture d'écran 2026-04-02 145608.png</a></td></tr></tbody></table>

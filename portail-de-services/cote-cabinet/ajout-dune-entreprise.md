@@ -29,11 +29,13 @@ tags:
 
 Depuis le portail de services, rendez-vous dans le menu **Mon cabinet**.
 
+{% @arcade/embed flowId="INYrQtWGbNSw7hUk3T2R" url="https://app.arcade.software/share/INYrQtWGbNSw7hUk3T2R" %}
+
 {% stepper %}
 {% step %}
 ### Ajouter une entreprise
 
-* Cliquez sur le bouton **Ajouter**
+* Cliquez sur le bouton "**Ajouter un client"**
 * Dans le champ **Nom de l’entreprise**, saisir le nom de l’entreprise, puis cliquez sur **Rechercher**.
 * Sélectionnez dans la liste, l’entreprise à intégrer.
 * Les champs se remplissent automatiquement, à l’exception du champ **Secteur d’activité** (obligatoire).&#x20;
@@ -64,14 +66,6 @@ Depuis le portail de services, rendez-vous dans le menu **Mon cabinet**.
 * Cliquez sur **Finaliser la création.**
 {% endstep %}
 {% endstepper %}
-
-***
-
-### <sup>Vidéo interactive 💡</sup>
-
-{% @arcade/embed flowId="uUi5KVODvtazufZ8J4I6" url="https://app.arcade.software/share/uUi5KVODvtazufZ8J4I6" %}
-
-***
 
 {% hint style="warning" %}
 ⚠️ L'utilisateur doit être créé et activé dans l'entreprise pour apparaître dans la liste déroulante.

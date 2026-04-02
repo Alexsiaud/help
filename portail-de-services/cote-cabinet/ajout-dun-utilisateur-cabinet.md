@@ -44,9 +44,3 @@ Depuis le portail de services, rendez-vous dans le menu **Mon cabinet**.
 {% endstepper %}
 
 ***
-
-### <sup>Vidéo interactive 💡</sup>
-
-{% @arcade/embed flowId="1Da6tqk1XteE0mZR1p19" url="https://app.arcade.software/share/1Da6tqk1XteE0mZR1p19" %}
-
-***

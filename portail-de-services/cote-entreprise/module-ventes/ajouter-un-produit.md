@@ -29,7 +29,7 @@ Depuis la rubrique **Liste des produits**, appuyez sur le bouton **+ Ajouter un 
 
 Remplissez la fiche de personnalisation de votre produit (nom, unité, description, etc.), puis cliquez sur **Ajouter**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
