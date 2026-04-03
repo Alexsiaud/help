@@ -65,7 +65,7 @@
     * [Configurer l'Obsolescence et la Durée de conservation](processus-metiers/gestion-documentaire-avancee/configurer-lobsolescence-et-la-duree-de-conservation.md)
 * [PORTAIL DE SERVICES](portail-de-services/README.md)
   * [Côté Cabinet](portail-de-services/cote-cabinet/README.md)
-    * [Ajout d'une entreprise](portail-de-services/cote-cabinet/ajout-dune-entreprise.md)
+    * [Comment ajouter une entreprise](portail-de-services/cote-cabinet/comment-ajouter-une-entreprise.md)
     * [Ajout d'un utilisateur cabinet](portail-de-services/cote-cabinet/ajout-dun-utilisateur-cabinet.md)
     * [Ajout d'un utilisateur client](portail-de-services/cote-cabinet/ajout-dun-utilisateur-client.md)
   * [Côté Entreprise](portail-de-services/cote-entreprise/README.md)
