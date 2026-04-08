@@ -66,7 +66,7 @@
 * [PORTAIL DE SERVICES](portail-de-services/README.md)
   * [Côté Cabinet](portail-de-services/cote-cabinet/README.md)
     * [Comment ajouter une entreprise](portail-de-services/cote-cabinet/comment-ajouter-une-entreprise.md)
-    * [Comment jouter un utilisateur cabinet](portail-de-services/cote-cabinet/comment-jouter-un-utilisateur-cabinet.md)
+    * [Comment ajouter un utilisateur cabinet](portail-de-services/cote-cabinet/comment-ajouter-un-utilisateur-cabinet.md)
     * [Comment ajouter un utilisateur client](portail-de-services/cote-cabinet/comment-ajouter-un-utilisateur-client.md)
   * [Côté Entreprise](portail-de-services/cote-entreprise/README.md)
     * [Module ventes](portail-de-services/cote-entreprise/module-ventes/README.md)
