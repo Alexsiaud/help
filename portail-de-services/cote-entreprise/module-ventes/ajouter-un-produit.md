@@ -31,6 +31,12 @@ Remplissez la fiche de personnalisation de votre produit (nom, unité, descripti
 
 <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
+**Import en masse des produits**
+
+Cliquez sur "Importer des produits", téléchargez le modèle d'import à compléter en respectant les prérequis listés lors du téléchargement.
+
+En passant à l'étape suivante, vous aurez la possibilité d'importer votre liste.&#x20;
+
 ***
 
 ### <sup>**Questions fréquentes**</sup>
