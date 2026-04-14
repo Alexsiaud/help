@@ -31,16 +31,15 @@ Vous retrouverez ci-dessous le détail de chaque droit :
 
 ### <sup>Paramétrage de l'entreprise</sup>
 
-| Droit                                                           | Description                                                                                                                                                                         |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Autoriser l'accès au paramétrage de l'entreprise                | Active l'ensemble des droits                                                                                                                                                        |
-| Autoriser l'accès au paramétrage des informations générales     | Autorise l'utilisateur à la modification des informations générales (Nom de l'entreprise, SIREN, coordonnés…)                                                                       |
-| Autoriser l'accès au paramétrage de la comptabilité             | Autorise l'utilisateur à modifier le paramétrage des éléments comptable (logiciel, code dossier, paramétrage général et date d'exercice…) et au paramétrage des classeurs comptable |
-| Autoriser l'accès au paramétrage de la facturation électronique | Active les paramètres liés à la réception/émission de factures dématérialisées                                                                                                      |
-| Autoriser l'accès au paramétrage du plan classement             | Autorise l'utilisateur à la création et l'édition des classeurs de plan de classement                                                                                               |
-| Autoriser l'accès au paramétrage des processus métier           | Autorise l'utilisateur à la création et à l'édition de l'ensemble des processus métier présents sur la plateforme                                                                   |
-| Autoriser l'accès au paramétrage de la collecte                 | Autorise l'utilisateur à la création et à l'édition de l'ensemble des canaux de collecte présents sur la plateforme                                                                 |
-| Autoriser l'accès à l'administration                            | Autorise l'utilisateur à accéder et modifier le paramétrage des utilisateurs de la plateforme, les profils d'entreprises et donne l'accès à l'archivage de l'entreprise             |
+| Droit                                                       | Description                                                                                                                                                                         |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Autoriser l'accès au paramétrage de l'entreprise            | Active l'ensemble des droits liés au paramétrage de l'entreprise                                                                                                                    |
+| Autoriser l'accès au paramétrage des informations générales | Autorise l'utilisateur à la modification des informations générales (Nom de l'entreprise, SIREN, coordonnés…)                                                                       |
+| Autoriser l'accès au paramétrage de la comptabilité         | Autorise l'utilisateur à modifier le paramétrage des éléments comptable (logiciel, code dossier, paramétrage général et date d'exercice…) et au paramétrage des classeurs comptable |
+| Autoriser l'accès au paramétrage du plan classement         | Autorise l'utilisateur à la création et l'édition des classeurs de plan de classement                                                                                               |
+| Autoriser l'accès au paramétrage des processus métier       | Autorise l'utilisateur à la création et à l'édition de l'ensemble des processus métier présents sur la plateforme                                                                   |
+| Autoriser l'accès au paramétrage de la collecte             | Autorise l'utilisateur à la création et à l'édition de l'ensemble des canaux de collecte présents sur la plateforme                                                                 |
+| Autoriser l'accès à l'administration                        | Autorise l'utilisateur à accéder et modifier le paramétrage des utilisateurs de la plateforme, les profils d'entreprises et donne l'accès à l'archivage de l'entreprise             |
 
 ### <sup>Traitements sur l'entreprise</sup>
 
@@ -56,10 +55,12 @@ Vous retrouverez ci-dessous le détail de chaque droit :
 
 ### <sup>Statistiques des sites et des entreprises</sup>
 
-| Droit                                                                                                     | Description                                                                                                       |
-| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Autoriser l'accès aux statistiques de productivité des entreprises                                        | Permet à l'utilisateur de visualiser les statistiques                                                             |
-| Autoriser la création de tableaux de bord personnels sur les statistiques de productivité des entreprises | Donne le droit à l'utilisateur de créer des tableaux de bord sur les statistiques de productivité des entreprises |
+| Droit                                                                                                     | Description                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Autoriser l'accès aux statistiques de productivité des entreprises                                        | Permet à l'utilisateur de visualiser les statistiques des entreprises auxquelles il a accès                                             |
+| Autoriser l'accès aux statistiques de productivité des sites                                              | Permet à l'utilisateur de visualiser les statistiques des sites auxquels il a accès                                                     |
+| Autoriser la création de tableaux de bord personnels sur les statistiques de productivité des entreprises | Donne le droit à l'utilisateur de créer des tableaux de bord sur les statistiques de productivité des entreprises auxquelles il a accès |
+| Autoriser la création de tableaux de bord personnels sur les statistiques de productivité des sites       | Donne le droit à l'utilisateur de créer des tableaux de bord sur les statistiques de productivité des sites auxquels il a accès         |
 
 ### <sup>Droits sur les classeurs</sup>
 
