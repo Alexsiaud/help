@@ -76,6 +76,8 @@
       * [Créer une facture](portail-de-services/cote-entreprise/module-ventes/creer-une-facture.md)
       * [Créer un abonnement](portail-de-services/cote-entreprise/module-ventes/creer-un-abonnement.md)
     * [Module Achats](portail-de-services/cote-entreprise/module-achats.md)
+    * [Pack Standard : dépôt, recherche de document et GED](portail-de-services/cote-entreprise/pack-standard-depot-recherche-de-document-et-ged/README.md)
+      * [Accédez à votre espace entreprise et comprendre son interface](portail-de-services/cote-entreprise/pack-standard-depot-recherche-de-document-et-ged/accedez-a-votre-espace-entreprise-et-comprendre-son-interface.md)
 * [INGENEOFACT](ingeneofact/README.md)
   * [Activer IngeneoFact](ingeneofact/activer-ingeneofact.md)
   * [Prérequis de démarrage](ingeneofact/prerequis-de-demarrage.md)
