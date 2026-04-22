@@ -79,6 +79,7 @@
       * [Accédez à votre espace entreprise et comprendre son interface](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/accedez-a-votre-espace-entreprise-et-comprendre-son-interface.md)
       * [Comment déposer vos documents](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/comment-deposer-vos-documents.md)
       * [Comment rechercher une facture](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/comment-rechercher-une-facture.md)
+      * [Comment valider ou refuser une facture](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/comment-valider-ou-refuser-une-facture.md)
 * [INGENEOFACT](ingeneofact/README.md)
   * [Activer IngeneoFact](ingeneofact/activer-ingeneofact.md)
   * [Prérequis de démarrage](ingeneofact/prerequis-de-demarrage.md)
