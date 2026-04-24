@@ -76,7 +76,7 @@
       * [Créer une facture](portail-de-services/cote-entreprise/module-ventes/creer-une-facture.md)
       * [Créer un abonnement](portail-de-services/cote-entreprise/module-ventes/creer-un-abonnement.md)
     * [Accueil et Gestion de documents](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/README.md)
-      * [Accédez à votre espace entreprise et comprendre son interface](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/accedez-a-votre-espace-entreprise-et-comprendre-son-interface.md)
+      * [Accéder à votre espace entreprise et comprendre son interface](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/acceder-a-votre-espace-entreprise-et-comprendre-son-interface.md)
       * [Comment déposer vos documents](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/comment-deposer-vos-documents.md)
       * [Comment valider ou refuser une facture](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/comment-valider-ou-refuser-une-facture.md)
       * [Comment rechercher une facture](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/comment-rechercher-une-facture.md)
