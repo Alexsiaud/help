@@ -19,7 +19,7 @@ tags:
   - portail-de-service
 ---
 
-# Paramétrage
+# Paramétrage du module de ventes
 
 Depuis le menu Paramètres du module de ventes, vous avez la possibilité de modifier les masques de vos **devis**, **factures** et **avoirs** (numérotation des documents, informations du document, design,  mentions légales, etc.).
 
@@ -38,7 +38,7 @@ Depuis le menu Paramètres du module de ventes, vous avez la possibilité de mod
 
 Vous pouvez créer une **annexe** depuis le menu Annexes et la rattacher par défaut à vos devis, factures et avoirs.&#x20;
 
-{% @arcade/embed flowId="TsmbNZXsrB700htJjnQ1" url="https://app.arcade.software/share/TsmbNZXsrB700htJjnQ1" %}
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

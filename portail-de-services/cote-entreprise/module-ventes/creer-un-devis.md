@@ -21,7 +21,7 @@ tags:
 
 # Créer un devis
 
-Pour créer un devis rendez-vous dans la rubrique **Devis,** puis cliquez sur **+ Ajouter un devis**.&#x20;
+Pour créer un devis rendez-vous dans la rubrique **Devis,** puis cliquez sur **+ Créer un devis**.&#x20;
 
 Les informations suivantes vous seront demandées :&#x20;
 
@@ -29,8 +29,6 @@ Les informations suivantes vous seront demandées :&#x20;
 * Liste des articles : plusieurs produits peuvent être ajoutés. Vous retrouverez dans la liste les produits précédemment créés. Vous pouvez appliquer des remises par ligne ou sur le global.&#x20;
 * Détail du paiement.
 * Pied de page : mention spéciales, cgv, note de pied de page, annexes.&#x20;
-
-{% @arcade/embed flowId="dwl6lmZK3Jszo7ZL8WCk" url="https://app.arcade.software/share/dwl6lmZK3Jszo7ZL8WCk" %}
 
 Cliquez sur **Enregistrer et prévisualiser** afin de générer le devis. Vous y retrouverez les couleurs et l'annexe ajoutée précédemment.&#x20;
 

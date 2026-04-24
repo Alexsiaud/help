@@ -70,7 +70,7 @@
     * [Comment ajouter un utilisateur client](portail-de-services/cote-cabinet/comment-ajouter-un-utilisateur-client.md)
   * [Côté Entreprise](portail-de-services/cote-entreprise/README.md)
     * [Module ventes](portail-de-services/cote-entreprise/module-ventes/README.md)
-      * [Paramétrage](portail-de-services/cote-entreprise/module-ventes/parametrage.md)
+      * [Paramétrage du module de ventes](portail-de-services/cote-entreprise/module-ventes/parametrage-du-module-de-ventes.md)
       * [Ajouter un produit](portail-de-services/cote-entreprise/module-ventes/ajouter-un-produit.md)
       * [Créer un devis](portail-de-services/cote-entreprise/module-ventes/creer-un-devis.md)
       * [Créer une facture](portail-de-services/cote-entreprise/module-ventes/creer-une-facture.md)
