@@ -1,4 +1,4 @@
-# Accéder à votre espace entreprise et comprendre son interface
+# Comprendre votre espace entreprise
 
 ### 1. Accéder à votre espace
 
