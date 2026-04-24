@@ -16,7 +16,7 @@ Les éléments suivants sont **obligatoires** pour retrouver les factures édit�
 {% step %}
 ### Aller dans le menu des paramétrages comptables
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -24,7 +24,7 @@ Les éléments suivants sont **obligatoires** pour retrouver les factures édit�
 
 Il faudra taper le journal de vente dans le champs dédié :
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

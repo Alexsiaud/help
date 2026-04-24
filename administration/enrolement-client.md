@@ -18,7 +18,7 @@ Les coordonnés d'un signataire ne peuvent plus être modifiés après sa créat
 
 Appuyez sur le bouton "+ Ajouter" puis renseignez l'ensemble des champs demandés
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -42,7 +42,7 @@ Vous avez la possibilité de visualiser le mandat généré.&#x20;
 
 2. **Envoi en masse**&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Le bouton d'actions multiples ![](<../.gitbook/assets/image (3).png>) vous permet d'accéder à l'option "Envoi en masse signature mandat PA".&#x20;
 

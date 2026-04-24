@@ -31,7 +31,7 @@ Cliquer sur « Connecteur MAC ».&#x20;
 
 Sélectionner et installer l’application « INGENEO PushDoc » depuis l’Apple Store.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Saisir l’URL de la plateforme dans le champ « URL base de connexions au service Web ». L’information se trouve en haut dans la barre de navigation internet lorsque la plateforme est ouverte.&#x20;
 
