@@ -22,9 +22,9 @@ Appuyez sur le bouton "+ Ajouter" puis renseignez l'ensemble des champs demandé
 {% endstep %}
 
 {% step %}
-### Enrôlement
+### Signature du mandat
 
-Depuis le menu Enrôlement plusieurs méthodes d'enrôlement sont disponibles.&#x20;
+Depuis le menu Enrôlement plusieurs méthodes de d'envoi sont disponibles.&#x20;
 
 
 
@@ -42,7 +42,7 @@ Vous avez la possibilité de visualiser le mandat généré.&#x20;
 
 2. **Envoi en masse**&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Le bouton d'actions multiples ![](<../.gitbook/assets/image (3).png>) vous permet d'accéder à l'option "Envoi en masse signature mandat PA".&#x20;
 
@@ -72,9 +72,9 @@ Il sera ici nécessaire de suivre la procédure de signature électronique YouSi
 {% endstep %}
 
 {% step %}
-### Confirmation d'enrôlement
+### Confirmation de signature
 
-Lors de la signature des deux parties, un tag apparait sur votre plateforme Ingeneo à droite du logo
+Lors de la signature des deux parties, un tag apparait sur votre plateforme Ingeneo à droite du logo.
 
 ![](<../.gitbook/assets/image (6).png>)
 {% endstep %}

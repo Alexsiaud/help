@@ -16,7 +16,7 @@ Les éléments suivants sont **obligatoires** pour retrouver les factures édit�
 {% step %}
 ### Aller dans le menu des paramétrages comptables
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
