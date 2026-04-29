@@ -2,7 +2,7 @@
 
 Retrouvez vos factures en attente de validation dans votre espace "**Vos actions prioritaires**".&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Validation de la facture
 
@@ -14,4 +14,4 @@ Si un circuit de validation est mis en place sur votre espace, celle-ci suivra l
 
 En cas de refus, un motif devra être selectionné parmi ceux proposés dans la liste déroulante.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

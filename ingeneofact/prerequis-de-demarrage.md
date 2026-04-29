@@ -16,7 +16,7 @@ Les éléments suivants sont **obligatoires** pour retrouver les factures édit�
 {% step %}
 ### Aller dans le menu des paramétrages comptables
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -24,7 +24,7 @@ Les éléments suivants sont **obligatoires** pour retrouver les factures édit�
 
 Il faudra taper le journal de vente dans le champs dédié :
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -32,7 +32,7 @@ Il faudra taper le journal de vente dans le champs dédié :
 
 Par défaut l'option **Transférer les factures / avoirs en comptabilité dès finalisation est coché**, veillez à ce que ce soit bien le cas
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -42,7 +42,7 @@ Par défaut l'option **Transférer les factures / avoirs en comptabilité dès f
 
 Choisissez dans le **menu déroulant** le classeur dans lequel sur Ingeneo les factures/avoirs seront déposés
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -50,7 +50,7 @@ Choisissez dans le **menu déroulant** le classeur dans lequel sur Ingeneo les f
 
 Via le bouton **Récupérer comptes tiers INGENEO** vous pourrez créer automatiquement les contacts avec leur compte tiers associés (et les comptes collectifs si utilisés)
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -58,7 +58,7 @@ Via le bouton **Récupérer comptes tiers INGENEO** vous pourrez créer automati
 
 Via le bouton **Récupérer comptes tiers INGENEO** vous pourrez créer les comptes produits présents sur Ingeneo
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -86,7 +86,7 @@ Les éléments suivants sont **obligatoires** pour retrouver les factures édit�
 {% step %}
 ### Aller dans le menu Mes produits
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
