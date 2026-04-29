@@ -84,7 +84,7 @@ Lors de la signature des deux parties, un tag apparait sur votre plateforme Inge
 
 Une fois le mandat signé par les deux parties, il vous reste une dernière étape.&#x20;
 
-Rendez-vous dans le menu **Paramètres** puis **Mandats F.E**. et retrouvez ici vos mandas  signés.
+Rendez-vous dans le menu **Paramètres** puis **Mandats F.E**. et retrouvez ici vos mandats  signés.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
