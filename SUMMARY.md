@@ -107,4 +107,5 @@
   * [Gestion de votre profil](divers/gestion-de-votre-profil.md)
   * [Raccourcis clavier](divers/raccourcis-clavier.md)
   * [Export des écritures On Demand](divers/export-des-ecritures-on-demand.md)
+  * [Mes formations - Espace Entreprise](divers/mes-formations-espace-entreprise.md)
 * [FAQ](faq.md)
