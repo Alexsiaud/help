@@ -107,5 +107,4 @@
   * [Gestion de votre profil](divers/gestion-de-votre-profil.md)
   * [Raccourcis clavier](divers/raccourcis-clavier.md)
   * [Export des écritures On Demand](divers/export-des-ecritures-on-demand.md)
-  * [Mes formations - Espace Cabinet](divers/mes-formations-espace-cabinet.md)
 * [FAQ](faq.md)
