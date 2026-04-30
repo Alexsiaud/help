@@ -18,7 +18,7 @@ Les coordonnés d'un signataire ne peuvent plus être modifiés après sa créat
 
 Appuyez sur le bouton "+ Ajouter" puis renseignez l'ensemble des champs demandés
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -42,9 +42,9 @@ Vous avez la possibilité de visualiser le mandat généré.&#x20;
 
 2. **Envoi en masse**&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-Le bouton d'actions multiples ![](<../.gitbook/assets/image (3) (1).png>) vous permet d'accéder à l'option "Envoi en masse signature mandat PA".&#x20;
+Le bouton d'actions multiples ![](<../.gitbook/assets/image (3) (1) (1).png>) vous permet d'accéder à l'option "Envoi en masse signature mandat PA".&#x20;
 
 Téléchargez ensuite le modèle au format Excel à compléter selon les règles d'import mentionnés. Vous pouvez ensuite importer vos données à partir du modèle précédemment téléchargé.&#x20;
 
@@ -66,7 +66,7 @@ Le bouton d'actions multiples vous permet également de déposer directement un 
 
 Accédez depuis le bouton d'actions multiples à l'ensemble des mandats restant à signer côté cabinet.&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Il sera ici nécessaire de suivre la procédure de signature électronique YouSign.&#x20;
 {% endstep %}
@@ -76,7 +76,7 @@ Il sera ici nécessaire de suivre la procédure de signature électronique YouSi
 
 Lors de la signature des deux parties, un tag apparait sur votre plateforme Ingeneo à droite du logo.
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 {% endstep %}
 
 {% step %}
@@ -86,13 +86,13 @@ Une fois le mandat signé par les deux parties, il vous reste une dernière éta
 
 Rendez-vous dans le menu **Paramètres** puis **Mandats F.E**. et retrouvez ici vos mandats  signés.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-Pour procéder à l'enrôlement, cliquez sur le bouton vert ![](<../.gitbook/assets/image (1).png>), puis renseignez les informations sur l'entreprise.&#x20;
+Pour procéder à l'enrôlement, cliquez sur le bouton vert ![](<../.gitbook/assets/image (1) (1).png>), puis renseignez les informations sur l'entreprise.&#x20;
 
 Grâce aux étapes précédentes, la majorité des informations seront déjà complétées. Il vous faudra néanmoins préciser **le régime de TVA de l'entreprise ainsi que l'exigibilité**.  &#x20;
 
-![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (3) (1).png>)![](<../.gitbook/assets/image (4) (1).png>)
 
 _Ces informations peuvent également être complétées depuis l'édition de votre dossier via le menu **Entreprises**, **Facturation électronique** et enfin **Cycle de e-reporting**._ &#x20;
 
@@ -105,6 +105,6 @@ Si l'entreprise sollicite un plan d'adressage spécifique, vous pouvez utiliser 
 
 Cliquez sur **Envoyer** pour finaliser l'enrôlement.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 {% endstep %}
 {% endstepper %}

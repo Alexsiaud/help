@@ -68,6 +68,7 @@
     * [Comment ajouter une entreprise](portail-de-services/cote-cabinet/comment-ajouter-une-entreprise.md)
     * [Comment ajouter un utilisateur cabinet](portail-de-services/cote-cabinet/comment-ajouter-un-utilisateur-cabinet.md)
     * [Comment ajouter un utilisateur client](portail-de-services/cote-cabinet/comment-ajouter-un-utilisateur-client.md)
+    * [Lancer la synchronisation des données avec Ingeneo](portail-de-services/cote-cabinet/lancer-la-synchronisation-des-donnees-avec-ingeneo.md)
   * [Côté Entreprise](portail-de-services/cote-entreprise/README.md)
     * [Accueil et Gestion des factures](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/README.md)
       * [Comprendre votre espace entreprise](portail-de-services/cote-entreprise/accueil-et-gestion-de-documents/acceder-a-votre-espace-entreprise-et-comprendre-son-interface.md)
