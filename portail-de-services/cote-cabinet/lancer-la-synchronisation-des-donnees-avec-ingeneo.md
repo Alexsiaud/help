@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Lancer la synchronisation des données avec Ingeneo
 
 {% stepper %}
