@@ -81,6 +81,7 @@
 * [Enrôlement Clients - Mandat FE](enrolement-clients-mandat-fe/README.md)
   * [Guide de démarrage — Mandat de Facturation Électronique (FE)](enrolement-clients-mandat-fe/guide-de-demarrage-mandat-de-facturation-electronique-fe.md)
   * [Procédure d'inscription](enrolement-clients-mandat-fe/procedure-dinscription.md)
+  * [Les vidéos](enrolement-clients-mandat-fe/les-videos.md)
 * [Portail de Services](portail-de-services/README.md)
   * [Côté Cabinet](portail-de-services/cote-cabinet/README.md)
     * [Guide de démarrage](portail-de-services/cote-cabinet/guide-de-demarrage.md)
