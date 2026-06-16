@@ -1,4 +1,8 @@
-# Enrôlement client
+---
+icon: memo-circle-check
+---
+
+# Procédure d'inscription
 
 {% hint style="info" %}
 Seul un **Administrateur** a la possibilité d'accéder à l'enrôlement des clients sur Ingeneo.&#x20;
