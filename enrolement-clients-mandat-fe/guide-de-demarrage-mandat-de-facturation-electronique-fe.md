@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Guide de démarrage — Mandat de Facturation Électronique (FE)
 
 Bienvenue dans ce guide de démarrage pour l'enrôlement de vos clients.
