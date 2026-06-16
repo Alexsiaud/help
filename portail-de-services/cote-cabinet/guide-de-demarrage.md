@@ -30,7 +30,7 @@ En la suivant avec attention, vous vous assurez que vos données sont synchronis
 {% step %}
 ### Définir l'offre client
 
-<a href="les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="comment-ajouter-un-utilisateur-client.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="comment-ajouter-une-entreprise.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Définir une offre client est une étape clé pour activer un dossier et démarrer son utilisation.&#x20;
 
