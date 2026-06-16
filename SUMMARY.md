@@ -105,6 +105,7 @@
   * [Effectuer un import en masse](administration/effectuer-un-import-en-masse.md)
   * [API tierces](administration/api-tierces.md)
   * [Enrôlement client](administration/enrolement-client.md)
+  * [Guide de démarrage — Mandat de Facturation Électronique (FE)](administration/guide-de-demarrage-mandat-de-facturation-electronique-fe.md)
 * [DIVERS](divers/README.md)
   * [Tableau de bord](divers/tableau-de-bord.md)
   * [Gestion de votre profil](divers/gestion-de-votre-profil.md)
