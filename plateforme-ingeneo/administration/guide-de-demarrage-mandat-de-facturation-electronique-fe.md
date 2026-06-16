@@ -18,7 +18,7 @@ Nous vous recommandons de suivre les étapes dans l’ordre pour réaliser cette
 {% step %}
 ### Création d'entreprise client sur INGENEO
 
-<a href="../portail-de-services/cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="../gestion-des-entreprises/creer-une-entreprise.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="../../portail-de-services/cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="../gestion-des-entreprises/creer-une-entreprise.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 La première étape est essentielle, un mandat FE ne peut être envoyé que pour une entreprise déjà présente sur la plateforme.
 
@@ -30,7 +30,7 @@ La création d'entreprise peut se faire de manière unitaire ou via un import en
 {% step %}
 ### Ajouter un signataire cabinet
 
-<a href="../portail-de-services/cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="enrolement-client.md#ajout-dun-signataire" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="../../portail-de-services/cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="../../enrolement-client.md#ajout-dun-signataire" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Avant tout enrôlement, un signataire cabinet doit être renseigné. Le "signataire cabinet" désigne ici la personne qui aura l'autorité légale pour envoyer et signer électroniquement les mandats. il est possible de créer plusieurs signataires.
 {% endstep %}
@@ -38,7 +38,7 @@ Avant tout enrôlement, un signataire cabinet doit être renseigné. Le "signata
 {% step %}
 ### Envoie de mandat aux clients
 
-<a href="../portail-de-services/cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="enrolement-client.md#signature-du-mandat" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="../../portail-de-services/cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="../../enrolement-client.md#signature-du-mandat" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Il existe trois options pour envoyer un mandat FE.
 
@@ -50,7 +50,7 @@ L'état d'avancement de la signature des mandats est visible depuis le tableau d
 {% step %}
 ### Signature mandat côté cabinet
 
-<a href="../portail-de-services/cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="enrolement-client.md#signature-cabinet" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="../../portail-de-services/cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="../../enrolement-client.md#signature-cabinet" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Depuis le tableau d'enrôlement PA, il est possible de signer un mandat unitaire ou d'appliquer des signatures multiples après le retour de mandat signé par les clients.
 

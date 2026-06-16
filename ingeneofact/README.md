@@ -10,7 +10,7 @@ icon: euro-sign
 
 {% hint style="success" %}
 * Une souscription est nécessaire à l'[utilisation de l'outil IngeneoFact](activer-ingeneofact.md)
-* Un utilisateur doit être [créé et rattaché à l'entreprise concernée](../administration/creer-des-utilisateurs.md)
+* Un utilisateur doit être [créé et rattaché à l'entreprise concernée](../plateforme-ingeneo/administration/creer-des-utilisateurs.md)
 * Les informations légales doivent être renseigné dans les informations générales de l'entreprise :
 {% endhint %}
 

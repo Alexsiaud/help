@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: false
+  actions:
+    visible: true
 tags:
   - ingeneo
 ---
@@ -27,11 +29,11 @@ Pour installer les connecteurs, se rendre dans le menu « Ressources ».&#x20;
 
 Cliquer sur « Connecteur MAC ».&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
 
 Sélectionner et installer l’application « INGENEO PushDoc » depuis l’Apple Store.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Saisir l’URL de la plateforme dans le champ « URL base de connexions au service Web ». L’information se trouve en haut dans la barre de navigation internet lorsque la plateforme est ouverte.&#x20;
 
@@ -43,26 +45,26 @@ Saisir « l’adresse mail » et « mot de passe » de connexion à la plateform
 
 Cliquer sur « Sauvegarder ».&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Sélectionner l’entreprise et le classeur dans lequel sera déposé le ou les documents.&#x20;
 
 Cliquer sur « Sélectionner des fichiers ».&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
 
 Choisir le « dossier » où se trouvent les documents sur le MAC, puis sélectionner le ou les  documents à envoyer.&#x20;
 
 Cliquer sur « Open ».&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Cliquer sur « Transférer ».
 
-<div align="left"><figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Le fichier se transfère vers l’entreprise et le classeur sélectionné.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
