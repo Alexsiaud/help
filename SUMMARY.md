@@ -79,7 +79,7 @@
     * [Raccourcis clavier](plateforme-ingeneo/divers/raccourcis-clavier.md)
     * [Export des écritures On Demand](plateforme-ingeneo/divers/export-des-ecritures-on-demand.md)
 * [Enrôlement Clients - Mandat FE](enrolement-clients-mandat-fe/README.md)
-  * [Guide de démarrage — Mandat de Facturation Électronique (FE)](enrolement-clients-mandat-fe/guide-de-demarrage-mandat-de-facturation-electronique-fe.md)
+  * [Guide de démarrage — Mandat](enrolement-clients-mandat-fe/guide-de-demarrage-mandat.md)
   * [Procédure d'inscription](enrolement-clients-mandat-fe/procedure-dinscription.md)
   * [Les vidéos](enrolement-clients-mandat-fe/les-videos.md)
 * [Portail de Services](portail-de-services/README.md)
