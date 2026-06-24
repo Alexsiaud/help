@@ -4,13 +4,13 @@ icon: book-bookmark
 
 # Guide de démarrage — Mandats
 
-Bienvenue dans ce guide de démarrage pour l'enrôlement de vos clients.
+Bienvenue dans ce guide de démarrage dédié à l'enrôlement de vos clients.
 
-Ce guide vous accompagne pour l'enrôlement, avec les étapes essentielles pour démarrer efficacement.&#x20;
+Ce guide vous accompagne pas à pas à travers les étapes essentielles pour démarrer efficacement.
 
-Vous y découvrirez les principales fonctionnalités, les bonnes pratiques et des conseils pour gagner rapidement en autonomie.&#x20;
+Vous y trouverez les principales fonctionnalités, les bonnes pratiques ainsi que des conseils pour gagner rapidement en autonomie.
 
-Nous vous recommandons de suivre les étapes dans l’ordre pour réaliser cette action.
+Nous vous recommandons de suivre les étapes dans l'ordre afin de mener cette action à bien.
 
 
 
@@ -20,11 +20,11 @@ Nous vous recommandons de suivre les étapes dans l’ordre pour réaliser cette
 
 <a href="../plateforme-ingeneo/gestion-des-entreprises/creer-une-entreprise.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
-La première étape est essentielle, un mandat FE ne peut être envoyé que pour une entreprise déjà présente sur la plateforme.
+Cette première étape est essentielle, un mandat FE ne peut être envoyé que pour une entreprise déjà présente sur la plateforme.
 
-&#x20;En la suivant avec attention, vous vous assurez d'avoir une liste de client à inviter à signer un mandat.
+En la suivant avec attention, vous vous assurez d'avoir une liste de client à inviter à signer un mandat.
 
-La création d'entreprise peut se faire de manière unitaire ou via un import en masse depuis INGENEO.&#x20;
+La création d'entreprise peut s'effectuer de manière unitaire ou via un import en masse depuis INGENEO.&#x20;
 {% endstep %}
 
 {% step %}

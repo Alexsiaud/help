@@ -2,25 +2,27 @@
 icon: memo-circle-check
 ---
 
-# Procédure d'inscription
+# Enrôlement unitaire
 
 {% hint style="info" %}
 Seul un **Administrateur** a la possibilité d'accéder à l'enrôlement des clients sur Ingeneo.&#x20;
 {% endhint %}
 
-Depuis le Menu **Paramètres**, accédez à **Mandats F.E.**&#x20;
+Depuis le Menu **Paramètres**, accédez à **Enrôlement PA.**&#x20;
 
-Avant de pouvoir procéder à l'enrôlement un signataire doit obligatoirement être renseigné.&#x20;
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+Avant de pouvoir procéder à l'enrôlement, un signataire cabinet doit obligatoirement être renseigné.&#x20;
 
 {% stepper %}
 {% step %}
-### Ajout d'un signataire
+### Ajout d'un signataire cabinet
 
 {% hint style="info" %}
 Les coordonnés d'un signataire ne peuvent plus être modifiés après sa création. Il sera possible de supprimer un signataire s'il n'a pas de mandat en cours de signature.&#x20;
 {% endhint %}
 
-Appuyez sur le bouton "+ Ajouter" puis renseignez l'ensemble des champs demandés
+Depuis le menu **Paramètres**, **Enrôlement PA** et **Signataire cabinet**, appuyez sur le bouton "+ Ajouter" puis renseignez l'ensemble des champs demandés
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -28,7 +30,7 @@ Appuyez sur le bouton "+ Ajouter" puis renseignez l'ensemble des champs demandé
 {% step %}
 ### Signature du mandat
 
-Depuis le menu Enrôlement plusieurs méthodes de d'envoi sont disponibles.&#x20;
+Plusieurs méthodes d'envoi sont disponibles.&#x20;
 
 
 
@@ -45,8 +47,6 @@ Vous avez la possibilité de visualiser le mandat généré.&#x20;
 
 
 2. **Envoi en masse**&#x20;
-
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Le bouton d'actions multiples ![](<../.gitbook/assets/image (3) (1) (1).png>) vous permet d'accéder à l'option "Envoi en masse signature mandat PA".&#x20;
 
@@ -70,7 +70,7 @@ Le bouton d'actions multiples vous permet également de déposer directement un 
 
 Accédez depuis le bouton d'actions multiples à l'ensemble des mandats restant à signer côté cabinet.&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 Il sera ici nécessaire de suivre la procédure de signature électronique YouSign.&#x20;
 {% endstep %}
