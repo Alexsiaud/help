@@ -80,7 +80,7 @@
     * [Export des écritures On Demand](plateforme-ingeneo/divers/export-des-ecritures-on-demand.md)
 * [Enrôlement & mandats](enrolement-and-mandats/README.md)
   * [Guide de démarrage — Mandats](enrolement-and-mandats/guide-de-demarrage-mandats.md)
-  * [Enrôlement unitaire](enrolement-and-mandats/enrolement-unitaire.md)
+  * [Enrôlement entreprises](enrolement-and-mandats/enrolement-entreprises.md)
   * [Les vidéos](enrolement-and-mandats/les-videos.md)
 * [Portail de Services](portail-de-services/README.md)
   * [Côté Cabinet](portail-de-services/cote-cabinet/README.md)

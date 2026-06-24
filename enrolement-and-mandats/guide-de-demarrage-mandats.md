@@ -30,7 +30,7 @@ La création d'entreprise peut s'effectuer de manière unitaire ou via un import
 {% step %}
 ### Ajouter un signataire cabinet
 
-<a href="enrolement-unitaire.md#ajout-dun-signataire" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="enrolement-entreprises.md#ajout-dun-signataire" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Avant tout enrôlement, un signataire cabinet doit être renseigné. Le "signataire cabinet" désigne ici la personne qui aura l'autorité légale pour envoyer et signer électroniquement les mandats. il est possible de créer plusieurs signataires.
 {% endstep %}
@@ -38,7 +38,7 @@ Avant tout enrôlement, un signataire cabinet doit être renseigné. Le "signata
 {% step %}
 ### Envoie de mandat aux clients
 
-<a href="enrolement-unitaire.md#signature-du-mandat" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="enrolement-entreprises.md#signature-du-mandat" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Il existe trois options pour envoyer un mandat FE.
 
@@ -50,7 +50,7 @@ L'état d'avancement de la signature des mandats est visible depuis le tableau d
 {% step %}
 ### Signature mandat côté cabinet
 
-<a href="enrolement-unitaire.md#signature-cabinet" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="enrolement-entreprises.md#signature-cabinet" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Depuis le tableau d'enrôlement PA, il est possible de signer un mandat unitaire ou d'appliquer des signatures multiples après le retour de mandat signé par les clients.
 
