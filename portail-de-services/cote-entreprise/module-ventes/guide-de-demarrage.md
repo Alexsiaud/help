@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Guide de démarrage
 
 Bienvenue dans ce guide de démarrage.
