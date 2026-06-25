@@ -18,7 +18,7 @@ Nous vous recommandons de suivre les étapes dans l’ordre pour exploiter plein
 {% step %}
 ### Paramétrages
 
-<a href="../../cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="parametrage-du-module-de-ventes.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="les-videos.md#parametrages" class="button secondary" data-icon="youtube">Vidéo</a><a href="parametrage-du-module-de-ventes.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 La première étape est essentielle pour assurer un démarrage optimal.&#x20;
 
@@ -30,7 +30,7 @@ En la suivant avec attention, vous vous assurez que vos données sont synchronis
 {% step %}
 ### Ajouter un produit
 
-<a href="../../cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="ajouter-un-produit.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="les-videos.md#creation-dun-article" class="button secondary" data-icon="youtube">Vidéo</a><a href="ajouter-un-produit.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Lors de cette action, vous sélectionnez ou créez le produit qui sera facturé au client, en précisant ses caractéristiques (nom, prix, quantité, TVA, etc.).
 
@@ -44,7 +44,7 @@ Un produit peut être créé à la volée depuis un devis ou une facture.
 {% step %}
 ### Créer un devis
 
-<a href="../../cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="creer-un-devis.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="les-videos.md#creation-dun-devis" class="button secondary" data-icon="youtube">Vidéo</a><a href="creer-un-devis.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Lors de cette action, vous construisez un document détaillant les produits ou services proposés, ainsi que leurs conditions tarifaires.
 
@@ -56,7 +56,7 @@ Il est donc important de vérifier l’ensemble des informations renseignées af
 {% step %}
 ### Créer une facture
 
-<a href="../../cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="creer-une-facture.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="les-videos.md#creation-dune-facture" class="button secondary" data-icon="youtube">Vidéo</a><a href="creer-une-facture.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Lors de cette action, vous générez un document reprenant les produits ou services facturés, ainsi que les informations financières associées.
 
@@ -68,7 +68,7 @@ Il est donc important de vérifier avec attention l’exactitude des information
 {% step %}
 ### Créer un abonnement
 
-<a href="../../cote-cabinet/les-videos/definir-un-administrateur-client.md" class="button secondary" data-icon="youtube">Vidéo</a><a href="creer-un-abonnement.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="creer-un-abonnement.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Lors de cette action, vous définissez les modalités de facturation automatiques, en précisant les produits ou services concernés, leur fréquence (mensuelle, annuelle, etc.) et les conditions associées.
 
