@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: false
+  actions:
+    visible: true
 tags:
   - ingeneo
 ---
@@ -92,6 +94,14 @@ L'application affiche l'historique des dépôts et vous avertit en cas d’actio
 {% hint style="warning" %}
 ⚠️ **Important :** Le traitement des actions doit être effectué depuis la plateforme web INGENEO, pas depuis l'application mobile.
 {% endhint %}
+
+***
+
+### <sup>**Saisir une note de frais depuis l'application mobile**</sup>&#x20;
+
+{% content-ref url="../processus-metiers/notes-de-frais/saisir-une-note-de-frais-sur-lapplication-mobile.md" %}
+[saisir-une-note-de-frais-sur-lapplication-mobile.md](../processus-metiers/notes-de-frais/saisir-une-note-de-frais-sur-lapplication-mobile.md)
+{% endcontent-ref %}
 
 ***
 

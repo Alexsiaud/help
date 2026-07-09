@@ -43,7 +43,6 @@
     * [Gestion des BNC - Rapprochement de facture](plateforme-ingeneo/banque/gestion-des-bnc-rapprochement-de-facture.md)
   * [APPLICATION MOBILE](plateforme-ingeneo/application-mobile/README.md)
     * [Application mobile](plateforme-ingeneo/application-mobile/application-mobile.md)
-    * [Saisir une note de frais sur l'application mobile](plateforme-ingeneo/application-mobile/saisir-une-note-de-frais-sur-lapplication-mobile.md)
   * [PROCESSUS METIERS](plateforme-ingeneo/processus-metiers/README.md)
     * [Workflow](plateforme-ingeneo/processus-metiers/workflow/README.md)
       * [Configurer les statuts de documents](plateforme-ingeneo/processus-metiers/workflow/configurer-les-statuts-de-documents.md)

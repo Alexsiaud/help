@@ -45,7 +45,7 @@ L'import EBICS (Electronic Banking Internet Communication Standard) permet d'int
 
 **Quand utiliser cette fonctionnalité :**
 
-* Quand [l’import POWENS](../../../banque/configuration-ebics/broken-reference/) (scrapping bancaire) ou [JeDéclare](../connecteurs-tiers/parametrage-jedeclare.md) n’est pas possible
+* Quand [l’import POWENS](https://github.com/Alexsiaud/help/blob/main/banque/configuration-ebics/broken-reference/README.md) (scrapping bancaire) ou [JeDéclare](../connecteurs-tiers/parametrage-jedeclare.md) n’est pas possible
 * Dépôt de mouvements multi-entreprises
 
 {% hint style="info" %}
