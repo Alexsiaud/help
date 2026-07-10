@@ -16,7 +16,7 @@ Seul un **Administrateur** a la possibilité d'accéder à l'enrôlement des cli
 
 Pour donner un droit d'accès à ce menu activez le droit suivant :&#x20;
 
-* "Autoriser l'administration de la Facturation Electronique" depuis un profil d'administration
+* "**Autoriser l'administration de la Facturation Electronique**" depuis un profil d'administration
 {% endhint %}
 
 ### Accès au menu&#x20;
@@ -43,7 +43,7 @@ Depuis le menu **Paramètres**, **Enrôlement PA** et **Signataire cabinet**, ap
 
 Depuis le menu **Informations et mandats** vous retrouverez l'ensemble des entreprises créés sur votre plateforme Ingeneo.&#x20;
 
-Plusieurs fonctionnalité sont ici mises à votre disposition :&#x20;
+Plusieurs fonctionnalités sont ici mises à votre disposition :&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -57,9 +57,9 @@ Une fois votre fichier importé, les demandes de signature seront envoyées prog
 * **Déposer mandats .zip** : Cette fonction vous permet de déposer en masse sur la plateforme vos mandats déjà signés.&#x20;
 * **Exporter** : Cette option vous permet d'exporter la liste des entreprises avec leur statut. Vous recevrez un e-mail contenant le lien de téléchargement.
 
-&#x20;
 
 
+#### &#x20;Comprendre les statuts
 
 En fonction de vos actions plusieurs statuts peuvent apparaitres vous informant de l'avancé de chacune des entreprises.&#x20;
 
@@ -70,11 +70,23 @@ Si une action doit être réalisée vous aurez la possibilité de l'effectuer un
 **Les différents statuts et actions à réalisées :**
 
 * **Informations manquantes** : dans ce cas, aucun mandat n'a alors été déposé sur la plateforme. Les informations peuvent être mise à jour en masse ou unitairement.&#x20;
+
+<div align="left"><figure><img src="../.gitbook/assets/image (41).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+En entrant dans l'édition, vous avez la possibilité de renseigner les informations concernant le régime de TVA de l'entreprise et les mailles d'adressage. Cette action est réalisable en masse en selectionnant plusieurs entreprises.&#x20;
+
+
+
 * **Aucun mandat** : Les informations ont bien été complétées mais aucun mandat n'est présent pour ce client.&#x20;
 
 Vous aurez alors deux possibilités, envoyer le mandat en signature électronique (procédure de signature par mail avec le partenaire Yousign) ou signer l'[attestation de disponibilité du mandat Client](#user-content-fn-1)[^1].&#x20;
 
+
+
 * **Mandat signé** : par dépôt manuel ou éléctronique le mandat a bien été réceptionné et signé.&#x20;
+
+
+
 * **A signer client** : le mandat est en attente de signature par le client. Vous avez la possibilité de relancer votre client unitaire ou en masse (renvoi d'un mail au client pour signature).
 
 
@@ -85,15 +97,25 @@ Vous aurez alors deux possibilités, envoyer le mandat en signature électroniqu
 
 Vous retrouverez dans cette section uniquement les entreprises avec un mandat signé.
 
-Trois statuts seront présent en fonction de l'avancé de l'enrôlement :&#x20;
+Quatre statuts seront présents en fonction de l'avancé de l'enrôlement :&#x20;
 
 * **Sans enrôlement** : vous avez la possibilité d'envoyer la demande d'enrôlement de manière unitaire ou en sélectionnant l'ensemble des entreprise avec ce statut pour effectuer cette action en masse.&#x20;
 
 <div align="left"><figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure></div>
 
+En cliquant sur la demande d'enrôlement, la demande nous est automatiquement adressé. Aucune autre action n'est nécessaire de votre côté.&#x20;
+
+
+
 * **Enrôlement en cours** : vous avez effectué la demande d'enrôlement. Si l'enrôlement est en cours vous avez la possibilité d'annulez l'enrôlement
 * ![](<../.gitbook/assets/image (39).png>)
+
+
+
 * **Enrôlement validé**&#x20;
+
+
+
 * **Enrôlement refusé**
 
 
