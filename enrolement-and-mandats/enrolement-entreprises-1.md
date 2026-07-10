@@ -70,11 +70,12 @@ Si une action doit être réalisée vous aurez la possibilité de l'effectuer un
 **Les différents statuts et actions à réalisées :**
 
 * **Informations manquantes** : dans ce cas, aucun mandat n'a alors été déposé sur la plateforme. Les informations peuvent être mise à jour en masse ou unitairement.&#x20;
-* **Aucun mandat** : Les informations ont bien été complétées mais aucun mandat n'est présent pour ce client. Vous aurez alors deux possibilités, envoyer le mandat en signature électronique (procédure de signature par mail avec le partenaire Yousign) ou signer l'[attestation de disponibilité du mandat Client](#user-content-fn-1)[^1].&#x20;
+* **Aucun mandat** : Les informations ont bien été complétées mais aucun mandat n'est présent pour ce client.&#x20;
+
+Vous aurez alors deux possibilités, envoyer le mandat en signature électronique (procédure de signature par mail avec le partenaire Yousign) ou signer l'[attestation de disponibilité du mandat Client](#user-content-fn-1)[^1].&#x20;
+
 * **Mandat signé** : par dépôt manuel ou éléctronique le mandat a bien été réceptionné et signé.&#x20;
-* **A signer client** : le mandat est en attente de signature par le client. Vous avez la possibilité de relancer votre client (renvoi d'un mail au client pour signature).
-
-
+* **A signer client** : le mandat est en attente de signature par le client. Vous avez la possibilité de relancer votre client unitaire ou en masse (renvoi d'un mail au client pour signature).
 
 
 {% endstep %}
@@ -82,30 +83,20 @@ Si une action doit être réalisée vous aurez la possibilité de l'effectuer un
 {% step %}
 ### Enrôlement&#x20;
 
-Une fois le mandat signé par les deux parties, il vous reste une dernière étape.&#x20;
+Vous retrouverez dans cette section uniquement les entreprises avec un mandat signé.
 
-Rendez-vous dans le menu **Paramètres** puis **Mandats F.E**. et retrouvez ici vos mandats  signés.
+Trois statuts seront présent en fonction de l'avancé de l'enrôlement :&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+* **Sans enrôlement** : vous avez la possibilité d'envoyer la demande d'enrôlement de manière unitaire ou en sélectionnant l'ensemble des entreprise avec ce statut pour effectuer cette action en masse.&#x20;
 
-Pour procéder à l'enrôlement, cliquez sur le bouton vert ![](<../.gitbook/assets/image (1) (1) (1).png>), puis renseignez les informations sur l'entreprise.&#x20;
+<div align="left"><figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure></div>
 
-Grâce aux étapes précédentes, la majorité des informations seront déjà complétées. Il vous faudra néanmoins préciser **le régime de TVA de l'entreprise ainsi que l'exigibilité**.  &#x20;
+* **Enrôlement en cours** : vous avez effectué la demande d'enrôlement. Si l'enrôlement est en cours vous avez la possibilité d'annulez l'enrôlement
+* ![](<../.gitbook/assets/image (39).png>)
+* **Enrôlement validé**&#x20;
+* **Enrôlement refusé**
 
-![](<../.gitbook/assets/image (3) (1).png>)![](<../.gitbook/assets/image (4) (1).png>)
 
-_Ces informations peuvent également être complétées depuis l'édition de votre dossier via le menu **Entreprises**, **Facturation électronique** et enfin **Cycle de e-reporting**._ &#x20;
-
-{% hint style="info" %}
-**Mailles d'adressage**
-
-Pour l'inscription sur l'annuaire du PPF d'une entreprise avec la PA SEPTEO, nous recommandons d'utiliser uniquement une **maille SIREN**.\
-Si l'entreprise sollicite un plan d'adressage spécifique, vous pouvez utiliser les mailles SUFFIXE.
-{% endhint %}
-
-Cliquez sur **Envoyer** pour finaliser l'enrôlement.
-
-![](<../.gitbook/assets/image (5) (1).png>)
 {% endstep %}
 {% endstepper %}
 
