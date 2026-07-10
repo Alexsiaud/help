@@ -6,7 +6,9 @@ icon: memo-circle-check
 # Enrôlement entreprises
 
 {% hint style="success" icon="burst-new" %}
-Votre menu dédié à l'enrôlement des entreprise change. Vous trouverez ci-dessous une documentation adaptée à ses nouvelles fonctionnalités.&#x20;
+Votre menu dédié à l'enrôlement des entreprise change.&#x20;
+
+Vous trouverez ci-dessous une documentation adaptée à ses nouvelles fonctionnalités.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -62,65 +64,19 @@ Une fois votre fichier importé, les demandes de signature seront envoyées prog
 En fonction de vos actions plusieurs statuts peuvent apparaitres vous informant de l'avancé de chacune des entreprises.&#x20;
 
 {% hint style="info" %}
-Si une action doit être réalisée vous aurez la possibilité de l'effectuer unitaire pour un dossier ou en masse grace à la selection multiple.&#x20;
+Si une action doit être réalisée vous aurez la possibilité de l'effectuer unitairement pour un dossier ou en masse grace à la sélection multiple.&#x20;
 {% endhint %}
 
-* **Informations manquantes** : dans ce cas, aucun mandat n'a alors été déposé sur la plateforme.&#x20;
-* **Aucun mandat** : Les informations ont bien été complétés mais aucun mandat n'est présent pour ce client.&#x20;
-* **Mandat signé** : par dépot manuel ou éléectronique le mandat a bien été réceptionné et signé.&#x20;
-* **A signer client** : le mandat est en attente de signature par le client.&#x20;
+**Les différents statuts et actions à réalisées :**
 
-Plusieurs méthodes d'envoi sont disponibles.&#x20;
-
-
-
-1. **Envoi unitaire**&#x20;
-
-Sélectionnez un dossier présent sur votre plateforme Ingeneo en passant simplement par le bouton "+ Ajouter".&#x20;
-
-Sélectionnez l'entreprise concernée, les coordonnés du signataire de l'entreprise et le signataire cabinet (si pluralité), puis envoyez en signature.&#x20;
-
-Votre mandat est automatiquement envoyé par mail au client. La procédure de signature électronique YouSign est très simple.&#x20;
-
-Vous avez la possibilité de visualiser le mandat généré.&#x20;
+* **Informations manquantes** : dans ce cas, aucun mandat n'a alors été déposé sur la plateforme. Les informations peuvent être mise à jour en masse ou unitairement.&#x20;
+* **Aucun mandat** : Les informations ont bien été complétées mais aucun mandat n'est présent pour ce client. Vous aurez alors deux possibilités, envoyer le mandat en signature électronique (procédure de signature par mail avec le partenaire Yousign) ou signer l'[attestation de disponibilité du mandat Client](#user-content-fn-1)[^1].&#x20;
+* **Mandat signé** : par dépôt manuel ou éléctronique le mandat a bien été réceptionné et signé.&#x20;
+* **A signer client** : le mandat est en attente de signature par le client. Vous avez la possibilité de relancer votre client (renvoi d'un mail au client pour signature).
 
 
 
-2. **Envoi en masse**&#x20;
 
-Le bouton d'actions multiples ![](<../.gitbook/assets/image (3) (1) (1).png>) vous permet d'accéder à l'option "Envoi en masse signature mandat PA".&#x20;
-
-Téléchargez ensuite le modèle au format Excel à compléter selon les règles d'import mentionnés. Vous pouvez ensuite importer vos données à partir du modèle précédemment téléchargé.&#x20;
-
-{% hint style="info" %}
-Une fois votre fichier importé, les demandes de signature seront envoyées progressivement par e-mail.
-{% endhint %}
-
-
-
-3. **Dépôt d'un mandat signé**&#x20;
-
-Le bouton d'actions multiples vous permet également de déposer directement un mandat déjà signé. Vous pourrez ainsi sélectionner depuis votre poste un fichier PDF à télécharger.&#x20;
-
-
-{% endstep %}
-
-{% step %}
-#### **Signature Cabinet**&#x20;
-
-Accédez depuis le bouton d'actions multiples à l'ensemble des mandats restant à signer côté cabinet.&#x20;
-
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
-
-Il sera ici nécessaire de suivre la procédure de signature électronique YouSign.&#x20;
-{% endstep %}
-
-{% step %}
-### Confirmation de signature
-
-Lors de la signature des deux parties, un tag apparait sur votre plateforme Ingeneo à droite du logo.
-
-![](<../.gitbook/assets/image (6) (1) (1).png>)
 {% endstep %}
 
 {% step %}
@@ -152,3 +108,9 @@ Cliquez sur **Envoyer** pour finaliser l'enrôlement.
 ![](<../.gitbook/assets/image (5) (1).png>)
 {% endstep %}
 {% endstepper %}
+
+[^1]: Cette option vous permets de confirmer la disponibilité du mandat, sans avoir à l'ajouter préalablement.&#x20;
+
+
+
+    Le statut de l'entreprise passera alors en "A signer cabinet" et votre client n'aura pas à signer le mandat.&#x20;
