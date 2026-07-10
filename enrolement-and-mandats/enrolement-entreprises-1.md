@@ -6,20 +6,20 @@ icon: memo-circle-check
 # Enrôlement entreprises
 
 {% hint style="success" icon="burst-new" %}
-Votre menu dédié à l'enrôlement des entreprise change.&#x20;
+Le menu dédié à l'enrôlement des entreprises évolue.
 
-Vous trouverez ci-dessous une documentation adaptée à ses nouvelles fonctionnalités.&#x20;
+Vous trouverez ci-dessous une documentation présentant les nouvelles fonctionnalités disponibles.
 {% endhint %}
 
 {% hint style="info" %}
-Seul un **Administrateur** a la possibilité d'accéder à l'enrôlement des clients sur Ingeneo.&#x20;
+Seuls les administrateurs peuvent accéder au menu **Enrôlement** sur Ingeneo.
 
-Pour donner un droit d'accès à ce menu activez le droit suivant :&#x20;
+Pour accorder l'accès à ce menu, activez le droit suivant depuis un profil d'administration :
 
-* "**Autoriser l'administration de la Facturation Electronique**" depuis un profil d'administration
+**« Autoriser l'administration de la Facturation Électronique »**
 {% endhint %}
 
-### Accès au menu&#x20;
+### Accéder au menu&#x20;
 
 Depuis le Menu **Paramètres** de votre plateforme Ingeneo, accédez à **Enrôlement PA.**&#x20;
 
@@ -31,9 +31,9 @@ Depuis le Menu **Paramètres** de votre plateforme Ingeneo, accédez à **Enrôl
 {% step %}
 ### Ajout d'un signataire cabinet
 
-Avant de pouvoir procéder à l'enrôlement, un signataire cabinet doit être renseigné.&#x20;
+Avant de procéder à l'enrôlement des entreprises, vous devez renseigner un signataire cabinet.
 
-Depuis le menu **Paramètres**, **Enrôlement PA** et **Signataire cabinet**, appuyez sur le bouton "+ Ajouter" puis renseignez l'ensemble des champs demandés
+Depuis le menu **Paramètres > Enrôlement PA > Signataire cabinet**, cliquez sur **+ Ajouter**, puis complétez l'ensemble des champs demandés.
 
 <div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -41,39 +41,39 @@ Depuis le menu **Paramètres**, **Enrôlement PA** et **Signataire cabinet**, ap
 {% step %}
 ### Gestion des mandats&#x20;
 
-Depuis le menu **Informations et mandats** vous retrouverez l'ensemble des entreprises créés sur votre plateforme Ingeneo.&#x20;
+Depuis le menu **Informations et mandats**, vous retrouvez l'ensemble des entreprises créées sur votre plateforme Ingeneo.
 
-Plusieurs fonctionnalités sont ici mises à votre disposition :&#x20;
+Plusieurs fonctionnalités sont mises à votre disposition :
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 * **Signature multiple cabinet** :  Cette fonction vous permet d'appliquer une seule signature sur tous les mandats transmis à vos clients pour lesquels vous êtes également signataire cabinet
-* **Mises à jour des informations manquantes** : Cette fonction vous permet de télécharger un modèle d'import à complété avec les informations de vos dossiers (Siren, informations personnelles, adresse postale...). Lors de l'import de ce fichier les entreprises ayant le statut "informations manquantes" se mettrons alors automatiquement à jour.&#x20;
+* **Mises à jour des informations manquantes** : téléchargez un modèle de fichier d'import à compléter avec les informations de vos dossiers (SIREN, informations personnelles, adresse postale, etc.). Après l'import du fichier, les entreprises ayant le statut **Informations manquantes** seront automatiquement mises à jour.
 
 {% hint style="info" %}
 Une fois votre fichier importé, les demandes de signature seront envoyées progressivement par e-mail.
 {% endhint %}
 
-* **Déposer mandats .zip** : Cette fonction vous permet de déposer en masse sur la plateforme vos mandats déjà signés.&#x20;
-* **Exporter** : Cette option vous permet d'exporter la liste des entreprises avec leur statut. Vous recevrez un e-mail contenant le lien de téléchargement.
+* **Déposer mandats .zip** : déposez en une seule opération les mandats déjà signés dans un fichier au format ZIP.
+* **Exporter** : exportez la liste des entreprises ainsi que leur statut. Vous recevrez un e-mail contenant un lien de téléchargement.
 
 
 
 #### &#x20;Comprendre les statuts
 
-En fonction de vos actions plusieurs statuts peuvent apparaitres vous informant de l'avancé de chacune des entreprises.&#x20;
+En fonction des actions réalisées, différents statuts peuvent apparaître afin de vous informer de l'avancement de chaque entreprise.&#x20;
 
 {% hint style="info" %}
-Si une action doit être réalisée vous aurez la possibilité de l'effectuer unitairement pour un dossier ou en masse grace à la sélection multiple.&#x20;
+Lorsqu'une action est requise, vous pouvez la réaliser individuellement sur un dossier ou en masse grâce à la sélection multiple.&#x20;
 {% endhint %}
 
 **Les différents statuts et actions à réalisées :**
 
-* **Informations manquantes** : dans ce cas, aucun mandat n'a alors été déposé sur la plateforme. Les informations peuvent être mise à jour en masse ou unitairement.&#x20;
+* **Informations manquantes** : aucun mandat n'a alors été déposé sur la plateforme. Les informations peuvent être mises à jour individuellement ou en masse.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (41).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-En entrant dans l'édition, vous avez la possibilité de renseigner les informations concernant le régime de TVA de l'entreprise et les mailles d'adressage. Cette action est réalisable en masse en selectionnant plusieurs entreprises.&#x20;
+En entrant dans l'édition, vous avez la possibilité de renseigner les informations concernant le régime de TVA de l'entreprise et les mailles d'adressage. Cette action peut également être réalisée en masse en sélectionnant plusieurs entreprises.
 
 
 
