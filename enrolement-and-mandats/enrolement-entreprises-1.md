@@ -11,6 +11,14 @@ Le menu dédié à l'enrôlement des entreprises évolue.
 Vous trouverez ci-dessous une documentation présentant les nouvelles fonctionnalités disponibles.
 {% endhint %}
 
+***
+
+### Accéder au menu&#x20;
+
+Depuis le Menu **Paramètres** de votre plateforme Ingeneo, accédez à **Enrôlement PA.**&#x20;
+
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (38).png" alt="" width="352"><figcaption></figcaption></figure></div>
+
 {% hint style="info" %}
 Seuls les administrateurs peuvent accéder au menu **Enrôlement** sur Ingeneo.
 
@@ -19,13 +27,7 @@ Pour accorder l'accès à ce menu, activez le droit suivant depuis un profil d'a
 **« Autoriser l'administration de la Facturation Électronique »**
 {% endhint %}
 
-### Accéder au menu&#x20;
-
-Depuis le Menu **Paramètres** de votre plateforme Ingeneo, accédez à **Enrôlement PA.**&#x20;
-
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (38).png" alt="" width="352"><figcaption></figcaption></figure></div>
-
-
+***
 
 {% stepper %}
 {% step %}
@@ -40,6 +42,8 @@ Depuis le menu **Paramètres > Enrôlement PA > Signataire cabinet**, cliquez su
 
 {% step %}
 ### Gestion des mandats&#x20;
+
+#### Comprendre les fonctionnalités du module
 
 Depuis le menu **Informations et mandats**, vous retrouvez l'ensemble des entreprises créées sur votre plateforme Ingeneo.
 
@@ -77,17 +81,21 @@ En entrant dans l'édition, vous avez la possibilité de renseigner les informat
 
 
 
-* **Aucun mandat** : Les informations ont bien été complétées mais aucun mandat n'est présent pour ce client.&#x20;
+* **Aucun mandat** : Les informations de l'entreprise sont complètes, mais aucun mandat n'est encore disponible.
 
-Vous aurez alors deux possibilités, envoyer le mandat en signature électronique (procédure de signature par mail avec le partenaire Yousign) ou signer l'[attestation de disponibilité du mandat Client](#user-content-fn-1)[^1].&#x20;
+Deux possibilités s'offrent alors à vous :
+
+\- Envoyer le mandat en signature électronique (procédure de signature par e-mail via notre partenaire Yousign) ou le déposer manuellement  ;&#x20;
+
+\- Signer l'[attestation de disponibilité du mandat Client](#user-content-fn-1)[^1].&#x20;
 
 
 
-* **Mandat signé** : par dépôt manuel ou éléctronique le mandat a bien été réceptionné et signé.&#x20;
+* **Mandat signé** : le mandat a bien été réceptionné et signé, qu'il ait été déposé manuellement ou signé électroniquement.
 
 
 
-* **A signer client** : le mandat est en attente de signature par le client. Vous avez la possibilité de relancer votre client unitaire ou en masse (renvoi d'un mail au client pour signature).
+* **A signer client** : le mandat est en attente de signature par le client. Vous pouvez relancer un client individuellement ou plusieurs clients en une seule fois afin de leur renvoyer l'e-mail de signature.
 
 
 {% endstep %}
@@ -95,28 +103,37 @@ Vous aurez alors deux possibilités, envoyer le mandat en signature électroniqu
 {% step %}
 ### Enrôlement&#x20;
 
-Vous retrouverez dans cette section uniquement les entreprises avec un mandat signé.
+Cette section affiche uniquement les entreprises disposant d'un mandat signé.
 
-Quatre statuts seront présents en fonction de l'avancé de l'enrôlement :&#x20;
+Quatre statuts sont disponibles en fonction de l'avancement de l'enrôlement.
 
-* **Sans enrôlement** : vous avez la possibilité d'envoyer la demande d'enrôlement de manière unitaire ou en sélectionnant l'ensemble des entreprise avec ce statut pour effectuer cette action en masse.&#x20;
+
+
+* #### **Sans enrôlement**&#x20;
+
+Vous pouvez envoyer une demande d'enrôlement de manière unitaire ou sélectionner plusieurs entreprises afin d'effectuer cette action en masse.
+
+Lorsque vous cliquez sur **Demande d'enrôlement**, celle-ci nous est automatiquement transmise. Aucune autre action n'est nécessaire de votre côté.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure></div>
 
-En cliquant sur la demande d'enrôlement, la demande nous est automatiquement adressé. Aucune autre action n'est nécessaire de votre côté.&#x20;
+
+
+* #### **Enrôlement en cours**&#x20;
+
+La demande d'enrôlement a bien été envoyée et son traitement est en cours.
+
+Tant que l'enrôlement n'est pas finalisé, vous avez la possibilité d'annuler la demande.
 
 
 
-* **Enrôlement en cours** : vous avez effectué la demande d'enrôlement. Si l'enrôlement est en cours vous avez la possibilité d'annulez l'enrôlement
-* ![](<../.gitbook/assets/image (39).png>)
+* #### **Enrôlement validé**&#x20;
+
+La demande d'enrôlement a été traitée avec succès. L'entreprise est désormais enrôlée.
 
 
 
-* **Enrôlement validé**&#x20;
-
-
-
-* **Enrôlement refusé**
+* #### **Enrôlement refusé**
 
 
 {% endstep %}
