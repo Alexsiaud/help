@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: false
+  actions:
+    visible: true
 tags:
   - portail-de-service
 ---
@@ -38,7 +40,7 @@ Depuis le menu Paramètres du module de ventes, vous avez la possibilité de mod
 
 Vous pouvez créer une **annexe** depuis le menu Annexes et la rattacher par défaut à vos devis, factures et avoirs.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

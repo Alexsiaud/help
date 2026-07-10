@@ -8,11 +8,11 @@ Afin de récupérer les dossiers, sites et utilisateurs déjà créés sur votre
 
 Vous aurez ici la possibilité de lancer la synchronisation des données.&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 La plateforme vous alertera sur le nombre de dossiers, sites et utilisateurs restant à synchroniser.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Une fois la synchronisation validée, celle-ci prendra quelques secondes et vous serez alerté par mail lors de sa finalisation.&#x20;
 

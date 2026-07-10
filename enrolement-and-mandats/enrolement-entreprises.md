@@ -2,7 +2,7 @@
 icon: memo-circle-check
 ---
 
-# Enrôlement unitaire
+# Enrôlement entreprises
 
 {% hint style="info" %}
 Seul un **Administrateur** a la possibilité d'accéder à l'enrôlement des clients sur Ingeneo.&#x20;
@@ -92,7 +92,7 @@ Rendez-vous dans le menu **Paramètres** puis **Mandats F.E**. et retrouvez ici 
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-Pour procéder à l'enrôlement, cliquez sur le bouton vert ![](<../.gitbook/assets/image (1) (1).png>), puis renseignez les informations sur l'entreprise.&#x20;
+Pour procéder à l'enrôlement, cliquez sur le bouton vert ![](<../.gitbook/assets/image (1) (1) (1).png>), puis renseignez les informations sur l'entreprise.&#x20;
 
 Grâce aux étapes précédentes, la majorité des informations seront déjà complétées. Il vous faudra néanmoins préciser **le régime de TVA de l'entreprise ainsi que l'exigibilité**.  &#x20;
 
