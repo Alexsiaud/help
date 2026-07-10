@@ -80,8 +80,6 @@
 * [Enrôlement & mandats](enrolement-and-mandats/README.md)
   * [Guide de démarrage — Mandats](enrolement-and-mandats/guide-de-demarrage-mandats.md)
   * [Enrôlement entreprises](enrolement-and-mandats/enrolement-entreprises.md)
-  * [Enrôlement entreprises](enrolement-and-mandats/enrolement-entreprises-1.md)
-  * [Les vidéos](enrolement-and-mandats/les-videos.md)
 * [Portail de Services](portail-de-services/README.md)
   * [Côté Cabinet](portail-de-services/cote-cabinet/README.md)
     * [Guide de démarrage](portail-de-services/cote-cabinet/guide-de-demarrage.md)

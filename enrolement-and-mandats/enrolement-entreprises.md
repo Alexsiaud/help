@@ -4,111 +4,142 @@ icon: memo-circle-check
 
 # Enrôlement entreprises
 
-{% hint style="info" %}
-Seul un **Administrateur** a la possibilité d'accéder à l'enrôlement des clients sur Ingeneo.&#x20;
+{% hint style="success" icon="burst-new" %}
+Le menu dédié à l'enrôlement des entreprises évolue.
+
+Vous trouverez ci-dessous une documentation présentant les nouvelles fonctionnalités disponibles.
 {% endhint %}
 
-Depuis le Menu **Paramètres**, accédez à **Enrôlement PA.**&#x20;
+***
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+### Accéder au menu&#x20;
 
-Avant de pouvoir procéder à l'enrôlement, un signataire cabinet doit obligatoirement être renseigné.&#x20;
+Depuis le Menu **Paramètres** de votre plateforme Ingeneo, accédez à **Enrôlement PA.**&#x20;
+
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (38).png" alt="" width="352"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+Seuls les administrateurs peuvent accéder au menu **Enrôlement** sur Ingeneo.
+
+Pour accorder l'accès à ce menu, activez le droit suivant depuis un profil d'administration :
+
+**« Autoriser l'administration de la Facturation Électronique »**
+{% endhint %}
+
+***
 
 {% stepper %}
 {% step %}
 ### Ajout d'un signataire cabinet
 
-{% hint style="info" %}
-Les coordonnés d'un signataire ne peuvent plus être modifiés après sa création. Il sera possible de supprimer un signataire s'il n'a pas de mandat en cours de signature.&#x20;
-{% endhint %}
+Avant de procéder à l'enrôlement des entreprises, vous devez renseigner un signataire cabinet.
 
-Depuis le menu **Paramètres**, **Enrôlement PA** et **Signataire cabinet**, appuyez sur le bouton "+ Ajouter" puis renseignez l'ensemble des champs demandés
+Depuis le menu **Paramètres > Enrôlement PA > Signataire cabinet**, cliquez sur **+ Ajouter**, puis complétez l'ensemble des champs demandés.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Signature du mandat
+### Gestion des mandats&#x20;
 
-Plusieurs méthodes d'envoi sont disponibles.&#x20;
+#### Comprendre les fonctionnalités du module
 
+Depuis le menu **Informations et mandats**, vous retrouvez l'ensemble des entreprises créées sur votre plateforme Ingeneo.
 
+Plusieurs fonctionnalités sont mises à votre disposition :
 
-1. **Envoi unitaire**&#x20;
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
-Sélectionnez un dossier présent sur votre plateforme Ingeneo en passant simplement par le bouton "+ Ajouter".&#x20;
-
-Sélectionnez l'entreprise concernée, les coordonnés du signataire de l'entreprise et le signataire cabinet (si pluralité), puis envoyez en signature.&#x20;
-
-Votre mandat est automatiquement envoyé par mail au client. La procédure de signature électronique YouSign est très simple.&#x20;
-
-Vous avez la possibilité de visualiser le mandat généré.&#x20;
-
-
-
-2. **Envoi en masse**&#x20;
-
-Le bouton d'actions multiples ![](<../.gitbook/assets/image (3) (1) (1).png>) vous permet d'accéder à l'option "Envoi en masse signature mandat PA".&#x20;
-
-Téléchargez ensuite le modèle au format Excel à compléter selon les règles d'import mentionnés. Vous pouvez ensuite importer vos données à partir du modèle précédemment téléchargé.&#x20;
+* **Signature multiple cabinet** :  Cette fonction vous permet d'appliquer une seule signature sur tous les mandats transmis à vos clients pour lesquels vous êtes également signataire cabinet
+* **Mises à jour des informations manquantes** : téléchargez un modèle de fichier d'import à compléter avec les informations de vos dossiers (SIREN, informations personnelles, adresse postale, etc.). Après l'import du fichier, les entreprises ayant le statut **Informations manquantes** seront automatiquement mises à jour.
 
 {% hint style="info" %}
 Une fois votre fichier importé, les demandes de signature seront envoyées progressivement par e-mail.
 {% endhint %}
 
+* **Déposer mandats .zip** : déposez en une seule opération les mandats déjà signés dans un fichier au format ZIP.
+* **Exporter** : exportez la liste des entreprises ainsi que leur statut. Vous recevrez un e-mail contenant un lien de téléchargement.
 
 
-3. **Dépôt d'un mandat signé**&#x20;
 
-Le bouton d'actions multiples vous permet également de déposer directement un mandat déjà signé. Vous pourrez ainsi sélectionner depuis votre poste un fichier PDF à télécharger.&#x20;
+#### &#x20;Comprendre les statuts
+
+En fonction des actions réalisées, différents statuts peuvent apparaître afin de vous informer de l'avancement de chaque entreprise.&#x20;
+
+{% hint style="info" %}
+Lorsqu'une action est requise, vous pouvez la réaliser individuellement sur un dossier ou en masse grâce à la sélection multiple.&#x20;
+{% endhint %}
+
+**Les différents statuts et actions à réalisées :**
+
+* **Informations manquantes** : aucun mandat n'a alors été déposé sur la plateforme. Les informations peuvent être mises à jour individuellement ou en masse.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (41).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+En entrant dans l'édition, vous avez la possibilité de renseigner les informations concernant le régime de TVA de l'entreprise et les mailles d'adressage. Cette action peut également être réalisée en masse en sélectionnant plusieurs entreprises.
 
 
-{% endstep %}
 
-{% step %}
-#### **Signature Cabinet**&#x20;
+* **Aucun mandat** : Les informations de l'entreprise sont complètes, mais aucun mandat n'est encore disponible.
 
-Accédez depuis le bouton d'actions multiples à l'ensemble des mandats restant à signer côté cabinet.&#x20;
+Deux possibilités s'offrent alors à vous :
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+\- Envoyer le mandat en signature électronique (procédure de signature par e-mail via notre partenaire Yousign) ou le déposer manuellement  ;&#x20;
 
-Il sera ici nécessaire de suivre la procédure de signature électronique YouSign.&#x20;
-{% endstep %}
+\- Signer l'[attestation de disponibilité du mandat Client](#user-content-fn-1)[^1].&#x20;
 
-{% step %}
-### Confirmation de signature
 
-Lors de la signature des deux parties, un tag apparait sur votre plateforme Ingeneo à droite du logo.
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+* **Mandat signé** : le mandat a bien été réceptionné et signé, qu'il ait été déposé manuellement ou signé électroniquement.
+
+
+
+* **A signer client** : le mandat est en attente de signature par le client. Vous pouvez relancer un client individuellement ou plusieurs clients en une seule fois afin de leur renvoyer l'e-mail de signature.
+
+
 {% endstep %}
 
 {% step %}
 ### Enrôlement&#x20;
 
-Une fois le mandat signé par les deux parties, il vous reste une dernière étape.&#x20;
+Cette section affiche uniquement les entreprises disposant d'un mandat signé.
 
-Rendez-vous dans le menu **Paramètres** puis **Mandats F.E**. et retrouvez ici vos mandats  signés.
+Quatre statuts sont disponibles en fonction de l'avancement de l'enrôlement.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-Pour procéder à l'enrôlement, cliquez sur le bouton vert ![](<../.gitbook/assets/image (1) (1) (1).png>), puis renseignez les informations sur l'entreprise.&#x20;
 
-Grâce aux étapes précédentes, la majorité des informations seront déjà complétées. Il vous faudra néanmoins préciser **le régime de TVA de l'entreprise ainsi que l'exigibilité**.  &#x20;
+* #### **Sans enrôlement**&#x20;
 
-![](<../.gitbook/assets/image (3) (1).png>)![](<../.gitbook/assets/image (4) (1).png>)
+Vous pouvez envoyer une demande d'enrôlement de manière unitaire ou sélectionner plusieurs entreprises afin d'effectuer cette action en masse.
 
-_Ces informations peuvent également être complétées depuis l'édition de votre dossier via le menu **Entreprises**, **Facturation électronique** et enfin **Cycle de e-reporting**._ &#x20;
+Lorsque vous cliquez sur **Demande d'enrôlement**, celle-ci nous est automatiquement transmise. Aucune autre action n'est nécessaire de votre côté.
 
-{% hint style="info" %}
-**Mailles d'adressage**
+<div align="left"><figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure></div>
 
-Pour l'inscription sur l'annuaire du PPF d'une entreprise avec la PA SEPTEO, nous recommandons d'utiliser uniquement une **maille SIREN**.\
-Si l'entreprise sollicite un plan d'adressage spécifique, vous pouvez utiliser les mailles SUFFIXE.
-{% endhint %}
 
-Cliquez sur **Envoyer** pour finaliser l'enrôlement.
 
-![](<../.gitbook/assets/image (5) (1).png>)
+* #### **Enrôlement en cours**&#x20;
+
+La demande d'enrôlement a bien été envoyée et son traitement est en cours.
+
+Tant que l'enrôlement n'est pas finalisé, vous avez la possibilité d'annuler la demande.
+
+
+
+* #### **Enrôlement validé**&#x20;
+
+La demande d'enrôlement a été traitée avec succès. L'entreprise est désormais enrôlée.
+
+
+
+* #### **Enrôlement refusé**
+
+
 {% endstep %}
 {% endstepper %}
+
+[^1]: Cette option vous permets de confirmer la disponibilité du mandat, sans avoir à l'ajouter préalablement.&#x20;
+
+
+
+    Le statut de l'entreprise passera alors en "A signer cabinet" et votre client n'aura pas à signer le mandat.&#x20;
