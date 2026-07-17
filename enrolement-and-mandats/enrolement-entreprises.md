@@ -82,11 +82,15 @@ En entrant dans l'édition, vous avez la possibilité de renseigner les informat
 
 * **Aucun mandat** : Les informations de l'entreprise sont complètes, mais aucun mandat n'est encore disponible.
 
-Deux possibilités s'offrent alors à vous :
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
+Trois possibilités s'offrent à vous :
 
 \- Envoyer le mandat en signature électronique (procédure de signature par e-mail via notre partenaire Yousign) ou le déposer manuellement  ;&#x20;
 
 \- Signer l'[attestation de disponibilité du mandat Client](#user-content-fn-1)[^1].&#x20;
+
+\- Déposer unitairement un mandat signé
 
 
 
