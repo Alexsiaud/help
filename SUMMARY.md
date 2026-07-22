@@ -116,4 +116,4 @@
   * [Paramétrage](ingeneofact/parametrage.md)
 * [FAQ](faq.md)
 * [Release notes](release-notes/README.md)
-  * [07/2026](release-notes/07-2026.md)
+  * [Juillet - 2026](release-notes/juillet-2026.md)
