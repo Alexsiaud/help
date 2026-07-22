@@ -115,3 +115,5 @@
   * [Produits et contacts](ingeneofact/produits-et-contacts.md)
   * [Paramétrage](ingeneofact/parametrage.md)
 * [FAQ](faq.md)
+* [Release notes](release-notes/README.md)
+  * [07/2026](release-notes/07-2026.md)
