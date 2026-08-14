@@ -117,3 +117,4 @@
 * [FAQ](faq.md)
 * [Release notes](release-notes/README.md)
   * [Juillet - 2026](release-notes/juillet-2026.md)
+  * [Aout - 2026](release-notes/aout-2026.md)
