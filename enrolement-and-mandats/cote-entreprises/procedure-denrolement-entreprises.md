@@ -10,6 +10,8 @@ Depuis Ingeneo, cliquez sur le menu **Paramètres** puis **Enrôlement PA**. Vou
 
 Identifier l'entreprise concernée, puis cliquez sur le bouton d'action pour lancer l'enrôlement.&#x20;
 
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (45).png" alt="" width="456"><figcaption></figcaption></figure></div>
+
 {% hint style="info" %}
 **Avant de lancer un enrôlement**
 
@@ -20,8 +22,6 @@ Identifier l'entreprise concernée, puis cliquez sur le bouton d'action pour lan
 
 [Voir quide de démarrage ](guide-de-demarrage.md)
 {% endhint %}
-
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (45).png" alt="" width="456"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
