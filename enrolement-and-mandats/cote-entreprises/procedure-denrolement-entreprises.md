@@ -20,7 +20,7 @@ Identifier l'entreprise concernée, puis cliquez sur le bouton d'action pour lan
 * Les adresses électroniques à enregistrer sur l'annuaire doivent être renseignés lors de l'enrôlement.
 * En cas de société détenue par une autre société, les KBIS de toute la chaîne sont nécessaires jusqu'au représentant légal personne physique.
 
-[Voir quide de démarrage ](guide-de-demarrage.md)
+[Voir guide de démarrage](guide-de-demarrage.md)
 {% endhint %}
 
 {% stepper %}
