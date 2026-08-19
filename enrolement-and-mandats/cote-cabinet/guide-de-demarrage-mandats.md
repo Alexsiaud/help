@@ -18,7 +18,7 @@ Nous vous recommandons de suivre les étapes dans l'ordre afin de mener cette ac
 {% step %}
 ### Création d'entreprise client sur INGENEO
 
-<a href="../plateforme-ingeneo/gestion-des-entreprises/creer-une-entreprise.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="../../plateforme-ingeneo/gestion-des-entreprises/creer-une-entreprise.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Cette première étape est essentielle, un mandat FE ne peut être envoyé que pour une entreprise déjà présente sur la plateforme.
 

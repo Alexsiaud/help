@@ -16,7 +16,7 @@ Vous trouverez ci-dessous une documentation présentant les nouvelles fonctionna
 
 Depuis le Menu **Paramètres** de votre plateforme Ingeneo, accédez à **Enrôlement PA.**&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (38).png" alt="" width="352"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (38).png" alt="" width="352"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Seuls les administrateurs peuvent accéder au menu **Enrôlement** sur Ingeneo.
@@ -36,7 +36,7 @@ Avant de procéder à l'enrôlement des entreprises, vous devez renseigner un si
 
 Depuis le menu **Paramètres > Enrôlement PA > Signataire cabinet**, cliquez sur **+ Ajouter**, puis complétez l'ensemble des champs demandés.
 
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -48,7 +48,7 @@ Depuis le menu **Informations et mandats**, vous retrouvez l'ensemble des entrep
 
 Plusieurs fonctionnalités sont mises à votre disposition :
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 * **Signature multiple cabinet** :  Cette fonction vous permet d'appliquer une seule signature sur tous les mandats transmis à vos clients pour lesquels vous êtes également signataire cabinet
 * **Mises à jour des informations manquantes** : téléchargez un modèle de fichier d'import à compléter avec les informations de vos dossiers (SIREN, informations personnelles, adresse postale, etc.). Après l'import du fichier, les entreprises ayant le statut **Informations manquantes** seront automatiquement mises à jour.
@@ -74,7 +74,7 @@ Lorsqu'une action est requise, vous pouvez la réaliser individuellement sur un 
 
 * **Informations manquantes** : aucun mandat n'a alors été déposé sur la plateforme. Les informations peuvent être mises à jour individuellement ou en masse.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (41).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (41).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 En entrant dans l'édition, vous avez la possibilité de renseigner les informations concernant le régime de TVA de l'entreprise et les mailles d'adressage. Cette action peut également être réalisée en masse en sélectionnant plusieurs entreprises.
 
@@ -82,7 +82,7 @@ En entrant dans l'édition, vous avez la possibilité de renseigner les informat
 
 * **Aucun mandat** : Les informations de l'entreprise sont complètes, mais aucun mandat n'est encore disponible.
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 Trois possibilités s'offrent à vous :
 
@@ -118,7 +118,7 @@ Vous pouvez envoyer une demande d'enrôlement de manière unitaire ou sélection
 
 Lorsque vous cliquez sur **Demande d'enrôlement**, celle-ci nous est automatiquement transmise. Aucune autre action n'est nécessaire de votre côté.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
