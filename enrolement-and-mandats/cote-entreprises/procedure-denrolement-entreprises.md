@@ -4,8 +4,6 @@ description: Etapes pour inscrire Septeo comme PA.
 
 # Procédure d'enrôlement - Entreprises
 
-### Upload du KBIS et vérification des informations
-
 Depuis Ingeneo, cliquez sur le menu **Paramètres** puis **Enrôlement PA**. Vous pouvez également y accéder depuis le menu **"Mandat et enrôlement Plateforme Agréee (PA)** disponible sur la barre d'en-tête.&#x20;
 
 Identifier l'entreprise concernée, puis cliquez sur le bouton d'action pour lancer l'enrôlement.&#x20;

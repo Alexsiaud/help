@@ -31,7 +31,7 @@ Avant de démarrer le parcours, il est recommandé de réunir les éléments sui
 {% hint style="info" %}
 **Durée de validité**&#x20;
 
-L'assistant a une durée de validité d'une heure.
+Une fois l'enrôlement lancé, l'assistant a une durée de validité d'une heure. Il est donc nécessaire de réunir, en amont, ces informations.
 {% endhint %}
 
 {% hint style="warning" %}
