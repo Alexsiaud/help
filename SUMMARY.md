@@ -79,7 +79,7 @@
     * [Raccourcis clavier](plateforme-ingeneo/divers/raccourcis-clavier.md)
     * [Export des écritures On Demand](plateforme-ingeneo/divers/export-des-ecritures-on-demand.md)
 * [Enrôlement & mandats](enrolement-and-mandats/README.md)
-  * [Copy of Guide de démarrage — Mandats & enrôlement en masse](enrolement-and-mandats/copy-of-guide-de-demarrage-mandats-and-enrolement-en-masse.md)
+  * [Guide de démarrage — Mandats & enrôlement en masse](enrolement-and-mandats/guide-de-demarrage-mandats-and-enrolement-en-masse.md)
   * [Côté cabinet](enrolement-and-mandats/cote-cabinet/README.md)
     * [Guide de démarrage — Mandats](enrolement-and-mandats/cote-cabinet/guide-de-demarrage-mandats.md)
     * [Procédure d'enrôlement - Cabinet d'expertise comptable](enrolement-and-mandats/cote-cabinet/procedure-denrolement-cabinet-dexpertise-comptable.md)
