@@ -2,7 +2,7 @@
 icon: book-bookmark
 ---
 
-# Copy of Guide de démarrage — Mandats & enrôlement en masse
+# Guide de démarrage — Mandats & enrôlement en masse
 
 Bienvenue dans ce guide de démarrage dédié à l'enrôlement de vos clients.
 
@@ -18,7 +18,7 @@ Nous vous recommandons de suivre les étapes dans l'ordre afin de mener cette ac
 {% step %}
 ### Création d'entreprise en masse sur INGENEO
 
-<a href="../plateforme-ingeneo/gestion-des-entreprises/creer-une-entreprise.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="../ingeneo-pre-compta/gestion-des-entreprises/creer-une-entreprise.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Cette première étape est essentielle, un mandat FE ne peut être envoyé que pour une entreprise déjà présente sur la plateforme.
 
